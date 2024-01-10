@@ -1,0 +1,836 @@
+,rel,query,author_name
+10837,5,Statistical Learning,Soeren Sonnenburg
+38947,1,Health Informatics,Andrew Wei Xu
+31567,2,Distributed Systems,Iris Braun
+38407,2,Computational Finance,Maria do Rosário Grossinho
+35668,2,3D Printing,Yang Qi
+32112,2,Computer Architecture,Melike Kaplan
+24245,3,Cloud Computing,Faisal Khan
+28967,2,Big Data Analytics,Christos Davatzikos
+23079,3,Cryptography,Mohammed Abdulhakim Al-Absi
+4949,2,Artificial Intelligence,Ronan Collobert
+28014,2,Bioinformatics,Jing Wang
+22550,3,Quantum Computing,Davide Venturelli
+39187,3,IT Governance,Alberto De Marco
+19677,2,Computer Graphics,Jon Kleinberg
+38698,1,Artificial Intelligence Ethics,David D. Lewis
+8379,5,Artificial Intelligence,Jim Smith
+45183,2,Workflow Management,Yong Miao
+40123,1,Remote Sensing,Yang Hong
+21943,4,Scientific Computing,Mubarak Shah
+39259,1,Network Management,Stephen P. Borgatti
+35649,1,3D Printing,Bing Lu
+22462,5,Human-Computer Interaction,Martin Christof Kindsmüller
+31589,1,Grid Computing,Muhammad Atif Ur Rehman
+36900,1,Computational Chemistry,Thomas Bondo Pedersen
+24148,1,Mobile Computing,Jeff Daniels
+8378,5,Machine Intelligence,Jiasen Lu
+31592,3,Distributed Systems,Christin Groba
+30112,1,Network Security,Michael Backes
+31499,1,Grid Computing,Laszlo Böszörmenyi
+38701,1,Artificial Intelligence Ethics,Muhammad Bilal
+36812,1,E-commerce Technology,Mohsen Saffar
+38969,2,Health Informatics,Casey S. Greene
+10803,5,Statistical Learning,Andreas Christmann
+35539,5,Embedded Systems,Edgar Kalkowski
+22367,3,Human-Computer Interaction,Oren Zuckerman
+38270,1,Complex Systems,Andrea Cavagna
+42412,5,System Integration,Nikolaus Schmidt
+1443,1,Machine Learning,Wei Liu
+30309,2,Information Security,Christian Rossow
+35384,2,Embedded Systems,Arijit Mukherjee
+28790,5,Bioinformatics,Jaak Vilo
+41680,4,Software Testing,Maria Virvou
+36879,2,Ubiquitous Computing,Markus Wüstenberg
+40155,1,Remote Sensing,Alberto Moreira
+42324,4,System Integration,Will Hedgecock
+4964,1,Statistical Learning,Ronan Collobert
+42325,4,System Integration,Pirmin Vogel
+23499,2,Augmented Reality,Andrew R. Teel
+37424,1,Workflow Management,Inge van de Weerd
+23597,1,Internet of Things,Judith Good
+45068,4,Web Services,Zhilu Zhang
+22457,5,Human-Computer Interaction,Evan Metsky
+39184,3,IT Governance,Francesco Polese
+475,3,Natural Language Processing,Fabrizio Ghigi
+5284,3,Artificial Intelligence,Martin Renqiang Min
+38246,5,Business Intelligence,John Seydel
+33411,5,Operating Systems,Edward Hanna
+39760,2,Performance Engineering,Peter Gusev
+732,1,Artificial Intelligence,Ruslan Salakhutdinov
+31870,2,Computational Biology,Hiroaki Kitano
+41824,1,System Dynamics,Martin Otter
+10714,5,Statistical Learning,Peter Grünwald
+39785,4,Performance Engineering,Hadis Abarghouyi
+38641,4,Computational Finance,Simon-Pierre Gadoury
+28781,5,Bioinformatics,Martin Steinegger
+41802,5,Software Testing,Michael Mattsson
+36956,2,Digital Forensics,Harm van Beek
+38845,1,Data Structures,Klemens Böhm
+25567,5,Information Security,Farrukh Aslam Khan
+35351,1,Embedded Systems,Jan F. Broenink
+31277,1,Computer Architecture,Elkin Garcia
+26492,2,Computational Biology,Ken Chen
+40966,4,Remote Sensing,Jingfeng Huang
+21949,3,Computer Graphics,Larry Davis
+31604,4,Distributed Systems,Shivang Aggarwal
+19659,2,Scientific Computing,Leonidas Guibas
+39154,1,IT Governance,Fabio Iraldo
+25515,3,Cybersecurity,Huy Kang Kim
+39231,1,Visual Analytics,Jefrey Lijffijt
+35541,1,3D Printing,Zhiyong Zhang
+30005,2,Database Systems,Alexander Löser
+28942,1,Big Data Analytics,Roberto Castello
+45173,2,Workflow Management,Gerhard Halmerbauer
+5371,2,Deep Learning,Awni Hannun
+10701,1,Data Mining,Francesco Marcelloni
+28802,1,Algorithm Design,Yi Sun
+30128,1,Network Security,Mario Fritz
+477,3,Natural Language Processing,Jan Buchmann
+23091,4,Cryptography,Oğuz Yayla
+24200,3,Mobile Computing,Rahat Masum
+39866,1,Program Analysis,Luis Javier García Villalba
+36895,1,Computational Chemistry,Ursula Rothlisberger
+36598,3,Pattern Recognition,Kyung-Hwan Shim
+8504,3,Reinforcement Learning,Alessandro Vullo
+5161,2,Reinforcement Learning,De-Shuang Huang
+24201,4,Workflow Management,Rahat Masum
+38431,3,Computational Finance,Mariacristina Uberti
+31920,5,Computational Biology,Peter Robinson
+45388,3,Workflow Management,Vadim Denisov
+38333,2,Complex Systems,Peter Nordin
+10799,5,Deep Learning,Andreas Christmann
+23889,4,Internet of Things,Biswajeeban Mishra
+23075,3,Cryptography,Max Tuengerthal
+33765,2,Wireless Communications,Giuseppe Abreu
+24229,4,Mobile Computing,Muhammad Umair
+733,1,Machine Learning,Ruslan Salakhutdinov
+8502,3,Deep Learning,Alessandro Vullo
+36841,2,Green Computing,Rasika Ranaweera
+45030,3,Web Services,Amogh Dhamdhere
+29493,4,Big Data Analytics,Christopher Southan
+63,2,Natural Language Processing,Patrick Watrin
+24168,2,Cloud Computing,Sandeep Chandra
+22112,4,Computer Graphics,Adrian Perrig
+45045,3,Web Services,David Perello
+7865,4,Artificial Intelligence,Shengcai Liao
+25552,4,Information Security,Marc A. Zissman
+41592,3,Software Testing,Andy Zaidman
+23082,3,Cryptography,Ricardo Villanueva-Polanco
+38376,5,Complex Systems,Valeriy Gavrishchaka
+40986,4,Remote Sensing,Ihor Smal
+5310,3,Artificial Intelligence,Geoff Gordon
+10866,1,Data Mining,Claudia Plant
+8520,3,Deep Learning,Jun Seita
+22451,4,Human-Computer Interaction,Susanne Stadler
+8510,3,Robotics,Sami Haddadin
+30362,3,Network Security,Yang Zhang
+5263,3,Machine Intelligence,Michael Beetz
+42286,2,System Integration,David Golightly
+41128,1,Software Testing,Visvanathan Ramesh
+31753,2,Game Development,Werner Ravyse
+4838,1,Statistical Learning,Chris Williams
+31689,2,Mobile Computing,Yuanbo Xu
+29479,1,IT Governance,Sinan Aral
+4860,1,Artificial Intelligence,U Rajendra Acharya
+18506,3,Scientific Computing,Wei Wang
+27984,2,Bioinformatics,Houtan Noushmehr
+42300,3,System Integration,Lorenzo Ciampolini
+36940,5,Computational Chemistry,Yannis Dimakopoulos
+11514,1,Computer Graphics,Francisco Herrera
+31915,4,Computational Biology,Larsson Omberg
+8782,4,Deep Learning,Richard Everson
+10865,1,Data Mining,Sven Laur
+36175,2,Pattern Recognition,Patrick Kugler
+42526,3,Virtualization Technology,Chang-Tien Lu
+34537,2,High-Performance Computing,Ping Bai
+38145,4,Business Intelligence,Wenjun Zhou
+30313,3,Information Security,Sergei Petrenko
+23530,1,Internet of Things,Tommaso Melodia
+30115,1,Information Security,Michael Backes
+39190,3,IT Governance,Marco Raberto
+29485,4,Big Data Analytics,T. Tony Cai
+24938,1,Edge Computing,Yonghuai Liu
+5300,2,Statistical Learning,Christian Ledig
+39034,3,Health Informatics,Kay Nieselt
+23094,4,Cryptography,Anh Tu Tran
+39133,1,IT Governance,Robert M. Grant
+38399,1,Computational Finance,Georgios Sermpinis
+5303,3,Machine Intelligence,Junichi Tsujii
+38386,1,Computational Finance,Michael McAleer
+10720,5,Statistical Learning,Adrian Weller
+8490,3,Deep Learning,Alexander Junge
+32103,1,Computer Architecture,Francisco Fernandez de Vega
+37011,2,Autonomous Systems,Zachary Jeremy Taylor
+25667,1,Robotics,Alban Desmaison
+41952,1,System Integration,Werner Kutsch
+37354,1,Business Intelligence,Vedat Verter
+39097,5,Health Informatics,Magnus Borga
+8371,5,Artificial Intelligence,David A. Clifton
+40998,4,Remote Sensing,Xuehong Chen
+26269,4,Robotics,Kris Kitani
+39235,2,Machine Intelligence,Uri Wilensky
+38897,1,Enterprise Resource Planning,Kerstin Alfes
+4881,1,Machine Intelligence,Enrique Herrera-Viedma
+22432,4,Human-Computer Interaction,Paulo Carvalho
+7450,2,Statistical Learning,Yan Liu
+10833,5,Reinforcement Learning,Soeren Sonnenburg
+33799,3,Wireless Communications,Aleksandar Neskovic
+24180,2,Mobile Computing,Massinissa Lounis
+7915,4,Artificial Intelligence,Richard Bowden
+41851,3,System Dynamics,Rafael Pimentel
+29655,1,Software Engineering,Chin-Hui Lee
+42524,3,Virtualization Technology,James Thorp
+36880,2,Ubiquitous Computing,Florian Jungwirth
+29448,3,Big Data Analytics,Victor Chernozhukov
+523,1,Information Retrieval,Trond Aalberg
+41697,5,Software Testing,Mark van den Brand
+39217,5,IT Governance,Roberto Fontana
+4822,1,Machine Learning,Chris Williams
+32509,3,Operating Systems,Chris M. Smith
+8844,4,Deep Learning,Hubert Ramsauer
+30258,2,Information Security,Jennifer Seberry
+32167,4,Computer Architecture,Juan Porta
+29858,3,Software Engineering,Stefan Savage
+8069,4,Artificial Intelligence,Peter Clark
+41030,5,Remote Sensing,Richard Sharp
+34612,2,High-Performance Computing,Seng-Beng Ho
+5060,3,Machine Intelligence,Piotr Slomka
+10719,4,Reinforcement Learning,Adrian Weller
+31606,4,Distributed Systems,Johannes Manner
+24238,4,Mobile Computing,Dimple Patel
+40973,4,Remote Sensing,Felix Morsdorf
+22513,2,Quantum Computing,Sorin Cotofana
+38653,4,Computational Finance,Heba M. Ezzat
+8907,5,Machine Learning,Riccardo Miotto
+31596,3,Distributed Systems,Ilir Murturi
+22254,5,Computer Graphics,Mark Horowitz
+35634,1,3D Printing,Mohd Rizal Alkahari
+44825,1,Web Services,Vittorio Castelli
+31950,1,Neural Networks,Atsushi Yokoi
+31259,5,Network Security,Katharina Krombholz
+7867,4,Machine Intelligence,Shengcai Liao
+30028,3,Database Systems,Bernd Bandemer
+37044,3,Autonomous Systems,Chang Wang
+22204,5,Scientific Computing,Carlos A. Coello Coello
+11027,2,Data Mining,David Malmgren-Hansen
+23496,1,Augmented Reality,Fernando Monticelli
+25526,4,Cybersecurity,Matthew Wright
+26082,2,Robotics,Alin Albu-Schäffer
+23026,1,Cryptography,Christophe Giraud
+35448,4,Embedded Systems,Sandika Biswas
+38366,4,Complex Systems,Alexander Eisfeld
+38895,1,Discrete Mathematics,Saedeh Foadian
+17358,2,Scientific Computing,Wei Wang
+22506,2,Quantum Computing,Takeshi Fukuhara
+8825,4,Statistical Learning,Angelo Cangelosi
+39898,3,Quantitative Analysis,Minjeong Jeon
+29913,4,Software Engineering,Lior Rokach
+39292,4,Network Management,Mohammad Esmaeili
+37315,5,Autonomous Systems,Ahmad Drak
+37411,3,Business Intelligence,Habin Lee
+23689,2,Internet of Things,Kevin Lee
+38783,1,Generative AI,Amjad Almahairi
+36884,2,Ubiquitous Computing,Yazan Barhoush
+8481,3,Reinforcement Learning,Gustavo Carneiro
+34626,2,High-Performance Computing,Xinxing Xu
+44818,1,Web Services,Rubén Ruiz
+24213,3,Mobile Computing,Florian Marquardt
+38676,1,Computer Aided Engineering,Xiaochun Yu
+5285,2,Machine Learning,Martin Renqiang Min
+5296,2,Reinforcement Learning,Christian Ledig
+25548,4,Cybersecurity,Marc A. Zissman
+39207,4,IT Governance,Elisa Negri
+11486,1,Computer Vision,Manolis Kellis
+22198,5,Computer Vision,Carlos A. Coello Coello
+148,2,Natural Language Processing,Bryan Eikema
+11034,3,Data Mining,María del Carmen Romero
+27985,2,Bioinformatics,David Jones
+26123,3,Robotics,Tomas Simon
+32101,1,Computer Architecture,Toni Juan
+4975,2,Machine Intelligence,John Winn
+11489,1,Computer Vision,Jure Leskovec
+4999,1,Reinforcement Learning,Stephen Roberts
+22315,1,Human-Computer Interaction,Manfred Tscheligi
+37041,2,Autonomous Systems,Malte Schilling
+32031,5,Reinforcement Learning,Alexandru Drimbarean
+38622,4,Computational Finance,Liangliang Zhang
+30338,3,Network Security,Charles Kamhoua
+7906,4,Machine Intelligence,Tianrui Li
+31627,4,Distributed Systems,Ashraf A. Taha
+40988,4,Remote Sensing,Seyed Kazem Alavipanah
+36406,3,Pattern Recognition,Ulf Jensen
+8903,4,Machine Learning,Ferrante Neri
+22374,3,Human-Computer Interaction,Tom Gross
+31685,2,Mobile Computing,Ulrich Fiedler
+21991,4,Computer Vision,David Wagner
+5274,2,Machine Learning,Ziv Bar-Joseph
+31399,2,Parallel Computing,Florence Laguzet
+36612,4,Pattern Recognition,Viktor Haase
+24158,1,Cloud Computing,Muhammad Ali Ismail
+31183,4,Network Security,Krikamol Muandet
+38173,5,Business Intelligence,Yan Yu
+31577,3,Distributed Systems,Andrea Morichetta
+32147,3,Computer Architecture,Francisco Corbera
+53,2,Natural Language Processing,Lingjia Deng
+38273,2,Complex Systems,Zhen Jin
+5260,2,Artificial Intelligence,Michael Beetz
+22212,5,Computer Graphics,Mani Srivastava
+37422,3,Business Intelligence,Inge van de Weerd
+31659,1,Grid Computing,Tianze Wang
+11579,2,Computer Vision,Steven Robbins
+8369,5,Machine Intelligence,Benjamin Schrauwen
+36928,4,Computational Chemistry,Mohammad Solimannejad
+22352,2,Human-Computer Interaction,Margot Brereton
+39030,3,Health Informatics,Hugues Sicotte
+24946,1,Edge Computing,Amr Ahmed
+8375,5,Machine Intelligence,David A. Clifton
+22359,2,Human-Computer Interaction,Thorsten O. Zander
+762,1,Artificial Intelligence,Max Welling
+11210,3,Data Mining,Mauricio Soto Alvarez
+26278,4,Robotics,Steven Waslander
+25328,1,Information Security,Jian Weng
+10741,5,Deep Learning,Saurabh Kumar
+37360,2,Business Intelligence,Ann Melissa Campbell
+24159,2,Mobile Computing,Muhammad Ali Ismail
+32199,5,Computer Architecture,Esteban Pérez-Wohlfeil
+7896,4,Machine Intelligence,Jeremy Schwartzentruber
+36599,3,Pattern Recognition,Etienne Assoumou Mengue
+31261,5,Network Security,Nalin Asanka Gamagedara Arachchilage
+22275,2,Software Engineering,Kevin W. Bowyer
+22453,4,Human-Computer Interaction,Vasiliki Tsaknaki
+4933,1,Reinforcement Learning,Menglong Zhu
+25543,4,Cybersecurity,Vyacheslav Kharchenko
+7921,4,Artificial Intelligence,Thomas Serre
+32506,3,Operating Systems,Dawit Fekadu Teshome
+41027,5,Remote Sensing,Fabio Del Frate
+8867,4,Machine Learning,Dmitry Ulyanov
+31254,1,Digital Forensics,Siti Norul Huda Sheikh Abdullah
+11014,2,Data Mining,Michal Marczyk
+23056,2,Cryptography,Luca Nizzardo
+36849,1,Ubiquitous Computing,Suining He
+4850,1,Machine Learning,Tom Mitchell
+23106,4,Cryptography,Syed Mahbub Hafiz
+22003,4,Scientific Computing,David Wagner
+32137,3,Computer Architecture,Roberto R. Expósito
+31410,1,Distributed Systems,Peter Pietzuch
+34413,1,High-Performance Computing,Clara Pizzuti
+30059,5,Database Systems,Andrei Smirnov
+23485,4,Virtual Reality,Vanita Raj Tank
+4920,1,Statistical Learning,Yee Whye Teh
+29480,4,Big Data Analytics,Stefano Maria Iacus
+42427,1,Text Analytics,Caroline McKinnon
+23900,4,Internet of Things,Marcus Lundén
+24388,5,Mobile Computing,Sara Moazzezi Eftekhar
+30355,3,Information Security,Bernd Finkbeiner
+42302,3,System Integration,Harald Özelt
+23014,1,Cryptography,Brian LaMacchia
+21937,3,Computer Vision,Mubarak Shah
+23747,3,Internet of Things,Markus Weinberger
+4894,1,Artificial Intelligence,Carl Edward Rasmussen
+23533,1,Internet of Things,Eve Schooler
+24397,1,Edge Computing,Yang Yang
+5336,3,Artificial Intelligence,Leandro dos Santos Coelho
+11501,1,Computer Graphics,Sebastian Thrun
+10699,5,Statistical Learning,Frans Coenen
+12766,3,Computer Vision,Wei Wang
+10702,4,Deep Learning,Francesco Marcelloni
+31285,1,Parallel Computing,Dipankar Das
+38962,2,Health Informatics,Riccardo Bellazzi
+42277,1,System Integration,Neil Johnson
+35348,1,Embedded Systems,Roman Obermaisser
+29863,3,Software Engineering,Pearu Peterson
+37385,2,Business Intelligence,Andrew Smith
+39221,5,IT Governance,Assunta Di Vaio
+30210,1,Network Security,Dániel Marx
+22323,1,Human-Computer Interaction,Frank Steinicke
+41928,5,System Dynamics,Ravi Kumar
+526,1,Information Retrieval,Maria Poptsova
+42534,3,Virtualization Technology,Doug A. Bowman
+5340,2,Reinforcement Learning,Leandro dos Santos Coelho
+41700,5,Software Testing,Jun Han
+9363,4,Deep Learning,Jian Zhang
+30260,2,Network Security,John A. Clark
+31758,2,Game Development,Alysson Diniz dos Santos
+32169,4,Computer Architecture,Ali Asghari
+42428,2,Visual Analytics,Caroline McKinnon
+8521,3,Machine Learning,Moustapha Cisse
+7891,4,Artificial Intelligence,André Carlos Ponce de Leon Ferreira de Carvalho
+8729,3,Statistical Learning,Marcus Liwicki
+23416,1,Robotics,Steven M. LaValle
+26271,4,Robotics,Gary K. Fedder
+10794,5,Deep Learning,Fabien Campagne
+24183,2,Cloud Computing,Maninder Singh
+45042,3,Web Services,Ariella Sasson
+31561,2,Distributed Systems,Luca Lianas
+10757,5,Reinforcement Learning,Saurabh Kumar
+35392,3,Embedded Systems,Martin Horauer
+31699,2,Ubiquitous Computing,Mohamed A. Mostafa
+11430,1,Computer Vision,Trevor Darrell
+39145,1,IT Governance,Andrea Fosfuri
+37028,2,Autonomous Systems,Manuel Mora
+41214,2,Software Testing,Timo Ahonen
+31696,3,Mobile Computing,Julian Marcon
+39115,3,Information Security,Julio Hernandez-Castro
+25618,1,Robotics,Deva Ramanan
+22483,1,Quantum Computing,Samuel L. Braunstein
+0,1,Natural Language Processing,Nigel Collier
+32523,4,Operating Systems,Norman Weik
+31904,3,Computational Biology,Susannah Tringe
+42474,2,Virtualization Technology,Robert J. Bodnar
+32156,3,Computer Architecture,Shahram Etemadi Borujeni
+35540,5,Embedded Systems,Rockson Agyeman
+8887,4,Reinforcement Learning,Anders Søgaard
+22372,3,Human-Computer Interaction,Ian Li
+32159,4,Computer Architecture,Silvia Llorente Viejo
+31624,4,Distributed Systems,Max Schettler
+5324,3,Machine Intelligence,Dipanjan Roy
+38730,1,Artificial Intelligence Ethics,Momin M. Malik
+8675,3,Deep Learning,Huiyu Zhou
+8006,2,Reinforcement Learning,Chao Tian
+41672,4,Software Testing,Aijazuddin Syed
+36958,2,Digital Forensics,Murray Brand
+36951,1,Digital Forensics,Orhan Yaman
+10711,4,Reinforcement Learning,Peter Grünwald
+21946,3,Computer Vision,Larry Davis
+4990,1,Machine Learning,Stephen Roberts
+32100,1,Computer Architecture,Georgi Gaydadjiev
+36897,1,Computational Chemistry,Roy Johnston
+8068,2,Statistical Learning,Wai Lok Woo
+39048,4,Health Informatics,Patrice Degoulet
+23037,2,Cryptography,Raghav Bhaskar
+31852,1,Computational Biology,Stuart Kauffman
+28795,1,Algorithm Design,Christos Zaroliagis
+34808,3,High-Performance Computing,Maria Frucci
+478,3,Natural Language Processing,Ali Salhi
+5276,2,Deep Learning,Ziv Bar-Joseph
+15062,3,Computer Graphics,Wei Wang
+38880,1,Discrete Mathematics,Ivan Rapaport
+32000,5,Reinforcement Learning,Fabian Scheipl
+7883,2,Deep Learning,Günter Klambauer
+23522,5,Augmented Reality,A. Ronald Gallant
+31678,1,Ubiquitous Computing,Christer Åhlund
+26332,1,Bioinformatics,Rehan Akbani
+41800,5,Software Testing,Sergio Segura
+34534,1,High-Performance Computing,Michela Taufer
+22376,3,Human-Computer Interaction,Jens Grubert
+31740,1,Game Development,Patrick Prax
+11314,1,Scientific Computing,Geoffrey Hinton
+38546,3,Computational Finance,Dong Yang
+22259,5,Computer Graphics,Jennifer Rexford
+32131,2,Computer Architecture,John Goodacre
+25557,4,Cybersecurity,Sadie Creese
+22363,2,Human-Computer Interaction,Geoff Kaufman
+22302,1,Human-Computer Interaction,Brad A. Myers
+23906,4,Internet of Things,Thanh Tung Nguyen
+32947,5,Operating Systems,Jossekin Beilharz
+39103,5,Health Informatics,Carsten Görg
+5289,2,Statistical Learning,Martin Renqiang Min
+38409,2,Computational Finance,Mikko S. Pakkanen
+28798,1,Algorithm Design,Aymen Hamrouni
+29912,4,Software Engineering,Pheng Ann Heng
+31611,1,Grid Computing,Alessio Netti
+22222,5,Scientific Computing,Daniela Rus
+29830,2,Software Engineering,Lothar Thiele
+32251,1,Operating Systems,Lee E Gunter
+26280,5,Robotics,Salvador Pané
+29938,1,Software Testing,Mark Harman
+38948,2,Health Informatics,Hardeep Singh
+43869,1,Workflow Management,Wei Zhang
+8508,2,Machine Learning,Sami Haddadin
+31855,2,Computational Biology,Axel Meyer
+38982,3,Health Informatics,Enrico Petretto
+7881,2,Machine Learning,Günter Klambauer
+742,1,Machine Learning,Sepp Hochreiter
+34771,3,High-Performance Computing,Nong Xiao
+26086,2,Robotics,Johannes Kulick
+8904,4,Deep Learning,Ferrante Neri
+31908,4,Computational Biology,Valur Emilsson
+32076,1,Computer Architecture,Ramon Doallo
+39765,3,Performance Engineering,Weile Wei
+5012,2,Artificial Intelligence,Qihao Weng
+31993,1,Neural Networks,Yuki Murai
+23578,1,Internet of Things,Kjetil Fagerholt
+22370,3,Human-Computer Interaction,Luigina Ciolfi
+42306,3,System Integration,Behnam Khaki
+36182,2,Pattern Recognition,Zhenhua Chai
+32264,1,Operating Systems,Olga Fink
+36996,1,Autonomous Systems,Hartmut Surmann
+28702,5,Bioinformatics,Andrew Leach
+31823,1,Computational Biology,Søren Brunak
+35326,1,Embedded Systems,Shashi Kumar
+28692,4,Bioinformatics,Benedikt Brors
+41038,5,Remote Sensing,Lorenzo Busetto
+8064,3,Machine Learning,Wai Lok Woo
+29635,1,Software Engineering,Zhou Wang
+31293,1,Parallel Computing,Oliver Sinnen
+42283,2,System Integration,Raj Gupta
+19676,2,Computer Vision,Jon Kleinberg
+32266,1,Operating Systems,Serpil Sayin
+38915,1,Evolutionary Computation,Stephan Winkler
+5266,3,Artificial Intelligence,Abdenour Hadid
+35917,1,Pattern Recognition,Bing Li
+25493,3,Information Security,Srinivas Mukkamala
+24144,1,Mobile Computing,Jos Martin
+11035,3,Data Mining,Daniel Miller
+22169,5,Scientific Computing,Demetri Terzopoulos
+19656,2,Scientific Computing,Rob Fergus
+8911,4,Reinforcement Learning,Riccardo Miotto
+31752,1,Game Development,René Bühling
+32157,4,Computer Architecture,Nawab Ali
+45384,3,Workflow Management,Michael M. Clark
+22261,5,Computer Vision,Erkki Oja
+38249,5,Business Intelligence,Anastasios Panagiotelis
+31625,5,Embedded Systems,Max Schettler
+37102,3,Autonomous Systems,Elena Stumm
+41580,3,Software Testing,Yuval Shahar
+39787,4,Performance Engineering,Wei Su
+45066,4,Web Services,Fabrice Benhamouda
+29477,3,Big Data Analytics,Nigam Shah
+42915,2,Visual Analytics,Linda Pfeiffer
+37038,2,Autonomous Systems,Hugo Ferreira
+8491,3,Reinforcement Learning,Alexander Junge
+38371,4,Complex Systems,Agnes Allansdottir
+31560,2,Distributed Systems,Ashwin Kumar Kayyoor
+31940,5,Computational Biology,Russell Schwartz
+31197,4,Network Security,Danilo Gligoroski
+20763,1,IT Governance,Kai Li
+23426,1,Virtual Reality,Andreas Kunz
+37417,3,Business Intelligence,Frank Armour
+41287,2,Software Testing,Forrest Shull
+23264,1,Blockchain Technology,Claudio J. Tessone
+30310,2,Network Security,Sergei Petrenko
+25777,2,Robotics,Anthony Stentz
+25381,2,Cybersecurity,Leandros Maglaras
+38367,4,Complex Systems,Paolo Politi
+8376,3,Statistical Learning,David A. Clifton
+34632,3,High-Performance Computing,Lutz Brusch
+36902,1,Computational Chemistry,Dage Sundholm
+25487,3,Cybersecurity,Srinivas Mukkamala
+36896,1,Computational Chemistry,Richard Dronskowski
+42553,4,Virtualization Technology,E. Scott Geller
+29440,3,Big Data Analytics,David Ruppert
+7936,5,Machine Intelligence,Xiao-Jun Wu
+29920,4,Software Engineering,Gregory Wornell
+30350,3,Network Security,Sascha Fahl
+24114,1,Cloud Computing,Wenjuan Li
+42518,2,Virtualization Technology,John J. Tyson
+40249,1,Remote Sensing,Arnon Karnieli
+31946,1,Neural Networks,Masamichi J. Hayashi
+35366,2,Embedded Systems,Václav Přenosil
+22252,2,Software Engineering,Mark Horowitz
+45078,4,Web Services,Jonathan Bright
+11436,1,Computer Vision,Luc Van Gool
+33456,1,Wireless Communications,Jean-Claude Belfiore
+146,2,Natural Language Processing,Anh-Dung Vo
+31641,1,Grid Computing,Tanmoy Sarkar
+22389,3,Human-Computer Interaction,Cecilia Katzeff
+39296,4,Network Management,Antonio Francesco Gentile
+22273,5,Computer Vision,Kevin W. Bowyer
+32130,2,Computer Architecture,Thomas Wortmann
+30130,1,Information Security,Mario Fritz
+766,1,Machine Intelligence,Max Welling
+30007,2,Database Systems,Paris Carbone
+36867,1,Ubiquitous Computing,Ekaterina Gilman
+29634,1,Software Engineering,Daniel van der Ster
+22509,2,Web Services,Colm Ryan
+22491,1,Quantum Computing,Andrew M. Childs
+476,3,Natural Language Processing,Hanzhao Li
+37093,3,Autonomous Systems,Diego Rodriguez
+41821,1,System Dynamics,Aaron D. Ames
+8661,3,Reinforcement Learning,Ralf Schlüter
+26335,1,Bioinformatics,Amos Bairoch
+30031,3,Database Systems,Reza Maram
+39092,5,Health Informatics,Sabine van der Veer
+33912,5,Wireless Communications,Ruixin Wang
+38390,1,Computational Finance,W. Brent Lindquist
+42897,1,Visual Analytics,Stefan Bruckner
+31953,1,Neural Networks,Jin Zhu
+29987,1,Database Systems,Suhong Li
+37321,5,Autonomous Systems,Enes Bilgin
+28783,5,Bioinformatics,Jerven Bolleman
+41667,4,Software Testing,Jameela Al-Jaroodi
+31227,5,Network Security,Jongsung Kim
+11315,1,Computer Vision,Yoshua Bengio
+5269,3,Machine Intelligence,Abdenour Hadid
+23711,2,Internet of Things,Claudio Pastrone
+22552,3,Quantum Computing,Giacomo Torlai
+28973,2,Big Data Analytics,Menachem Fromer
+41569,3,Software Testing,Guilherme Horta Travassos
+8368,2,Reinforcement Learning,Benjamin Schrauwen
+35648,1,3D Printing,Arvind Rangarajan
+23922,5,Internet of Things,Abhimanyu Venkatraman Sheshashayee
+5272,3,Artificial Intelligence,Ziv Bar-Joseph
+20422,3,Scientific Computing,William T. Freeman
+31160,3,Network Security,Shiyan Hu
+25513,3,Information Security,Thomas M. Chen
+26447,2,Bioinformatics,Ken Chen
+8784,4,Statistical Learning,Richard Everson
+26092,2,Robotics,Illah Nourbakhsh
+32508,3,Operating Systems,Ashish Bijlani
+31666,5,Distributed Systems,Vamis Xhagjika
+23077,3,Cryptography,Dur-e-Shahwar Kundi
+21092,3,Computer Graphics,Ben Langmead
+28773,5,Bioinformatics,Burkhard Morgenstern
+26340,1,Computational Biology,Christian von Mering
+4969,1,Machine Learning,John Winn
+31251,5,Network Security,Katrien De Moor
+20129,3,Virtualization Technology,Yang Chen
+38164,4,Business Intelligence,Mohammad Alamgir Hossain
+10819,5,Statistical Learning,Aarti Singh
+41921,5,System Dynamics,Tommaso Brazzini
+36871,1,Ubiquitous Computing,Paula Alavesa
+22310,1,Human-Computer Interaction,Vincent Aleven
+31756,2,Game Development,Ismail Khalid Kazmi
+30041,4,Database Systems,Bastian Sauert
+5302,3,Artificial Intelligence,Junichi Tsujii
+11372,1,Computer Graphics,Jiawei Han
+26281,5,Robotics,Claudio Melchiorri
+33435,2,Digital Signal Processing,Steffen Schieler
+22498,2,Quantum Computing,Marco Pistoia
+11487,1,Computer Graphics,Manolis Kellis
+19678,2,Scientific Computing,Jon Kleinberg
+38267,1,System Dynamics,Peter Benner
+39290,3,Network Management,Kathy Benninger
+22333,2,Human-Computer Interaction,Kari Kuutti
+41117,1,Software Testing,Per Runeson
+36624,4,Pattern Recognition,Yuxin Zhang
+5055,2,Machine Intelligence,Pedro Larrañaga
+37009,1,Autonomous Systems,Nestor O. Perez-Arancibia
+28677,3,Bioinformatics,Zlatko Trajanoski
+32075,1,Computer Architecture,Diego Darriba
+41192,2,Software Testing,Pekka Abrahamsson
+11462,1,Scientific Computing,Philip S. Yu
+39128,5,Information Security,Flavio D. Garcia
+23706,2,Internet of Things,Weilin Yang
+11521,1,Scientific Computing,Francisco Herrera
+21120,3,Scientific Computing,Nir Friedman
+40987,4,Remote Sensing,Nikos Koutsias
+35367,2,Embedded Systems,Andreas Breitenmoser
+35338,1,Embedded Systems,Martin Törngren
+29612,5,Big Data Analytics,Nick Duffield
+41797,5,Software Testing,Lars Grunske
+20375,2,Computer Vision,Ben Shneiderman
+11585,2,Computer Vision,Deborah Estrin
+31665,5,Distributed Systems,Constantin Sander
+30235,2,Information Security,Michael Schwarz
+3468,1,Machine Intelligence,Wei Liu
+727,1,Information Retrieval,Samarth Bhargav
+37014,2,Autonomous Systems,Johan Kildal
+31587,3,Distributed Systems,Vojtěch Horký
+22155,2,Software Engineering,Sangeeta N. Bhatia
+41020,5,Remote Sensing,Zhenhai Li
+37359,2,Business Intelligence,Muhammad Mustafa Kamal
+22487,1,Quantum Computing,Richard Cleve
+31391,1,Parallel Computing,Benjamin Brock
+25599,5,Cybersecurity,Elyes Ben Hamida
+25404,2,Cybersecurity,Jill Slay
+41126,1,Software Testing,Philippe Kruchten
+11546,1,Computer Vision,Judea Pearl
+21127,3,Computer Vision,Liang Chen
+31397,2,Parallel Computing,Xuan Truong Nguyen
+39099,5,Health Informatics,Mihail Popescu
+41112,1,Software Testing,Helen Sharp
+33427,1,Digital Signal Processing,Riccardo Bernardini
+34825,4,High-Performance Computing,Jayne Thompson
+38170,5,Business Intelligence,Peiman Ghasemi
+36904,2,Computational Chemistry,Graham Worth
+38854,1,Data Structures,Patrick Brosi
+22494,1,Quantum Computing,Hausi A. Müller
+45069,4,Web Services,Liana Hadarean
+26537,2,Bioinformatics,Wei Li
+28679,4,Bioinformatics,Karsten Hokamp
+34766,3,High-Performance Computing,Liling Zhang
+41182,1,Software Testing,David Budgen
+37017,2,Autonomous Systems,Andrew Levers
+38344,2,Complex Systems,Gui-Quan Sun
+38408,2,Computational Finance,Simone Giansante
+45180,2,Workflow Management,Alessandro Terenzi
+39776,3,Performance Engineering,Anshuman Majumdar
+25392,2,Cybersecurity,Jeff Boleng
+30032,3,Database Systems,Daniel Caviedes-Voullième
+42438,3,User Interface Design,Akinyinka Omigbodun
+22342,2,Human-Computer Interaction,Helen Petrie
+32092,1,Computer Architecture,Ignacio Rojas
+42435,2,User Interface Design,Arash Shahin
+36213,3,Pattern Recognition,Stefan B. Ploner
+39193,3,IT Governance,Christiane Hipp
+30337,3,Information Security,Shantanu Rane
+38655,5,Computational Finance,Qinan Wang
+38336,2,Complex Systems,Michael Hinze
+39104,5,Health Informatics,Arjun Krishnan
+4892,1,Statistical Learning,Thore Graepel
+24092,1,Cloud Computing,Virender Kumar
+32160,4,Computer Architecture,Joaquín Entrialgo
+8494,5,Artificial Intelligence,Xiaojun Chang
+746,1,Deep Learning,Sepp Hochreiter
+31996,5,Deep Learning,Mostofa Patwary
+36905,2,Computational Chemistry,Rommie E. Amaro
+31262,1,Parallel Computing,Thomas Fahringer
+42923,1,Web Services,Ora Lassila
+32515,4,Operating Systems,Manish Bansal
+22139,4,Computer Graphics,Barry Boehm
+39301,1,Object-Oriented Programming,Mathias Ellmann
+29934,5,Software Engineering,Mark Harman
+22167,4,Computer Vision,Demetri Terzopoulos
+29949,5,Software Engineering,John R. Buck
+34906,4,High-Performance Computing,Carmela Comito
+31653,5,Distributed Systems,Tianze Wang
+11587,2,Computer Graphics,Deborah Estrin
+22430,4,Human-Computer Interaction,Kerry Shih-Ping Chang
+45002,2,Web Services,Jan Gasthaus
+32480,2,Operating Systems,Claudio Fornaro
+737,1,Statistical Learning,Ruslan Salakhutdinov
+42475,2,Virtualization Technology,David S. Lindsay
+31828,1,Computational Biology,Jens Nielsen
+36210,3,Pattern Recognition,Julia Schottenhamml
+25412,2,Cybersecurity,Sangjin Lee
+10813,5,Machine Learning,Aarti Singh
+33894,4,Wireless Communications,Nikita Lyamin
+29613,5,Big Data Analytics,Alexander Sherstnev
+11427,1,Software Engineering,Stephen Boyd
+36835,1,Green Computing,Kasper Green Larsen
+29925,4,Software Engineering,Piotr Indyk
+23847,3,Internet of Things,Peter Schütz
+37005,1,Autonomous Systems,Joern Rehder
+36903,2,Computational Chemistry,Miquel Duran
+23419,2,Virtualization Technology,Dieter Schmalstieg
+42418,1,Text Analytics,Kalina Bontcheva
+768,1,Artificial Intelligence,Wei Liu
+41280,2,Software Testing,Robert Feldt
+39943,5,Quantitative Analysis,Kostas Zafiropoulos
+32155,3,Computer Architecture,Karthik Ramani
+10705,5,Machine Learning,Peter Grünwald
+36179,2,Pattern Recognition,Junyu Gao
+36848,1,Ubiquitous Computing,Christos Efstratiou
+37002,1,Autonomous Systems,Gokhan Inalhan
+5315,2,Statistical Learning,Geoff Gordon
+38143,4,Business Intelligence,Pavlos Delias
+11504,1,Scientific Computing,Sebastian Thrun
+8489,3,Machine Learning,Alexander Junge
+19655,2,Computer Graphics,Rob Fergus
+5375,3,Artificial Intelligence,Yan Liu
+28673,3,Bioinformatics,Nick Goldman
+38935,1,Health Informatics,Peter White
+23107,4,Cryptography,Liang Liu
+42441,4,User Interface Design,Siti Aminah
+4896,1,Deep Learning,Carl Edward Rasmussen
+28972,2,Big Data Analytics,Martin J. Aryee
+42919,2,Visual Analytics,Riku Hietaniemi
+22391,3,Human-Computer Interaction,Dominikus Heckmann
+31772,3,Game Development,Mahmud Hasan
+38674,1,Computer Aided Engineering,Marina Carbone
+10821,5,Machine Learning,Muhammad Suleman
+23896,4,Internet of Things,Shih-Hsuan Huang
+31762,2,Game Development,Savaş Öztürk
+41845,2,System Dynamics,Adha Imam Cahyadi
+41274,2,Software Testing,Jean-Marc Jezequel
+22904,4,Quantum Computing,Kyungjoo Noh
+31357,1,Parallel Computing,Mostafa I. Soliman
+31734,1,Game Development,Ari Hollander
+31856,2,Computational Biology,Junmei Wang
+36173,2,Pattern Recognition,Cees H. Elzinga
+20927,3,Scientific Computing,Kai Li
+33789,2,Wireless Communications,Joonas Kokkoniemi
+8757,3,Reinforcement Learning,Mehdi Mohammadi
+4952,1,Machine Learning,Ronan Collobert
+30010,2,Database Systems,Peter M. Fischer
+37089,3,Autonomous Systems,A. Finn
+23708,2,Internet of Things,Elsebeth Holmen
+39921,3,Quantitative Analysis,Mark Taylor
+8779,4,Statistical Learning,Nils Reimers
+45024,3,Web Services,Syed Ali Khayam
+474,3,Natural Language Processing,Nicolay Rusnachenko
+39159,2,IT Governance,Federico Caniato
+72,2,Natural Language Processing,Xiang Yu
+34971,5,High-Performance Computing,Xian Li
+24172,2,Cloud Computing,Phuong Pham
+36913,2,Computational Chemistry,Herman van Vlijmen
+24181,2,Cloud Computing,Samodha Pallewatta
+22024,4,Computer Graphics,Lixia Zhang
+41558,3,Software Testing,Antonio Ruiz Cortés
+22081,4,Computer Vision,Yuhui Shi
+8917,4,Reinforcement Learning,Adrien Gaidon
+21955,3,Computer Vision,Robert M. Haralick
+31594,3,Distributed Systems,Patrick-Benjamin Bök
+10797,5,Machine Learning,Andreas Christmann
+522,1,Information Retrieval,Vivien Petras
+4848,1,Artificial Intelligence,Tom Mitchell
+31609,4,Distributed Systems,Alessio Netti
+32942,5,Operating Systems,Robert Fischer
+39786,4,Performance Engineering,Sergi Siso
+11494,1,Computer Graphics,Ion Stoica
+8086,5,Machine Intelligence,Gitta Kutyniok
+32937,4,Operating Systems,Majid Ali
+22452,4,Human-Computer Interaction,Gyouhyung Kyung
+42312,4,System Integration,Sandro Belfanti
+42327,4,System Integration,Magno Guedes
+10807,5,Deep Learning,Eun Yong Kang
+11399,1,Scientific Computing,Jiawei Han
+23591,1,Internet of Things,Gerd Kortuem
+39037,4,Health Informatics,Beth Devine
+39758,2,Performance Engineering,Sung-Han Lin
+39899,3,Quantitative Analysis,Dadong Wang
+38658,5,Computational Finance,Zexin Wang
+39864,5,Performance Engineering,Gaurav Kumar Singh
+26091,2,Robotics,Roman Zahariev
+36925,4,Computational Chemistry,Xavier Fradera
+23601,2,Internet of Things,Pablo Chamoso
+45026,3,Web Services,Shoko Utsunomiya
+31528,1,Distributed Systems,Petr Tůma
+41956,1,System Integration,William Merrill
+42531,3,Virtualization Technology,Roderick V. Jensen
+20393,3,Computer Vision,Dan Boneh
+24106,1,Mobile Computing,Srini Ramaswamy
+36864,1,Ubiquitous Computing,Mostafa Haghi
+39156,2,IT Governance,Fabio Pammolli
+38254,1,Complex Systems,Stefano Boccaletti
+37326,5,Autonomous Systems,Michael Fowler
+42466,1,Virtualization Technology,Hanif D. Sherali
+23259,5,Cryptography,Manoj Kumar Popuri
+31403,2,Parallel Computing,Aman Sinha
+25367,1,Network Security,Tyler Moore
+5343,3,Artificial Intelligence,Alberto Fernández
+11435,1,Scientific Computing,Li Fei-Fei
+29943,5,Software Engineering,Jih-Sheng Lai
+36989,1,Autonomous Systems,Pietro Valdastri
+21976,4,Computer Vision,Michael Elad
+41838,2,System Dynamics,Stefano Marmi
+42430,1,User Interface Design,Sukirno
+33790,3,Wireless Communications,Italo Atzeni
+36878,2,Ubiquitous Computing,Saeid Sheikhi
+31614,4,Distributed Systems,Emmanouil Dimogerontakis
+22330,1,Human-Computer Interaction,Jaime Sánchez
+40289,2,Remote Sensing,Joachim Hill
+23483,4,Virtual Reality,Manfred Zabarauskas
+23850,3,Internet of Things,Fabian Lorig
+25683,1,Robotics,Kenneth Salisbury
+23099,4,Cryptography,Alessandro Budroni
+38347,3,Complex Systems,Massimiliano Viale
+8044,2,Statistical Learning,Chao Tian
+29946,1,Virtualization Technology,Jih-Sheng Lai
+11226,4,Data Mining,Fatemeh Boobord
+11227,4,Data Mining,Yirui Huang
+38405,1,Computational Finance,Rolf Poulsen
+38169,5,Business Intelligence,Miguel Nicolau
+24953,1,Edge Computing,Mark Anderson
+8714,3,Deep Learning,Seyed-Ahmad Ahmadi
+26325,1,Bioinformatics,Roderic Guigo
+38695,2,Computer Aided Engineering,K Vijaya Lakshmi
+33459,1,Wireless Communications,Maziar Nekovee
+40297,2,Remote Sensing,Li Zhang
+24141,1,Cloud Computing,Steffen Gebhardt
+38385,5,Complex Systems,Andrea Baldassarri
+20434,3,Scientific Computing,Dawn Song
+39157,2,IT Governance,Carlo Salvato
+42413,5,System Integration,Gul Zameen Khan
+23904,4,Internet of Things,Jinfa Wang
+39761,2,Performance Engineering,Yichen Jia
+41822,1,System Dynamics,Stefan Lochbrunner
+23519,4,Augmented Reality,Hiroshi Motoda
+35402,3,Embedded Systems,Piërre van de Laar
+25476,3,Cybersecurity,Jeff Yan
+28662,2,Bioinformatics,Torsten Schwede
+5095,2,Machine Learning,De-Shuang Huang
+39176,2,IT Governance,Ciriaco Andrea D'Angelo
+24993,1,Cybersecurity,Peng Liu

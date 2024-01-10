@@ -1,0 +1,3340 @@
+,rel,query,author_name
+0,5,Natural Language Processing,Nigel Collier
+7,5,Natural Language Processing,Siegfried Handschuh
+11,5,Natural Language Processing,Martin Krallinger
+18,5,Natural Language Processing,Mikko Kurimo
+19,5,Natural Language Processing,Stefan Riezler
+20,5,Natural Language Processing,Goran Glavaš
+22,5,Natural Language Processing,Carolina Scarton
+24,5,Natural Language Processing,Chenghua Lin
+25,5,Natural Language Processing,Weiran Xu
+44,5,Natural Language Processing,Lamia Hadrich Belguith
+46,5,Natural Language Processing,Cédrick Fairon
+47,5,Natural Language Processing,Zhenhai Zhu
+50,5,Natural Language Processing,Ekaterina Kochmar
+51,5,Natural Language Processing,Philipp Brune
+53,4,Natural Language Processing,Lingjia Deng
+54,4,Natural Language Processing,Klemens Schnattinger
+56,4,Natural Language Processing,Michael Walsh
+63,4,Natural Language Processing,Patrick Watrin
+64,4,Natural Language Processing,Katrin Schweitzer
+65,4,Natural Language Processing,Joselene Marques
+66,4,Natural Language Processing,Costanza Conforti
+69,4,Natural Language Processing,John Blackmore
+72,4,Natural Language Processing,Xiang Yu
+144,4,Natural Language Processing,Zuzana Nevěřilová
+145,4,Natural Language Processing,Injy Hamed
+146,4,Natural Language Processing,Anh-Dung Vo
+148,4,Natural Language Processing,Bryan Eikema
+149,4,Natural Language Processing,Ali Basirat
+150,4,Natural Language Processing,Tao Li
+474,3,Natural Language Processing,Nicolay Rusnachenko
+475,3,Natural Language Processing,Fabrizio Ghigi
+476,3,Natural Language Processing,Hanzhao Li
+477,3,Natural Language Processing,Jan Buchmann
+478,3,Natural Language Processing,Ali Salhi
+479,3,Natural Language Processing,Nikodem Rybak
+480,2,Natural Language Processing,Imen Touati
+482,2,Natural Language Processing,Anna Zawadzka
+484,2,Natural Language Processing,Chong Shen
+508,2,Natural Language Processing,Thomas Huber
+512,2,Natural Language Processing,Zhihao Wu
+516,5,Information Retrieval,Ian Ruthven
+518,5,Information Retrieval,Birger Larsen
+521,5,Information Retrieval,Javier Parapar
+522,5,Information Retrieval,Vivien Petras
+523,5,Information Retrieval,Trond Aalberg
+526,5,Information Retrieval,Maria Poptsova
+528,5,Information Retrieval,Jun Xu
+726,5,Information Retrieval,Floor Sietsma
+727,5,Information Retrieval,Samarth Bhargav
+729,5,Information Retrieval,Mohammad Fallah
+731,5,Information Retrieval,Nooshin Soleymani Asl
+732,5,Artificial Intelligence,Ruslan Salakhutdinov
+733,5,Machine Learning,Ruslan Salakhutdinov
+734,5,Deep Learning,Ruslan Salakhutdinov
+735,5,Reinforcement Learning,Ruslan Salakhutdinov
+736,5,Machine Intelligence,Ruslan Salakhutdinov
+737,5,Statistical Learning,Ruslan Salakhutdinov
+738,5,Artificial Intelligence,Sepp Hochreiter
+742,5,Machine Learning,Sepp Hochreiter
+746,5,Deep Learning,Sepp Hochreiter
+750,5,Reinforcement Learning,Sepp Hochreiter
+754,5,Machine Intelligence,Sepp Hochreiter
+758,5,Statistical Learning,Sepp Hochreiter
+762,5,Artificial Intelligence,Max Welling
+763,5,Machine Learning,Max Welling
+764,5,Deep Learning,Max Welling
+765,5,Reinforcement Learning,Max Welling
+766,5,Machine Intelligence,Max Welling
+767,5,Statistical Learning,Max Welling
+768,5,Artificial Intelligence,Wei Liu
+1443,5,Machine Learning,Wei Liu
+2118,5,Deep Learning,Wei Liu
+2793,5,Reinforcement Learning,Wei Liu
+3468,5,Machine Intelligence,Wei Liu
+4143,5,Statistical Learning,Wei Liu
+4818,5,Artificial Intelligence,Chris Williams
+4822,5,Machine Learning,Chris Williams
+4826,5,Deep Learning,Chris Williams
+4830,5,Reinforcement Learning,Chris Williams
+4834,5,Machine Intelligence,Chris Williams
+4838,5,Statistical Learning,Chris Williams
+4842,5,Artificial Intelligence,Samir Bhatt
+4843,5,Machine Learning,Samir Bhatt
+4844,5,Deep Learning,Samir Bhatt
+4845,5,Reinforcement Learning,Samir Bhatt
+4846,5,Machine Intelligence,Samir Bhatt
+4847,5,Statistical Learning,Samir Bhatt
+4848,5,Artificial Intelligence,Tom Mitchell
+4850,5,Machine Learning,Tom Mitchell
+4852,5,Deep Learning,Tom Mitchell
+4854,5,Reinforcement Learning,Tom Mitchell
+4856,5,Machine Intelligence,Tom Mitchell
+4858,5,Statistical Learning,Tom Mitchell
+4860,5,Artificial Intelligence,U Rajendra Acharya
+4861,5,Machine Intelligence,U Rajendra Acharya
+4862,5,Artificial Intelligence,Samy Bengio
+4865,5,Machine Learning,Samy Bengio
+4868,5,Deep Learning,Samy Bengio
+4871,5,Reinforcement Learning,Samy Bengio
+4874,5,Machine Intelligence,Samy Bengio
+4877,5,Statistical Learning,Samy Bengio
+4880,5,Artificial Intelligence,Enrique Herrera-Viedma
+4881,5,Machine Intelligence,Enrique Herrera-Viedma
+4882,5,Artificial Intelligence,Thore Graepel
+4884,5,Machine Learning,Thore Graepel
+4886,5,Deep Learning,Thore Graepel
+4888,5,Reinforcement Learning,Thore Graepel
+4890,5,Machine Intelligence,Thore Graepel
+4892,5,Statistical Learning,Thore Graepel
+4894,5,Artificial Intelligence,Carl Edward Rasmussen
+4895,5,Machine Learning,Carl Edward Rasmussen
+4896,5,Deep Learning,Carl Edward Rasmussen
+4897,5,Reinforcement Learning,Carl Edward Rasmussen
+4898,5,Machine Intelligence,Carl Edward Rasmussen
+4899,5,Statistical Learning,Carl Edward Rasmussen
+4900,5,Artificial Intelligence,Yee Whye Teh
+4904,5,Machine Learning,Yee Whye Teh
+4908,5,Deep Learning,Yee Whye Teh
+4912,5,Reinforcement Learning,Yee Whye Teh
+4916,5,Machine Intelligence,Yee Whye Teh
+4920,5,Statistical Learning,Yee Whye Teh
+4924,5,Artificial Intelligence,Menglong Zhu
+4927,5,Machine Learning,Menglong Zhu
+4930,5,Deep Learning,Menglong Zhu
+4933,5,Reinforcement Learning,Menglong Zhu
+4936,5,Machine Intelligence,Menglong Zhu
+4939,5,Statistical Learning,Menglong Zhu
+4942,5,Artificial Intelligence,Stefan Schaal
+4943,5,Machine Learning,Stefan Schaal
+4944,5,Robotics,Stefan Schaal
+4945,5,Deep Learning,Stefan Schaal
+4946,5,Reinforcement Learning,Stefan Schaal
+4947,4,Machine Intelligence,Stefan Schaal
+4948,5,Statistical Learning,Stefan Schaal
+4949,4,Artificial Intelligence,Ronan Collobert
+4952,5,Machine Learning,Ronan Collobert
+4955,5,Deep Learning,Ronan Collobert
+4958,5,Reinforcement Learning,Ronan Collobert
+4961,4,Machine Intelligence,Ronan Collobert
+4964,5,Statistical Learning,Ronan Collobert
+4967,4,Artificial Intelligence,John Winn
+4969,5,Machine Learning,John Winn
+4971,5,Deep Learning,John Winn
+4973,5,Reinforcement Learning,John Winn
+4975,4,Machine Intelligence,John Winn
+4977,5,Statistical Learning,John Winn
+4979,4,Artificial Intelligence,Salvador García
+4983,4,Machine Intelligence,Salvador García
+4987,4,Artificial Intelligence,Stephen Roberts
+4990,5,Machine Learning,Stephen Roberts
+4993,5,Robotics,Stephen Roberts
+4996,5,Deep Learning,Stephen Roberts
+4999,5,Reinforcement Learning,Stephen Roberts
+5002,4,Machine Intelligence,Stephen Roberts
+5005,5,Statistical Learning,Stephen Roberts
+5008,4,Artificial Intelligence,Yejin Choi
+5010,4,Machine Intelligence,Yejin Choi
+5012,4,Artificial Intelligence,Qihao Weng
+5020,4,Machine Intelligence,Qihao Weng
+5028,4,Artificial Intelligence,Le Song
+5041,4,Machine Intelligence,Le Song
+5054,4,Artificial Intelligence,Pedro Larrañaga
+5055,4,Machine Intelligence,Pedro Larrañaga
+5056,4,Artificial Intelligence,Luis M. Sarro
+5057,4,Machine Intelligence,Luis M. Sarro
+5058,4,Artificial Intelligence,Piotr Slomka
+5060,3,Machine Intelligence,Piotr Slomka
+5062,4,Artificial Intelligence,De-Shuang Huang
+5095,4,Machine Learning,De-Shuang Huang
+5128,4,Deep Learning,De-Shuang Huang
+5161,4,Reinforcement Learning,De-Shuang Huang
+5194,3,Machine Intelligence,De-Shuang Huang
+5227,4,Statistical Learning,De-Shuang Huang
+5260,4,Artificial Intelligence,Michael Beetz
+5263,3,Machine Intelligence,Michael Beetz
+5266,3,Artificial Intelligence,Abdenour Hadid
+5269,3,Machine Intelligence,Abdenour Hadid
+5272,3,Artificial Intelligence,Ziv Bar-Joseph
+5274,4,Machine Learning,Ziv Bar-Joseph
+5276,4,Deep Learning,Ziv Bar-Joseph
+5278,4,Reinforcement Learning,Ziv Bar-Joseph
+5280,3,Machine Intelligence,Ziv Bar-Joseph
+5282,4,Statistical Learning,Ziv Bar-Joseph
+5284,3,Artificial Intelligence,Martin Renqiang Min
+5285,4,Machine Learning,Martin Renqiang Min
+5286,4,Deep Learning,Martin Renqiang Min
+5287,4,Reinforcement Learning,Martin Renqiang Min
+5288,3,Machine Intelligence,Martin Renqiang Min
+5289,4,Statistical Learning,Martin Renqiang Min
+5290,3,Artificial Intelligence,Christian Ledig
+5292,4,Machine Learning,Christian Ledig
+5294,4,Deep Learning,Christian Ledig
+5296,4,Reinforcement Learning,Christian Ledig
+5298,3,Machine Intelligence,Christian Ledig
+5300,4,Statistical Learning,Christian Ledig
+5302,3,Artificial Intelligence,Junichi Tsujii
+5303,3,Machine Intelligence,Junichi Tsujii
+5304,3,Artificial Intelligence,Zachary C. Lipton
+5305,4,Machine Learning,Zachary C. Lipton
+5306,4,Deep Learning,Zachary C. Lipton
+5307,4,Reinforcement Learning,Zachary C. Lipton
+5308,3,Machine Intelligence,Zachary C. Lipton
+5309,4,Statistical Learning,Zachary C. Lipton
+5310,3,Artificial Intelligence,Geoff Gordon
+5311,4,Machine Learning,Geoff Gordon
+5312,4,Deep Learning,Geoff Gordon
+5313,4,Reinforcement Learning,Geoff Gordon
+5314,3,Machine Intelligence,Geoff Gordon
+5315,4,Statistical Learning,Geoff Gordon
+5316,3,Artificial Intelligence,Dipanjan Roy
+5320,2,Big Data Analytics,Dipanjan Roy
+5324,3,Machine Intelligence,Dipanjan Roy
+5328,3,Artificial Intelligence,Carles Sierra
+5332,3,Machine Intelligence,Carles Sierra
+5336,3,Artificial Intelligence,Leandro dos Santos Coelho
+5337,4,Machine Learning,Leandro dos Santos Coelho
+5338,1,Big Data Analytics,Leandro dos Santos Coelho
+5339,4,Deep Learning,Leandro dos Santos Coelho
+5340,4,Reinforcement Learning,Leandro dos Santos Coelho
+5341,3,Machine Intelligence,Leandro dos Santos Coelho
+5342,4,Statistical Learning,Leandro dos Santos Coelho
+5343,3,Artificial Intelligence,Alberto Fernández
+5346,3,Machine Intelligence,Alberto Fernández
+5349,3,Artificial Intelligence,Nguyen-Thoi Trung
+5350,2,Machine Intelligence,Nguyen-Thoi Trung
+5351,3,Artificial Intelligence,Rolf Pfeifer
+5360,2,Machine Intelligence,Rolf Pfeifer
+5369,3,Artificial Intelligence,Awni Hannun
+5370,4,Machine Learning,Awni Hannun
+5371,4,Deep Learning,Awni Hannun
+5372,4,Reinforcement Learning,Awni Hannun
+5373,2,Machine Intelligence,Awni Hannun
+5374,4,Statistical Learning,Awni Hannun
+5375,3,Artificial Intelligence,Yan Liu
+5790,4,Machine Learning,Yan Liu
+6205,4,Deep Learning,Yan Liu
+6620,4,Reinforcement Learning,Yan Liu
+7035,2,Machine Intelligence,Yan Liu
+7450,4,Statistical Learning,Yan Liu
+7865,2,Artificial Intelligence,Shengcai Liao
+7867,2,Machine Intelligence,Shengcai Liao
+7869,2,Artificial Intelligence,Christian Blum
+7873,2,Machine Intelligence,Christian Blum
+7877,2,Artificial Intelligence,Graham Taylor
+7878,2,Machine Intelligence,Graham Taylor
+7879,2,Artificial Intelligence,Günter Klambauer
+7881,4,Machine Learning,Günter Klambauer
+7883,4,Deep Learning,Günter Klambauer
+7885,4,Reinforcement Learning,Günter Klambauer
+7887,2,Machine Intelligence,Günter Klambauer
+7889,4,Statistical Learning,Günter Klambauer
+7891,2,Artificial Intelligence,André Carlos Ponce de Leon Ferreira de Carvalho
+7893,2,Machine Intelligence,André Carlos Ponce de Leon Ferreira de Carvalho
+7895,2,Artificial Intelligence,Jeremy Schwartzentruber
+7896,2,Machine Intelligence,Jeremy Schwartzentruber
+7897,2,Artificial Intelligence,Tianrui Li
+7906,2,Machine Intelligence,Tianrui Li
+7915,2,Artificial Intelligence,Richard Bowden
+7916,4,Machine Learning,Richard Bowden
+7917,4,Deep Learning,Richard Bowden
+7918,4,Reinforcement Learning,Richard Bowden
+7919,1,Machine Intelligence,Richard Bowden
+7920,4,Statistical Learning,Richard Bowden
+7921,2,Artificial Intelligence,Thomas Serre
+7922,1,Machine Intelligence,Thomas Serre
+7923,2,Artificial Intelligence,Xiao-Jun Wu
+7936,1,Machine Intelligence,Xiao-Jun Wu
+7949,2,Artificial Intelligence,Chao Tian
+7968,3,Machine Learning,Chao Tian
+7987,4,Deep Learning,Chao Tian
+8006,4,Reinforcement Learning,Chao Tian
+8025,1,Machine Intelligence,Chao Tian
+8044,4,Statistical Learning,Chao Tian
+8063,2,Artificial Intelligence,Wai Lok Woo
+8064,3,Machine Learning,Wai Lok Woo
+8065,4,Deep Learning,Wai Lok Woo
+8066,4,Reinforcement Learning,Wai Lok Woo
+8067,1,Machine Intelligence,Wai Lok Woo
+8068,4,Statistical Learning,Wai Lok Woo
+8069,2,Artificial Intelligence,Peter Clark
+8077,1,Machine Intelligence,Peter Clark
+8085,2,Artificial Intelligence,Gitta Kutyniok
+8086,1,Machine Intelligence,Gitta Kutyniok
+8087,1,Artificial Intelligence,Kun Zhang
+8226,1,Machine Intelligence,Kun Zhang
+8365,1,Artificial Intelligence,Benjamin Schrauwen
+8366,3,Machine Learning,Benjamin Schrauwen
+8367,4,Deep Learning,Benjamin Schrauwen
+8368,4,Reinforcement Learning,Benjamin Schrauwen
+8369,1,Machine Intelligence,Benjamin Schrauwen
+8370,3,Statistical Learning,Benjamin Schrauwen
+8371,1,Artificial Intelligence,David A. Clifton
+8372,3,Machine Learning,David A. Clifton
+8373,3,Deep Learning,David A. Clifton
+8374,3,Reinforcement Learning,David A. Clifton
+8375,1,Machine Intelligence,David A. Clifton
+8376,3,Statistical Learning,David A. Clifton
+8377,1,Artificial Intelligence,Jiasen Lu
+8378,1,Machine Intelligence,Jiasen Lu
+8379,1,Artificial Intelligence,Jim Smith
+8382,1,Machine Intelligence,Jim Smith
+8385,1,Artificial Intelligence,Vikas Kumar
+8409,1,Machine Intelligence,Vikas Kumar
+8433,1,Artificial Intelligence,Bing Xue
+8453,1,Machine Intelligence,Bing Xue
+8473,1,Artificial Intelligence,Marco Zorzi
+8475,1,Artificial Intelligence,Gustavo Carneiro
+8477,3,Machine Learning,Gustavo Carneiro
+8479,3,Deep Learning,Gustavo Carneiro
+8481,3,Reinforcement Learning,Gustavo Carneiro
+8483,3,Statistical Learning,Gustavo Carneiro
+8485,1,Artificial Intelligence,Grigoris Antoniou
+8488,1,Artificial Intelligence,Alexander Junge
+8489,3,Machine Learning,Alexander Junge
+8490,3,Deep Learning,Alexander Junge
+8491,3,Reinforcement Learning,Alexander Junge
+8492,3,Statistical Learning,Alexander Junge
+8493,1,Artificial Intelligence,Stefan Washietl
+8494,1,Artificial Intelligence,Xiaojun Chang
+8498,1,Artificial Intelligence,Alessandro Vullo
+8500,3,Machine Learning,Alessandro Vullo
+8502,3,Deep Learning,Alessandro Vullo
+8504,3,Reinforcement Learning,Alessandro Vullo
+8506,3,Statistical Learning,Alessandro Vullo
+8508,4,Machine Learning,Sami Haddadin
+8510,3,Robotics,Sami Haddadin
+8512,1,Machine Intelligence,Sami Haddadin
+8514,3,Machine Learning,Sushmita Mitra
+8515,1,Machine Intelligence,Sushmita Mitra
+8516,3,Machine Learning,Ross D. King
+8519,3,Machine Learning,Jun Seita
+8520,3,Deep Learning,Jun Seita
+8521,3,Machine Learning,Moustapha Cisse
+8522,3,Deep Learning,Moustapha Cisse
+8523,3,Reinforcement Learning,Moustapha Cisse
+8524,3,Statistical Learning,Moustapha Cisse
+8525,3,Machine Learning,Yang Song
+8655,3,Machine Learning,Lorenzo Rosasco
+8656,3,Deep Learning,Lorenzo Rosasco
+8657,3,Reinforcement Learning,Lorenzo Rosasco
+8658,3,Statistical Learning,Lorenzo Rosasco
+8659,3,Machine Learning,Ralf Schlüter
+8660,3,Deep Learning,Ralf Schlüter
+8661,3,Reinforcement Learning,Ralf Schlüter
+8662,3,Statistical Learning,Ralf Schlüter
+8663,3,Machine Learning,Huiyu Zhou
+8675,3,Deep Learning,Huiyu Zhou
+8687,3,Reinforcement Learning,Huiyu Zhou
+8699,3,Statistical Learning,Huiyu Zhou
+8711,2,Machine Learning,Seyed-Ahmad Ahmadi
+8714,3,Deep Learning,Seyed-Ahmad Ahmadi
+8717,2,Machine Learning,Marcus Liwicki
+8721,3,Deep Learning,Marcus Liwicki
+8725,3,Reinforcement Learning,Marcus Liwicki
+8729,3,Statistical Learning,Marcus Liwicki
+8733,2,Machine Learning,Kevin Bryson
+8735,3,Deep Learning,Kevin Bryson
+8737,3,Reinforcement Learning,Kevin Bryson
+8739,3,Statistical Learning,Kevin Bryson
+8741,2,Machine Learning,Mehdi Mohammadi
+8749,3,Deep Learning,Mehdi Mohammadi
+8757,3,Reinforcement Learning,Mehdi Mohammadi
+8765,3,Statistical Learning,Mehdi Mohammadi
+8773,2,Machine Learning,Nils Reimers
+8775,2,Deep Learning,Nils Reimers
+8777,3,Reinforcement Learning,Nils Reimers
+8779,2,Statistical Learning,Nils Reimers
+8781,2,Machine Learning,Richard Everson
+8782,2,Deep Learning,Richard Everson
+8783,3,Reinforcement Learning,Richard Everson
+8784,2,Statistical Learning,Richard Everson
+8785,2,Machine Learning,Djork-Arné Clevert
+8786,2,Deep Learning,Djork-Arné Clevert
+8787,2,Reinforcement Learning,Djork-Arné Clevert
+8788,2,Statistical Learning,Djork-Arné Clevert
+8789,2,Machine Learning,Maria Schuld
+8790,2,Deep Learning,Maria Schuld
+8791,2,Reinforcement Learning,Maria Schuld
+8792,2,Statistical Learning,Maria Schuld
+8793,2,Machine Learning,Bjoern M. Eskofier
+8795,2,Deep Learning,Bjoern M. Eskofier
+8797,2,Reinforcement Learning,Bjoern M. Eskofier
+8799,2,Statistical Learning,Bjoern M. Eskofier
+8801,2,Machine Learning,Angelo Cangelosi
+8807,1,Robotics,Angelo Cangelosi
+8813,2,Deep Learning,Angelo Cangelosi
+8819,2,Reinforcement Learning,Angelo Cangelosi
+8825,2,Statistical Learning,Angelo Cangelosi
+8831,2,Machine Learning,Seungjin Choi
+8834,2,Deep Learning,Seungjin Choi
+8837,2,Reinforcement Learning,Seungjin Choi
+8840,2,Statistical Learning,Seungjin Choi
+8843,2,Machine Learning,Hubert Ramsauer
+8844,2,Deep Learning,Hubert Ramsauer
+8845,2,Reinforcement Learning,Hubert Ramsauer
+8846,2,Statistical Learning,Hubert Ramsauer
+8847,2,Machine Learning,Jaehong Lee
+8853,2,Deep Learning,Jaehong Lee
+8859,2,Machine Learning,Ahmed Hosny
+8861,2,Deep Learning,Ahmed Hosny
+8863,2,Reinforcement Learning,Ahmed Hosny
+8865,2,Statistical Learning,Ahmed Hosny
+8867,2,Machine Learning,Dmitry Ulyanov
+8868,2,Deep Learning,Dmitry Ulyanov
+8869,2,Reinforcement Learning,Dmitry Ulyanov
+8870,2,Statistical Learning,Dmitry Ulyanov
+8871,2,Machine Learning,Anders Søgaard
+8879,2,Deep Learning,Anders Søgaard
+8887,2,Reinforcement Learning,Anders Søgaard
+8895,2,Statistical Learning,Anders Søgaard
+8903,2,Machine Learning,Ferrante Neri
+8904,2,Deep Learning,Ferrante Neri
+8905,2,Reinforcement Learning,Ferrante Neri
+8906,2,Statistical Learning,Ferrante Neri
+8907,1,Machine Learning,Riccardo Miotto
+8909,2,Deep Learning,Riccardo Miotto
+8911,2,Reinforcement Learning,Riccardo Miotto
+8913,2,Statistical Learning,Riccardo Miotto
+8915,1,Machine Learning,Adrien Gaidon
+8916,2,Deep Learning,Adrien Gaidon
+8917,2,Reinforcement Learning,Adrien Gaidon
+8918,2,Statistical Learning,Adrien Gaidon
+8919,1,Machine Learning,Jian Zhang
+9363,2,Deep Learning,Jian Zhang
+9807,2,Reinforcement Learning,Jian Zhang
+10251,2,Statistical Learning,Jian Zhang
+10695,1,Machine Learning,Frans Coenen
+10696,5,Data Mining,Frans Coenen
+10697,2,Deep Learning,Frans Coenen
+10698,2,Reinforcement Learning,Frans Coenen
+10699,1,Statistical Learning,Frans Coenen
+10700,1,Machine Learning,Francesco Marcelloni
+10701,5,Data Mining,Francesco Marcelloni
+10702,2,Deep Learning,Francesco Marcelloni
+10703,2,Reinforcement Learning,Francesco Marcelloni
+10704,1,Statistical Learning,Francesco Marcelloni
+10705,1,Machine Learning,Peter Grünwald
+10708,2,Deep Learning,Peter Grünwald
+10711,2,Reinforcement Learning,Peter Grünwald
+10714,1,Statistical Learning,Peter Grünwald
+10717,1,Machine Learning,Adrian Weller
+10718,1,Deep Learning,Adrian Weller
+10719,2,Reinforcement Learning,Adrian Weller
+10720,1,Statistical Learning,Adrian Weller
+10721,1,Machine Learning,Paul Pu Liang
+10722,1,Deep Learning,Paul Pu Liang
+10723,1,Reinforcement Learning,Paul Pu Liang
+10724,1,Statistical Learning,Paul Pu Liang
+10725,1,Machine Learning,Saurabh Kumar
+10741,1,Deep Learning,Saurabh Kumar
+10757,1,Reinforcement Learning,Saurabh Kumar
+10773,1,Statistical Learning,Saurabh Kumar
+10789,1,Machine Learning,Sourabh Vora
+10790,1,Deep Learning,Sourabh Vora
+10791,1,Reinforcement Learning,Sourabh Vora
+10792,1,Statistical Learning,Sourabh Vora
+10793,1,Machine Learning,Fabien Campagne
+10794,1,Deep Learning,Fabien Campagne
+10795,1,Reinforcement Learning,Fabien Campagne
+10796,1,Statistical Learning,Fabien Campagne
+10797,1,Machine Learning,Andreas Christmann
+10799,1,Deep Learning,Andreas Christmann
+10801,1,Reinforcement Learning,Andreas Christmann
+10803,1,Statistical Learning,Andreas Christmann
+10805,1,Machine Learning,Eun Yong Kang
+10807,1,Deep Learning,Eun Yong Kang
+10809,1,Reinforcement Learning,Eun Yong Kang
+10811,1,Statistical Learning,Eun Yong Kang
+10813,1,Machine Learning,Aarti Singh
+10815,1,Deep Learning,Aarti Singh
+10817,1,Reinforcement Learning,Aarti Singh
+10819,1,Statistical Learning,Aarti Singh
+10821,1,Machine Learning,Muhammad Suleman
+10822,1,Deep Learning,Muhammad Suleman
+10823,1,Reinforcement Learning,Muhammad Suleman
+10824,1,Statistical Learning,Muhammad Suleman
+10825,1,Machine Learning,Soeren Sonnenburg
+10829,1,Deep Learning,Soeren Sonnenburg
+10833,1,Reinforcement Learning,Soeren Sonnenburg
+10837,1,Statistical Learning,Soeren Sonnenburg
+10841,5,Data Mining,Matthias Schlesner
+10842,5,Data Mining,Ibrahim Aljarah
+10843,5,Data Mining,Erich Schubert
+10844,5,Data Mining,Michael Sailer
+10846,5,Data Mining,Jiang Zhou
+10865,5,Data Mining,Sven Laur
+10866,5,Data Mining,Claudia Plant
+10868,5,Data Mining,Jose Maria Gomez Hidalgo
+10869,5,Text Analytics,Jose Maria Gomez Hidalgo
+10870,5,Data Mining,Dieter Landes
+10873,5,Data Mining,Ariel Beresniak
+10874,5,Data Mining,Bo Jin
+10908,4,Data Mining,Wei Peng
+11009,4,Data Mining,Xingjie Liu
+11011,4,Data Mining,Klaus ten Hagen
+11014,4,Data Mining,Michal Marczyk
+11016,4,Data Mining,Arnaud Quirin
+11021,4,Data Mining,Guillaume Jacquet
+11023,5,Text Analytics,Guillaume Jacquet
+11025,4,Data Mining,Enrico Fagiuoli
+11026,4,Data Mining,Panagis Magdalinos
+11027,4,Data Mining,David Malmgren-Hansen
+11028,4,Data Mining,Seyoon Lee
+11029,4,Data Mining,Armando B. Mendes
+11030,4,Data Mining,Samuel Branders
+11031,4,Data Mining,Ning Niu
+11034,3,Data Mining,María del Carmen Romero
+11035,3,Data Mining,Daniel Miller
+11048,3,Data Mining,Tao Wu
+11206,3,Data Mining,Stamatina Thomaidou
+11207,3,Data Mining,Matthew Saltz
+11210,3,Data Mining,Mauricio Soto Alvarez
+11211,3,Data Mining,Loai AbdAllah
+11213,3,Data Mining,Mehrnoush Barani Shirzad
+11214,3,Data Mining,Vitali Herrera-Semenets
+11215,3,Data Mining,Zihang Zeng
+11216,3,Data Mining,Dan Harvey
+11217,3,Data Mining,Kaveh Darabi
+11219,2,Data Mining,Cong Qi
+11224,2,Data Mining,Jinsoo Bae
+11225,2,Data Mining,Mohammad Hossein Elahimanesh
+11226,2,Data Mining,Fatemeh Boobord
+11227,2,Data Mining,Yirui Huang
+11229,2,Data Mining,Antoine Ghorra
+11231,1,Data Mining,Ming Wang
+11312,5,Computer Vision,Geoffrey Hinton
+11313,5,Computer Graphics,Geoffrey Hinton
+11314,5,Scientific Computing,Geoffrey Hinton
+11315,5,Computer Vision,Yoshua Bengio
+11325,5,Computer Graphics,Yoshua Bengio
+11335,5,Scientific Computing,Yoshua Bengio
+11345,5,Computer Vision,Jiawei Han
+11372,5,Computer Graphics,Jiawei Han
+11399,5,Scientific Computing,Jiawei Han
+11426,5,Computer Vision,Stephen Boyd
+11427,5,Software Engineering,Stephen Boyd
+11428,5,Computer Graphics,Stephen Boyd
+11429,5,Scientific Computing,Stephen Boyd
+11430,5,Computer Vision,Trevor Darrell
+11431,5,Computer Graphics,Trevor Darrell
+11432,5,Scientific Computing,Trevor Darrell
+11433,5,Computer Vision,Li Fei-Fei
+11434,5,Computer Graphics,Li Fei-Fei
+11435,5,Scientific Computing,Li Fei-Fei
+11436,5,Computer Vision,Luc Van Gool
+11438,5,Computer Vision,Philip S. Yu
+11450,5,Computer Graphics,Philip S. Yu
+11462,5,Scientific Computing,Philip S. Yu
+11474,5,Computer Vision,William H. Press
+11477,5,Computer Graphics,William H. Press
+11480,5,Scientific Computing,William H. Press
+11483,5,Computer Vision,Scott Shenker
+11484,5,Computer Graphics,Scott Shenker
+11485,5,Scientific Computing,Scott Shenker
+11486,5,Computer Vision,Manolis Kellis
+11487,5,Computer Graphics,Manolis Kellis
+11488,5,Scientific Computing,Manolis Kellis
+11489,5,Computer Vision,Jure Leskovec
+11490,5,Computer Graphics,Jure Leskovec
+11491,5,Scientific Computing,Jure Leskovec
+11492,5,Computer Vision,Ion Stoica
+11494,5,Computer Graphics,Ion Stoica
+11496,5,Scientific Computing,Ion Stoica
+11498,5,Computer Vision,Sebastian Thrun
+11501,5,Computer Graphics,Sebastian Thrun
+11504,5,Scientific Computing,Sebastian Thrun
+11507,5,Computer Vision,Francisco Herrera
+11514,5,Computer Graphics,Francisco Herrera
+11521,5,Scientific Computing,Francisco Herrera
+11528,5,Computer Vision,David S. Johnson
+11534,5,Computer Graphics,David S. Johnson
+11540,5,Scientific Computing,David S. Johnson
+11546,5,Computer Vision,Judea Pearl
+11551,5,Computer Graphics,Judea Pearl
+11556,5,Scientific Computing,Judea Pearl
+11561,5,Computer Vision,David Lowe
+11567,5,Computer Graphics,David Lowe
+11573,4,Scientific Computing,David Lowe
+11579,4,Computer Vision,Steven Robbins
+11581,5,Computer Graphics,Steven Robbins
+11583,4,Scientific Computing,Steven Robbins
+11585,4,Computer Vision,Deborah Estrin
+11587,4,Computer Graphics,Deborah Estrin
+11589,4,Scientific Computing,Deborah Estrin
+11591,4,Computer Vision,Ian H. Witten
+11592,4,Computer Graphics,Ian H. Witten
+11593,4,Scientific Computing,Ian H. Witten
+11594,4,Computer Vision,Jeffrey Ullman
+11595,4,Computer Graphics,Jeffrey Ullman
+11596,4,Scientific Computing,Jeffrey Ullman
+11597,4,Computer Vision,David Patterson
+11604,4,Computer Graphics,David Patterson
+11611,4,Scientific Computing,David Patterson
+11618,4,Computer Vision,Wei Wang
+12766,3,Computer Vision,Wei Wang
+13914,4,Computer Graphics,Wei Wang
+15062,3,Computer Graphics,Wei Wang
+16210,1,Pattern Recognition,Wei Wang
+17358,4,Scientific Computing,Wei Wang
+18506,3,Scientific Computing,Wei Wang
+19654,4,Computer Vision,Rob Fergus
+19655,4,Computer Graphics,Rob Fergus
+19656,4,Scientific Computing,Rob Fergus
+19657,4,Computer Vision,Leonidas Guibas
+19658,4,Computer Graphics,Leonidas Guibas
+19659,4,Scientific Computing,Leonidas Guibas
+19660,4,Computer Vision,Ali Farhadi
+19664,5,Software Engineering,Ali Farhadi
+19668,4,Computer Graphics,Ali Farhadi
+19672,4,Scientific Computing,Ali Farhadi
+19676,4,Computer Vision,Jon Kleinberg
+19677,4,Computer Graphics,Jon Kleinberg
+19678,4,Scientific Computing,Jon Kleinberg
+19679,4,Computer Vision,Antonio Torralba
+19682,4,Computer Graphics,Antonio Torralba
+19685,4,Scientific Computing,Antonio Torralba
+19688,4,Computer Vision,Olaf Ronneberger
+19689,4,Computer Graphics,Olaf Ronneberger
+19690,4,Scientific Computing,Olaf Ronneberger
+19691,4,Computer Vision,Yang Chen
+19910,4,Computer Graphics,Yang Chen
+20129,3,Virtualization Technology,Yang Chen
+20348,4,Computer Vision,Stuart Russell
+20349,4,Computer Graphics,Stuart Russell
+20350,4,Scientific Computing,Stuart Russell
+20351,4,Computer Vision,Wolfram Burgard
+20358,4,Computer Graphics,Wolfram Burgard
+20365,4,Scientific Computing,Wolfram Burgard
+20372,4,Computer Vision,Eibe Frank
+20373,4,Computer Graphics,Eibe Frank
+20374,4,Scientific Computing,Eibe Frank
+20375,4,Computer Vision,Ben Shneiderman
+20380,4,Computer Graphics,Ben Shneiderman
+20385,3,Scientific Computing,Ben Shneiderman
+20390,4,Computer Vision,Alan Yuille
+20391,4,Computer Graphics,Alan Yuille
+20392,3,Scientific Computing,Alan Yuille
+20393,3,Computer Vision,Dan Boneh
+20402,4,Computer Graphics,Dan Boneh
+20411,3,Scientific Computing,Dan Boneh
+20420,3,Computer Vision,William T. Freeman
+20421,3,Computer Graphics,William T. Freeman
+20422,3,Scientific Computing,William T. Freeman
+20423,3,Computer Vision,Andrew McCallum
+20425,3,Computer Graphics,Andrew McCallum
+20427,3,Scientific Computing,Andrew McCallum
+20429,3,Computer Vision,Allen Newell
+20430,3,Computer Graphics,Allen Newell
+20431,3,Scientific Computing,Allen Newell
+20432,3,Computer Vision,Dawn Song
+20433,3,Computer Graphics,Dawn Song
+20434,3,Scientific Computing,Dawn Song
+20435,3,Computer Vision,Kai Li
+20599,3,Computer Graphics,Kai Li
+20763,5,IT Governance,Kai Li
+20927,3,Scientific Computing,Kai Li
+21091,3,Computer Vision,Ben Langmead
+21092,3,Computer Graphics,Ben Langmead
+21093,3,Scientific Computing,Ben Langmead
+21094,3,Computer Vision,Scott Kirkpatrick
+21099,5,Software Engineering,Scott Kirkpatrick
+21104,3,Computer Graphics,Scott Kirkpatrick
+21109,3,Scientific Computing,Scott Kirkpatrick
+21114,3,Computer Vision,Nir Friedman
+21117,3,Computer Graphics,Nir Friedman
+21120,3,Scientific Computing,Nir Friedman
+21123,3,Computer Vision,Anders Krogh
+21124,5,Big Data Analytics,Anders Krogh
+21125,3,Computer Graphics,Anders Krogh
+21126,3,Scientific Computing,Anders Krogh
+21127,3,Computer Vision,Liang Chen
+21396,3,Computer Graphics,Liang Chen
+21665,3,Scientific Computing,Liang Chen
+21934,3,Computer Vision,Pavel Pevzner
+21935,3,Computer Graphics,Pavel Pevzner
+21936,3,Scientific Computing,Pavel Pevzner
+21937,3,Computer Vision,Mubarak Shah
+21940,3,Computer Graphics,Mubarak Shah
+21943,2,Scientific Computing,Mubarak Shah
+21946,3,Computer Vision,Larry Davis
+21949,3,Computer Graphics,Larry Davis
+21952,2,Scientific Computing,Larry Davis
+21955,3,Computer Vision,Robert M. Haralick
+21962,3,Computer Graphics,Robert M. Haralick
+21969,2,Scientific Computing,Robert M. Haralick
+21976,2,Computer Vision,Michael Elad
+21978,3,Computer Graphics,Michael Elad
+21980,2,Scientific Computing,Michael Elad
+21982,2,Computer Vision,Thorsten Joachims
+21985,2,Computer Graphics,Thorsten Joachims
+21988,2,Scientific Computing,Thorsten Joachims
+21991,2,Computer Vision,David Wagner
+21997,2,Computer Graphics,David Wagner
+22003,2,Scientific Computing,David Wagner
+22009,2,Computer Vision,Lixia Zhang
+22024,2,Computer Graphics,Lixia Zhang
+22039,2,Scientific Computing,Lixia Zhang
+22054,2,Computer Vision,Robert Morris
+22063,2,Computer Graphics,Robert Morris
+22072,2,Scientific Computing,Robert Morris
+22081,2,Computer Vision,Yuhui Shi
+22088,5,Software Engineering,Yuhui Shi
+22095,2,Computer Graphics,Yuhui Shi
+22102,2,Scientific Computing,Yuhui Shi
+22109,2,Computer Vision,Adrian Perrig
+22112,2,Computer Graphics,Adrian Perrig
+22115,2,Scientific Computing,Adrian Perrig
+22118,2,Computer Vision,Jim Hendler
+22121,2,Computer Graphics,Jim Hendler
+22124,2,Scientific Computing,Jim Hendler
+22127,2,Computer Vision,Barry Boehm
+22133,4,Software Engineering,Barry Boehm
+22139,2,Computer Graphics,Barry Boehm
+22145,2,Scientific Computing,Barry Boehm
+22151,2,Computer Vision,Pascal Fua
+22152,2,Computer Graphics,Pascal Fua
+22153,2,Scientific Computing,Pascal Fua
+22154,2,Computer Vision,Sangeeta N. Bhatia
+22155,4,Software Engineering,Sangeeta N. Bhatia
+22156,2,Computer Graphics,Sangeeta N. Bhatia
+22157,1,Scientific Computing,Sangeeta N. Bhatia
+22158,2,Computer Vision,David Karger
+22159,2,Computer Graphics,David Karger
+22160,1,Scientific Computing,David Karger
+22161,2,Computer Vision,Michael Franklin
+22163,2,Computer Graphics,Michael Franklin
+22165,1,Scientific Computing,Michael Franklin
+22167,2,Computer Vision,Demetri Terzopoulos
+22168,2,Computer Graphics,Demetri Terzopoulos
+22169,1,Scientific Computing,Demetri Terzopoulos
+22170,2,Computer Vision,Shih-Fu Chang
+22177,4,Software Engineering,Shih-Fu Chang
+22184,2,Computer Graphics,Shih-Fu Chang
+22191,1,Scientific Computing,Shih-Fu Chang
+22198,1,Computer Vision,Carlos A. Coello Coello
+22201,2,Computer Graphics,Carlos A. Coello Coello
+22204,1,Scientific Computing,Carlos A. Coello Coello
+22207,1,Computer Vision,Nassir Navab
+22208,1,Computer Graphics,Nassir Navab
+22209,1,Scientific Computing,Nassir Navab
+22210,1,Computer Vision,Mani Srivastava
+22211,4,Software Engineering,Mani Srivastava
+22212,1,Computer Graphics,Mani Srivastava
+22213,1,Scientific Computing,Mani Srivastava
+22214,1,Computer Vision,Daniela Rus
+22218,1,Computer Graphics,Daniela Rus
+22222,1,Scientific Computing,Daniela Rus
+22226,1,Computer Vision,Mihai Pop
+22230,1,Computer Graphics,Mihai Pop
+22234,1,Scientific Computing,Mihai Pop
+22238,1,Computer Vision,Mihir Bellare
+22241,4,Software Engineering,Mihir Bellare
+22244,1,Computer Graphics,Mihir Bellare
+22247,1,Scientific Computing,Mihir Bellare
+22250,1,Computer Vision,Mark Horowitz
+22252,4,Software Engineering,Mark Horowitz
+22254,1,Computer Graphics,Mark Horowitz
+22256,1,Scientific Computing,Mark Horowitz
+22258,1,Computer Vision,Jennifer Rexford
+22259,1,Computer Graphics,Jennifer Rexford
+22260,1,Scientific Computing,Jennifer Rexford
+22261,1,Computer Vision,Erkki Oja
+22265,4,Software Engineering,Erkki Oja
+22269,1,Computer Graphics,Erkki Oja
+22273,1,Computer Vision,Kevin W. Bowyer
+22275,4,Software Engineering,Kevin W. Bowyer
+22277,1,Computer Graphics,Kevin W. Bowyer
+22279,1,Computer Vision,Gilles Brassard
+22281,1,Computer Graphics,Gilles Brassard
+22283,1,Computer Vision,Padhraic Smyth
+22285,1,Computer Graphics,Padhraic Smyth
+22287,1,Computer Vision,Eran Segal
+22289,1,Computer Graphics,Eran Segal
+22291,1,Computer Vision,Oded Goldreich
+22294,1,Computer Graphics,Oded Goldreich
+22297,5,Human-Computer Interaction,Robert E. Kraut
+22302,5,Human-Computer Interaction,Brad A. Myers
+22303,5,Human-Computer Interaction,Alexander Maedche
+22304,5,Human-Computer Interaction,John Zimmerman
+22306,5,Human-Computer Interaction,Russell Beale
+22307,5,Human-Computer Interaction,Scott E. Hudson
+22310,5,Human-Computer Interaction,Vincent Aleven
+22312,5,Human-Computer Interaction,Ann Blandford
+22313,5,Human-Computer Interaction,Paul Cairns
+22314,5,Human-Computer Interaction,Kenton O'Hara
+22315,5,Human-Computer Interaction,Manfred Tscheligi
+22319,5,Human-Computer Interaction,Luca Chittaro
+22323,5,Human-Computer Interaction,Frank Steinicke
+22326,5,Human-Computer Interaction,James Morris
+22330,5,Human-Computer Interaction,Jaime Sánchez
+22333,4,Human-Computer Interaction,Kari Kuutti
+22335,4,Human-Computer Interaction,Min Kyung Lee
+22338,4,Human-Computer Interaction,David Kirk
+22341,4,Human-Computer Interaction,Harald Reiterer
+22342,4,Human-Computer Interaction,Helen Petrie
+22344,4,Human-Computer Interaction,Denis Lalanne
+22345,4,Human-Computer Interaction,Max Van Kleek
+22346,4,Human-Computer Interaction,Marc Erich Latoschik
+22352,4,Human-Computer Interaction,Margot Brereton
+22353,4,Human-Computer Interaction,Corina Sas
+22354,4,Human-Computer Interaction,Jan Gulliksen
+22357,4,Human-Computer Interaction,Annika Waern
+22359,4,Human-Computer Interaction,Thorsten O. Zander
+22360,4,Human-Computer Interaction,Jason Alexander
+22362,4,Human-Computer Interaction,Elise van den Hoven
+22363,4,Human-Computer Interaction,Geoff Kaufman
+22365,4,Human-Computer Interaction,Stephanie Wilson
+22367,3,Human-Computer Interaction,Oren Zuckerman
+22368,3,Human-Computer Interaction,Vero Vanden Abeele
+22370,3,Human-Computer Interaction,Luigina Ciolfi
+22372,3,Human-Computer Interaction,Ian Li
+22374,3,Human-Computer Interaction,Tom Gross
+22376,3,Human-Computer Interaction,Jens Grubert
+22380,4,Internet of Things,Jens Grubert
+22384,3,Human-Computer Interaction,Anne Roudaut
+22385,3,Human-Computer Interaction,Valentin Schwind
+22387,3,Human-Computer Interaction,Roberto Ranon
+22389,3,Human-Computer Interaction,Cecilia Katzeff
+22391,3,Human-Computer Interaction,Dominikus Heckmann
+22398,3,Human-Computer Interaction,Chang Hu
+22406,3,Human-Computer Interaction,Volker Paelke
+22413,3,Human-Computer Interaction,Oliver Korn
+22416,3,Human-Computer Interaction,Birgit Lugrin
+22418,3,Human-Computer Interaction,Matjaž Debevc
+22419,2,Human-Computer Interaction,Panayiotis Koutsabasis
+22420,2,Human-Computer Interaction,Eva-Lotta Sallnäs Pysander
+22421,2,Human-Computer Interaction,Miguel Sales Dias
+22423,2,Human-Computer Interaction,Christos Katsanos
+22425,2,Human-Computer Interaction,Richard Picking
+22430,2,Human-Computer Interaction,Kerry Shih-Ping Chang
+22431,2,Human-Computer Interaction,Gerrit Meixner
+22432,2,Human-Computer Interaction,Paulo Carvalho
+22441,2,Human-Computer Interaction,Oussama Metatla
+22442,2,Human-Computer Interaction,Anna De Liddo
+22443,2,Human-Computer Interaction,Ahmed Kharrufa
+22445,2,Human-Computer Interaction,Nikolas Martelaro
+22447,2,Human-Computer Interaction,Paul Pangaro
+22450,2,Human-Computer Interaction,Sanaz Fallahkhair
+22451,2,Human-Computer Interaction,Susanne Stadler
+22452,2,Human-Computer Interaction,Gyouhyung Kyung
+22453,2,Human-Computer Interaction,Vasiliki Tsaknaki
+22454,2,Human-Computer Interaction,David Lamas
+22457,1,Human-Computer Interaction,Evan Metsky
+22458,1,Human-Computer Interaction,Saijing Zheng
+22459,1,Human-Computer Interaction,Paul Lubos
+22460,1,Human-Computer Interaction,Ralf Philipsen
+22461,1,Human-Computer Interaction,Kiran Ijaz
+22462,1,Human-Computer Interaction,Martin Christof Kindsmüller
+22470,1,Human-Computer Interaction,Shadan Sadeghian
+22472,1,Human-Computer Interaction,Chantal Lidynia
+22473,1,Human-Computer Interaction,Chris Creed
+22475,1,Human-Computer Interaction,Erik Harpstead
+22476,1,Human-Computer Interaction,Teresa Brell
+22477,1,Human-Computer Interaction,Johannes Zagermann
+22478,1,Human-Computer Interaction,Kevin Doherty
+22481,1,Human-Computer Interaction,Yanjin Long
+22482,5,Quantum Computing,Georg Kresse
+22483,5,Quantum Computing,Samuel L. Braunstein
+22484,5,Quantum Computing,Jacob Taylor
+22487,5,Quantum Computing,Richard Cleve
+22489,5,Quantum Computing,Stefano Pirandola
+22490,5,Quantum Computing,Alexey V. Gorshkov
+22491,5,Quantum Computing,Andrew M. Childs
+22492,5,Quantum Computing,Michele Mosca
+22494,5,Quantum Computing,Hausi A. Müller
+22496,5,Quantum Computing,Olivier Parcollet
+22497,5,Quantum Computing,Keivan Navi
+22498,4,Quantum Computing,Marco Pistoia
+22499,4,Quantum Computing,Christopher Wilson
+22506,4,Quantum Computing,Takeshi Fukuhara
+22508,4,Quantum Computing,Colm Ryan
+22509,4,Web Services,Colm Ryan
+22510,4,Quantum Computing,Joseph Fitzsimons
+22511,4,Quantum Computing,Min-Hsiu Hsieh
+22513,4,Quantum Computing,Sorin Cotofana
+22514,4,Quantum Computing,Edwin Miles Stoudenmire
+22515,4,Quantum Computing,Wei Qiu
+22546,3,Quantum Computing,Alejandro Perdomo-Ortiz
+22547,3,Quantum Computing,Na Young Kim
+22550,3,Quantum Computing,Davide Venturelli
+22551,3,Quantum Computing,Joseph Doetsch
+22552,3,Quantum Computing,Giacomo Torlai
+22553,2,Quantum Computing,Markus Weber
+22559,2,Quantum Computing,Emmanuel N. Koukaras
+22560,1,Computational Chemistry,Emmanuel N. Koukaras
+22561,2,Quantum Computing,Hao Shi
+22596,2,Quantum Computing,Aleksandar Radovanovic
+22598,2,Quantum Computing,Steven P. Reinhardt
+22599,2,Quantum Computing,Jing Chen
+22904,2,Quantum Computing,Kyungjoo Noh
+22905,2,Quantum Computing,Stuart Hadfield
+22906,2,Quantum Computing,Si-Hui Tan
+22907,1,Quantum Computing,Jani Tuorila
+22908,1,Quantum Computing,Xin Xie
+22936,1,Quantum Computing,Weichao Yu
+22937,1,Quantum Computing,Yiming Zhang
+22990,1,Quantum Computing,Quanlong Wang
+23000,5,Cryptography,Shai Halevi
+23004,5,Cryptography,Elisabeth Oswald
+23007,4,Cybersecurity,Elisabeth Oswald
+23010,5,Cryptography,Bill Horne
+23011,5,Cryptography,Joppe W. Bos
+23012,5,Cryptography,Bill Buchanan
+23014,5,Cryptography,Brian LaMacchia
+23015,5,Cryptography,Michael Tunstall
+23016,5,Cryptography,Francisco Rodríguez-Henríquez
+23017,5,Cryptography,Helena Handschuh
+23026,5,Cryptography,Christophe Giraud
+23029,5,Cryptography,Mark Manulis
+23031,5,Cryptography,Erik-Oliver Blass
+23033,5,Cryptography,François Dupressoir
+23035,5,Cryptography,Sana Belguith
+23037,4,Cryptography,Raghav Bhaskar
+23039,4,Cryptography,Sebastian Gajek
+23043,4,Cryptography,Abdelrahaman Aly
+23044,4,Cryptography,Tore Kasper Frederiksen
+23045,4,Cryptography,Ahmad Al Badawi
+23047,4,Cryptography,Arvind Singh
+23051,4,Cryptography,David Nuñez
+23052,4,Cryptography,Łukasz Chmielewski
+23055,4,Cryptography,Cedric Tavernier
+23056,4,Cryptography,Luca Nizzardo
+23057,4,Cryptography,Chunxiang Gu
+23070,4,Cryptography,Luke Mather
+23071,3,Cryptography,Lauren De Meyer
+23072,3,Cryptography,Alexander Nilsson
+23075,3,Cryptography,Max Tuengerthal
+23077,3,Cryptography,Dur-e-Shahwar Kundi
+23078,3,Cryptography,Carl Löndahl
+23079,3,Cryptography,Mohammed Abdulhakim Al-Absi
+23080,3,Cryptography,Adolph Seema
+23081,3,Cryptography,Thom Wiggers
+23082,3,Cryptography,Ricardo Villanueva-Polanco
+23085,3,Cryptography,Dusan Kostic
+23088,3,Cryptography,Aikaterini-Panagiota Stouka
+23089,3,Cryptography,Abhijit Ambekar
+23090,3,Cryptography,Yaser Sadra
+23091,2,Cryptography,Oğuz Yayla
+23092,2,Cryptography,Rawane Issa
+23093,2,Cryptography,Iñigo Querejeta-Azurmendi
+23094,2,Cryptography,Anh Tu Tran
+23095,2,Cryptography,Aritra Banerjee
+23099,2,Cryptography,Alessandro Budroni
+23101,2,Cryptography,Kexin Hu
+23106,2,Cryptography,Syed Mahbub Hafiz
+23107,2,Cryptography,Liang Liu
+23254,1,Cryptography,Aleksei Vambol
+23256,1,Cryptography,Nguyen Duc Tam
+23257,1,Cryptography,Soumya Das
+23259,1,Cryptography,Manoj Kumar Popuri
+23260,1,Cryptography,Nicolas Costes
+23262,1,Cryptography,Michael Lyons
+23264,5,Blockchain Technology,Claudio J. Tessone
+23265,5,Blockchain Technology,Paolo Tasca
+23266,5,Blockchain Technology,Han Liu
+23336,1,Big Data Analytics,Han Liu
+23406,5,Blockchain Technology,Victor Sucasas
+23407,5,Blockchain Technology,Mahbubul Alam
+23411,5,Blockchain Technology,Alejandro Ranchal-Pedrosa
+23413,5,Blockchain Technology,Nasibeh Mohammadzadeh
+23414,5,Blockchain Technology,Santosh Vishwakarma
+23415,5,Virtual Reality,Steven M. LaValle
+23416,5,Robotics,Steven M. LaValle
+23417,5,Virtual Reality,Dieter Schmalstieg
+23419,4,Virtualization Technology,Dieter Schmalstieg
+23421,5,Virtual Reality,Thomas Lunner
+23423,5,Virtual Reality,Hannes Kaufmann
+23424,5,Virtual Reality,Tina Iachini
+23425,5,Virtual Reality,Falko Kuester
+23426,5,Virtual Reality,Andreas Kunz
+23431,5,Virtual Reality,Stephan Didas
+23432,5,Virtual Reality,D. Shin
+23436,5,Virtual Reality,Juan David Hincapié-Ramos
+23437,5,Virtual Reality,Christoph Anthes
+23440,5,Virtual Reality,Leif Oppermann
+23445,5,Virtual Reality,Harshit Gupta
+23450,4,Virtual Reality,Andrew Stanley
+23453,4,Virtual Reality,Vijay Kalivarapu
+23454,4,Virtual Reality,Andreas Reichinger
+23456,4,Virtual Reality,Milena Vuckovic
+23457,4,Virtual Reality,Zsolt Horváth
+23458,4,Virtual Reality,Jingwen Dai
+23460,4,Virtual Reality,Janki Dodiya
+23462,4,Virtual Reality,Nikos Avradinis
+23463,4,Virtual Reality,Muhammad Ayaz Shirazi
+23464,4,Virtual Reality,Jinat Ara
+23465,3,Virtual Reality,Johannes Novotny
+23466,3,Virtual Reality,Hochul Cho
+23467,3,Virtual Reality,Yolande Kolstee
+23468,3,Virtual Reality,Inayatullah Khan
+23469,3,Virtual Reality,Antonella Ferrara
+23470,2,Robotics,Antonella Ferrara
+23471,3,Virtual Reality,Guoxing Yu
+23472,3,Virtual Reality,Pierre Martin
+23480,3,Virtual Reality,Chelsie Boyd
+23481,2,Virtual Reality,Gamini Perhakaran
+23482,2,Virtual Reality,Natalie Hube
+23483,2,Virtual Reality,Manfred Zabarauskas
+23484,2,Virtual Reality,Noorin Suhaila Asjad
+23485,2,Virtual Reality,Vanita Raj Tank
+23486,2,Virtual Reality,Muzi Li
+23488,2,Virtual Reality,Sebastian Pape
+23495,2,Virtual Reality,Mirko Russo
+23496,5,Augmented Reality,Fernando Monticelli
+23497,5,Augmented Reality,Alejandro R Jadad
+23498,4,Augmented Reality,Anthony Randal McIntosh
+23499,4,Augmented Reality,Andrew R. Teel
+23501,2,Software Engineering,Andrew R. Teel
+23503,3,Augmented Reality,Alan R. Dennis
+23506,3,Augmented Reality,Ahmad-Reza Sadeghi
+23511,3,Augmented Reality,Artem R. Oganov
+23512,3,Augmented Reality,Beatriz García
+23513,3,Augmented Reality,Abdur Razzaque Sarker
+23514,3,Augmented Reality,Facundo Manes
+23515,2,Augmented Reality,Alan R Clarke
+23516,2,Augmented Reality,Mariano Gómez Berisso
+23517,2,Augmented Reality,Hernán Asorey
+23519,2,Augmented Reality,Hiroshi Motoda
+23522,1,Augmented Reality,A. Ronald Gallant
+23523,1,Augmented Reality,Andrew R. Barron
+23525,5,Internet of Things,Juan M. Corchado
+23526,5,Internet of Things,Rongxing Lu
+23530,5,Internet of Things,Tommaso Melodia
+23533,5,Internet of Things,Eve Schooler
+23535,5,Internet of Things,Wei Xiang
+23578,5,Internet of Things,Kjetil Fagerholt
+23580,5,Internet of Things,Kaishun Wu
+23589,5,Internet of Things,Gianluigi Ferrari
+23590,5,Internet of Things,Yasuo Kokubun
+23591,5,Internet of Things,Gerd Kortuem
+23595,5,Internet of Things,Luitzen de Boer
+23596,5,Internet of Things,Felix Wortmann
+23597,5,Internet of Things,Judith Good
+23600,5,Internet of Things,Asgeir Tomasgard
+23601,4,Internet of Things,Pablo Chamoso
+23602,4,Internet of Things,Marcus Barkowsky
+23605,4,Internet of Things,Roger Sørheim
+23606,4,Internet of Things,Cheng-Lin Liu
+23621,4,Internet of Things,Michele Nati
+23623,4,Internet of Things,Xiaofeng Liu
+23688,4,Internet of Things,Wang-Ji Yan
+23689,4,Internet of Things,Kevin Lee
+23706,4,Internet of Things,Weilin Yang
+23707,4,Internet of Things,Simone Cirani
+23708,4,Internet of Things,Elsebeth Holmen
+23709,4,Internet of Things,Lars Ivar Hagfors
+23710,4,Internet of Things,Hongxun Hui
+23711,4,Internet of Things,Claudio Pastrone
+23713,4,Internet of Things,Kambiz Shoarinejad
+23714,3,Internet of Things,Leonardo Bonati
+23716,3,Internet of Things,Chengying Mao
+23746,3,Internet of Things,M. Yousof Naderi
+23747,3,Internet of Things,Markus Weinberger
+23748,3,Internet of Things,Jongsoon Park
+23751,3,Internet of Things,Qiong Wu
+23847,3,Internet of Things,Peter Schütz
+23848,3,Internet of Things,Rajeev Muralidhar
+23850,3,Internet of Things,Fabian Lorig
+23852,3,Internet of Things,Apoorv Srivastava
+23854,3,Internet of Things,Yulin Shao
+23855,3,Internet of Things,Mohamed Abdelkader
+23856,2,Internet of Things,Haider Ali
+23867,3,Distributed Systems,Haider Ali
+23878,5,Grid Computing,Haider Ali
+23889,2,Internet of Things,Biswajeeban Mishra
+23891,2,Internet of Things,Alireza Hassani
+23892,2,Internet of Things,Jorge F. Schmidt
+23893,2,Internet of Things,Zhihai Wu
+23896,2,Internet of Things,Shih-Hsuan Huang
+23898,2,Internet of Things,Troels Martin Range
+23899,2,Internet of Things,Vishnu Vardhan Paranthaman
+23900,2,Internet of Things,Marcus Lundén
+23902,5,Sensor Networks,Marcus Lundén
+23904,2,Internet of Things,Jinfa Wang
+23906,2,Internet of Things,Thanh Tung Nguyen
+23915,1,Internet of Things,Daniel Uvaydov
+23916,1,Internet of Things,Kambombo Mtonga
+23919,1,Internet of Things,Diego Bernini
+23920,1,Internet of Things,James Rwigema
+23921,1,Internet of Things,Sven Jung
+23922,1,Internet of Things,Abhimanyu Venkatraman Sheshashayee
+23924,1,Internet of Things,Yu Liang
+23968,5,Cloud Computing,Li Gao
+24030,5,Mobile Computing,Li Gao
+24092,5,Cloud Computing,Virender Kumar
+24093,5,Mobile Computing,Virender Kumar
+24094,5,Cloud Computing,Dinkar Sitaram
+24096,5,Mobile Computing,Dinkar Sitaram
+24098,5,Cloud Computing,Srini Ramaswamy
+24106,5,Mobile Computing,Srini Ramaswamy
+24114,5,Cloud Computing,Wenjuan Li
+24141,5,Cloud Computing,Steffen Gebhardt
+24142,5,Cloud Computing,Jos Martin
+24143,5,Parallel Computing,Jos Martin
+24144,5,Mobile Computing,Jos Martin
+24145,5,Cloud Data Management,Jos Martin
+24146,5,Cloud Computing,Jeff Daniels
+24148,5,Mobile Computing,Jeff Daniels
+24150,5,Cloud Computing,Saleh M. Altowaijri
+24152,5,Mobile Computing,Saleh M. Altowaijri
+24154,5,Cloud Computing,Zahra Abbasi
+24156,4,Mobile Computing,Zahra Abbasi
+24158,5,Cloud Computing,Muhammad Ali Ismail
+24159,4,Mobile Computing,Muhammad Ali Ismail
+24160,5,Cloud Computing,Haozhe Jia
+24163,4,Mobile Computing,Haozhe Jia
+24166,4,Cloud Computing,Abir Awad
+24167,4,Mobile Computing,Abir Awad
+24168,4,Cloud Computing,Sandeep Chandra
+24171,4,Cloud Computing,Emir Muñoz
+24172,4,Cloud Computing,Phuong Pham
+24175,4,Cloud Computing,Xunyun Liu
+24179,4,Cloud Computing,Massinissa Lounis
+24180,4,Mobile Computing,Massinissa Lounis
+24181,4,Cloud Computing,Samodha Pallewatta
+24182,4,Cloud Computing,TianZhang He
+24183,4,Cloud Computing,Maninder Singh
+24189,4,Mobile Computing,Maninder Singh
+24195,4,Cloud Computing,Yehia Arafa
+24196,4,Mobile Computing,Yehia Arafa
+24197,4,Cloud Computing,Sara Kardani Moghaddam
+24198,4,Cloud Computing,Viktor Schlegel
+24199,3,Cloud Computing,Rahat Masum
+24200,3,Mobile Computing,Rahat Masum
+24201,2,Workflow Management,Rahat Masum
+24202,3,Cloud Computing,Deepti Sharma
+24206,3,Mobile Computing,Deepti Sharma
+24210,3,Cloud Computing,Florian Marquardt
+24213,3,Mobile Computing,Florian Marquardt
+24216,3,Cloud Computing,Mariam Rady
+24219,3,Mobile Computing,Mariam Rady
+24222,3,Cloud Computing,Muhammad Umair
+24229,2,Mobile Computing,Muhammad Umair
+24236,3,Cloud Computing,Dimple Patel
+24238,2,Mobile Computing,Dimple Patel
+24240,3,Cloud Computing,Waleed Khan
+24242,2,Mobile Computing,Waleed Khan
+24244,3,Cloud Computing,Amanda Jayanetti
+24245,3,Cloud Computing,Faisal Khan
+24257,2,Mobile Computing,Faisal Khan
+24269,3,Cloud Computing,Tetsuo Furuichi
+24271,2,Mobile Computing,Tetsuo Furuichi
+24273,2,Cloud Computing,Siddharth Agarwal
+24281,2,Cloud Computing,Jie Zhao
+24386,2,Cloud Computing,Duneesha Fernando
+24387,2,Cloud Computing,Sara Moazzezi Eftekhar
+24388,1,Mobile Computing,Sara Moazzezi Eftekhar
+24389,1,Cloud Computing,Atif Khan
+24393,1,Mobile Computing,Atif Khan
+24397,5,Edge Computing,Yang Yang
+24937,5,Edge Computing,Nik Bessis
+24938,5,Edge Computing,Yonghuai Liu
+24940,5,Edge Computing,Tanveer Hussain
+24941,5,Edge Computing,Ioannis Korkontzelos
+24942,5,Edge Computing,Ardhendu Behera
+24943,5,Edge Computing,Frank A. Zdarsky
+24944,5,Edge Computing,Rehmat Ullah
+24946,5,Edge Computing,Amr Ahmed
+24951,5,Edge Computing,Benedek Kovács
+24953,5,Edge Computing,Mark Anderson
+24965,5,Edge Computing,Arindam Sikdar
+24967,5,Edge Computing,Collette Gavan
+24968,5,Cybersecurity,Ali Ghorbani
+24974,5,Cybersecurity,Ali A. Ghorbani
+24977,5,Cybersecurity,Mamoun Alazab
+24979,5,Network Security,Mamoun Alazab
+24981,5,Information Security,Mamoun Alazab
+24983,5,Cybersecurity,Dimitris A. Gritzalis
+24984,5,Cybersecurity,Bhavani Thuraisingham
+24985,5,Network Security,Bhavani Thuraisingham
+24986,5,Information Security,Bhavani Thuraisingham
+24987,5,Cybersecurity,Karen Scarfone
+24990,5,Cybersecurity,Ali Dehghantanha
+24993,5,Cybersecurity,Peng Liu
+25243,5,Cybersecurity,Roberto Di Pietro
+25254,5,Cybersecurity,Giancarlo Guizzardi
+25256,5,Cybersecurity,Jian Weng
+25292,5,Network Security,Jian Weng
+25328,5,Information Security,Jian Weng
+25364,5,Cybersecurity,Nor Badrul Anuar
+25365,5,Cybersecurity,Tyler Moore
+25367,5,Network Security,Tyler Moore
+25369,5,Information Security,Tyler Moore
+25371,5,Cybersecurity,Nour Moustafa
+25372,5,Network Security,Nour Moustafa
+25373,5,Information Security,Nour Moustafa
+25374,5,Cybersecurity,Shouhuai Xu
+25380,4,Cybersecurity,Alexandra Boldyreva
+25381,4,Cybersecurity,Leandros Maglaras
+25382,4,Cybersecurity,Arash Habibi Lashkari
+25383,4,Cybersecurity,Zhengdao Wang
+25389,4,Cybersecurity,Yan Solihin
+25392,4,Cybersecurity,Jeff Boleng
+25395,4,Network Security,Jeff Boleng
+25398,4,Information Security,Jeff Boleng
+25401,4,Cybersecurity,Wonjun Lee
+25404,4,Cybersecurity,Jill Slay
+25406,4,Cybersecurity,Helge Janicke
+25408,4,Network Security,Helge Janicke
+25410,4,Information Security,Helge Janicke
+25412,4,Cybersecurity,Sangjin Lee
+25429,4,Network Security,Sangjin Lee
+25446,4,Information Security,Sangjin Lee
+25463,4,Cybersecurity,Xun Yi
+25476,3,Cybersecurity,Jeff Yan
+25478,4,Network Security,Jeff Yan
+25480,3,Information Security,Jeff Yan
+25482,3,Cybersecurity,Gerhard Wunder
+25484,3,Cybersecurity,Marianne Junger
+25485,3,Network Security,Marianne Junger
+25486,3,Information Security,Marianne Junger
+25487,3,Cybersecurity,Srinivas Mukkamala
+25490,3,Network Security,Srinivas Mukkamala
+25493,3,Information Security,Srinivas Mukkamala
+25496,3,Cybersecurity,Ersin Uzun
+25498,3,Cybersecurity,Von Welch
+25503,3,Cybersecurity,Shahid Raza
+25507,3,Cybersecurity,Allen C. Johnston
+25509,3,Cybersecurity,Thomas M. Chen
+25511,3,Network Security,Thomas M. Chen
+25513,3,Information Security,Thomas M. Chen
+25515,3,Cybersecurity,Huy Kang Kim
+25517,3,Cybersecurity,Chang-Tsun Li
+25518,3,Network Security,Chang-Tsun Li
+25519,3,Information Security,Chang-Tsun Li
+25520,2,Cybersecurity,Luca Viganò
+25523,2,Cybersecurity,Spiros Mancoridis
+25524,2,Cybersecurity,Steven Noel
+25526,2,Cybersecurity,Matthew Wright
+25534,2,Cybersecurity,Michael Goldsmith
+25536,2,Cybersecurity,Michael Siegel
+25543,2,Cybersecurity,Vyacheslav Kharchenko
+25546,2,Cybersecurity,Seungjoo Kim
+25548,2,Cybersecurity,Marc A. Zissman
+25550,3,Network Security,Marc A. Zissman
+25552,2,Information Security,Marc A. Zissman
+25554,2,Cybersecurity,James Pierce
+25557,2,Cybersecurity,Sadie Creese
+25558,2,Cybersecurity,Bomin Mao
+25559,1,Cybersecurity,Ashish Kundu
+25561,1,Cybersecurity,Farrukh Aslam Khan
+25564,2,Network Security,Farrukh Aslam Khan
+25567,1,Information Security,Farrukh Aslam Khan
+25570,1,Cybersecurity,Jan Pelzl
+25572,1,Cybersecurity,George Loukas
+25573,2,Network Security,George Loukas
+25574,1,Information Security,George Loukas
+25575,1,Cybersecurity,Marco Casassa Mont
+25577,2,Network Security,Marco Casassa Mont
+25579,1,Information Security,Marco Casassa Mont
+25581,1,Cybersecurity,Marcel Winandy
+25584,2,Network Security,Marcel Winandy
+25587,1,Information Security,Marcel Winandy
+25590,1,Cybersecurity,Monica Scannapieco
+25596,1,Cybersecurity,Meiko Jensen
+25599,1,Cybersecurity,Elyes Ben Hamida
+25603,1,Network Security,Elyes Ben Hamida
+25607,1,Information Security,Elyes Ben Hamida
+25611,1,Cybersecurity,Marianthi Theocharidou
+25613,1,Cybersecurity,Ali Safaa Sadiq
+25614,1,Network Security,Ali Safaa Sadiq
+25615,1,Information Security,Ali Safaa Sadiq
+25616,5,Robotics,Andrew Zisserman
+25618,5,Robotics,Deva Ramanan
+25620,5,Robotics,Andrea Vedaldi
+25621,5,Robotics,Roland Siegwart
+25622,5,Robotics,Zhengyou Zhang
+25656,5,Robotics,Abhinav Gupta
+25667,5,Robotics,Alban Desmaison
+25669,5,Robotics,Davide Scaramuzza
+25671,5,Robotics,Kurt Konolige
+25683,5,Robotics,Kenneth Salisbury
+25685,5,Robotics,Dario Floreano
+25686,5,Robotics,Darwin G. Caldwell
+25689,5,Robotics,Kerstin Dautenhahn
+25694,5,Robotics,Michael Wang
+25712,5,Robotics,Antonio Bicchi
+25714,5,Robotics,Kai Yu
+25777,4,Robotics,Anthony Stentz
+25778,4,Robotics,Cyrill Stachniss
+25779,4,Robotics,Paul Newman
+25784,4,Robotics,Wei Xu
+26079,4,Robotics,Howie Choset
+26082,4,Robotics,Alin Albu-Schäffer
+26084,4,Robotics,Max Jaderberg
+26085,4,Robotics,Robert Riener
+26086,4,Robotics,Johannes Kulick
+26087,4,Robotics,Giulio Sandini
+26091,4,Robotics,Roman Zahariev
+26092,4,Robotics,Illah Nourbakhsh
+26093,4,Robotics,João F. Henriques
+26094,4,Robotics,Robert Shepherd
+26095,4,Robotics,Chang Huang
+26113,3,Robotics,Huosheng Hu
+26115,3,Robotics,David Murray
+26123,3,Robotics,Tomas Simon
+26124,3,Robotics,Chenguang Yang
+26146,3,Robotics,Matthew T. Mason
+26148,3,Robotics,Shuai Li
+26234,3,Robotics,Raja Chatila
+26241,5,Artificial Intelligence Ethics,Raja Chatila
+26248,3,Robotics,Miomir Vukobratovic
+26249,3,Robotics,Marco Hutter
+26252,3,Robotics,Morgan Quigley
+26253,3,Robotics,Vikas Sindhwani
+26257,3,Robotics,Domenico Prattichizzo
+26258,3,Robotics,Maxim Likhachev
+26259,3,Robotics,Stephen F. Smith
+26264,3,Robotics,Kaspar Althoefer
+26265,2,Robotics,Tully Foote
+26266,2,Robotics,Salah Sukkarieh
+26267,2,Robotics,António Pascoal
+26268,2,Robotics,Michael Milford
+26269,2,Robotics,Kris Kitani
+26270,2,Robotics,Ryan M. Eustice
+26271,2,Robotics,Gary K. Fedder
+26272,2,Robotics,Stefano Stramigioli
+26273,2,Robotics,Jur van den Berg
+26275,2,Robotics,Margarita Chli
+26276,2,Robotics,Sethu Vijayakumar
+26278,2,Robotics,Steven Waslander
+26279,1,Robotics,Carlos Silvestre
+26280,1,Robotics,Salvador Pané
+26281,1,Robotics,Claudio Melchiorri
+26283,1,Robotics,John M. Dolan
+26285,1,Robotics,Andreas Nüchter
+26286,1,Robotics,José Santos-Victor
+26288,1,Robotics,Paul Beardsley
+26290,1,Robotics,Niko Suenderhauf
+26292,1,Robotics,Luc Jaulin
+26295,1,Robotics,Alessandro Giusti
+26299,1,Robotics,Raj Reddy
+26304,1,Robotics,Pedro Martins
+26317,1,Robotics,Eric Jang
+26318,1,Robotics,Supun Samarasekera
+26320,5,Bioinformatics,Koichiro Tamura
+26325,5,Bioinformatics,Roderic Guigo
+26327,5,Bioinformatics,Owen White
+26332,5,Bioinformatics,Rehan Akbani
+26333,5,Bioinformatics,Fredrik Ronquist
+26335,5,Bioinformatics,Amos Bairoch
+26336,5,Bioinformatics,Yves Van de Peer
+26337,5,Bioinformatics,Andrey Sivachenko
+26338,5,Bioinformatics,Henning Hermjakob
+26339,5,Bioinformatics,Christian von Mering
+26340,5,Computational Biology,Christian von Mering
+26341,5,Bioinformatics,Jo Vandesompele
+26342,5,Bioinformatics,Erik Sonnhammer
+26343,5,Bioinformatics,Jun Yu
+26446,5,Bioinformatics,Zhiping Weng
+26447,4,Bioinformatics,Ken Chen
+26492,4,Computational Biology,Ken Chen
+26537,4,Bioinformatics,Wei Li
+27468,4,Bioinformatics,Daniel H. Huson
+27469,4,Bioinformatics,Wei Chen
+27982,4,Bioinformatics,Alvis Brazma
+27984,4,Bioinformatics,Houtan Noushmehr
+27985,4,Bioinformatics,David Jones
+28002,4,Bioinformatics,Damian Szklarczyk
+28004,4,Bioinformatics,Burkhard Rost
+28009,4,Computational Biology,Burkhard Rost
+28014,4,Bioinformatics,Jing Wang
+28662,4,Bioinformatics,Torsten Schwede
+28663,3,Bioinformatics,Nicolas Pons
+28664,3,Bioinformatics,Simon Kasif
+28665,3,Software Engineering,Simon Kasif
+28666,3,Bioinformatics,Werner Mewes
+28667,3,Bioinformatics,Shinichi Sunagawa
+28668,3,Bioinformatics,Helge Weissig
+28669,3,Bioinformatics,Nicole Redaschi
+28670,2,Software Engineering,Nicole Redaschi
+28671,3,Bioinformatics,Hidemi Watanabe
+28672,3,Bioinformatics,Albin Sandelin
+28673,3,Bioinformatics,Nick Goldman
+28675,3,Bioinformatics,Mauro Delorenzi
+28676,3,Bioinformatics,Zamin Iqbal
+28677,3,Bioinformatics,Zlatko Trajanoski
+28678,3,Bioinformatics,Helen Parkinson
+28679,2,Bioinformatics,Karsten Hokamp
+28680,2,Bioinformatics,Nicholas J Loman
+28681,2,Bioinformatics,Guangchuang Yu
+28682,2,Bioinformatics,Dmitrij Frishman
+28683,2,Bioinformatics,Felix Kokocinski
+28686,2,Bioinformatics,Peter D. Karp
+28690,2,Bioinformatics,Stefan Wyder
+28692,2,Bioinformatics,Benedikt Brors
+28693,2,Bioinformatics,Philipp Bucher
+28694,2,Bioinformatics,Gerard Manning
+28695,2,Bioinformatics,Ivo Pedruzzi
+28697,2,Bioinformatics,Ron D. Appel
+28699,2,Bioinformatics,Ron Shamir
+28702,1,Bioinformatics,Andrew Leach
+28704,1,Bioinformatics,Bengt Persson
+28705,1,Bioinformatics,Zhijun Li
+28771,1,Bioinformatics,Jaap Heringa
+28773,1,Bioinformatics,Burkhard Morgenstern
+28775,1,Bioinformatics,Heiko A. Schmidt
+28777,1,Bioinformatics,Dietmar Schomburg
+28781,1,Bioinformatics,Martin Steinegger
+28783,1,Bioinformatics,Jerven Bolleman
+28784,1,Bioinformatics,Mario Stanke
+28785,1,Bioinformatics,Yang Liao
+28790,1,Bioinformatics,Jaak Vilo
+28792,1,Bioinformatics,Andreas Keller
+28795,5,Algorithm Design,Christos Zaroliagis
+28796,5,Algorithm Design,Sakari Alenius
+28797,5,Algorithm Design,Pooya Mirzabeygi
+28798,5,Algorithm Design,Aymen Hamrouni
+28799,5,Algorithm Design,Taewoong Lee
+28800,5,Algorithm Design,Jinming Sun
+28801,5,Algorithm Design,Ali Reza Armiyoon
+28802,5,Algorithm Design,Yi Sun
+28942,5,Big Data Analytics,Roberto Castello
+28943,5,Big Data Analytics,Sadia Khalil
+28944,5,Big Data Analytics,Anders M. Dale
+28945,5,Big Data Analytics,Amitava Banerjee
+28949,5,Big Data Analytics,Vince D. Calhoun
+28951,5,Big Data Analytics,Jan Korbel
+28952,5,Big Data Analytics,Hong Qi
+28967,4,Big Data Analytics,Christos Davatzikos
+28968,4,Big Data Analytics,Björn Usadel
+28969,4,Big Data Analytics,Manuel A. Rivas
+28970,4,Big Data Analytics,Stephen B Montgomery
+28971,4,Big Data Analytics,Giovanni Parmigiani
+28972,4,Big Data Analytics,Martin J. Aryee
+28973,4,Big Data Analytics,Menachem Fromer
+28975,4,Big Data Analytics,Lionel Ni
+28976,4,Big Data Analytics,Euan A. Ashley
+28978,3,Big Data Analytics,Xiangnan He
+28981,3,Big Data Analytics,Ying Lu
+29052,3,Big Data Analytics,Qing Li
+29336,3,Big Data Analytics,Jun Zhu
+29440,3,Big Data Analytics,David Ruppert
+29442,3,Big Data Analytics,Anna Woodard
+29445,3,Big Data Analytics,Eytan Ruppin
+29447,3,Big Data Analytics,Sridhar Hannenhalli
+29448,3,Big Data Analytics,Victor Chernozhukov
+29449,3,Big Data Analytics,Gavin Shaddick
+29450,3,Big Data Analytics,Michael Kwok-Po Ng
+29461,3,Big Data Analytics,Aaron M Newman
+29462,3,Big Data Analytics,Andre Dekker
+29463,3,Big Data Analytics,Chiara Sabatti
+29464,3,Big Data Analytics,Kathleen McKeown
+29465,3,Big Data Analytics,Pan Hui
+29477,3,Big Data Analytics,Nigam Shah
+29478,2,Big Data Analytics,Sinan Aral
+29479,5,IT Governance,Sinan Aral
+29480,2,Big Data Analytics,Stefano Maria Iacus
+29481,2,Big Data Analytics,John Lehoczky
+29482,2,Big Data Analytics,Fionn Murtagh
+29484,2,Big Data Analytics,S. Cenk Sahinalp
+29485,2,Big Data Analytics,T. Tony Cai
+29486,2,Big Data Analytics,Evangelos Kontopantelis
+29487,2,Big Data Analytics,Nathan C. Sheffield
+29489,2,Big Data Analytics,Rajesh K. Gupta
+29491,2,Big Data Analytics,Sylvia K. Plevritis
+29492,2,Big Data Analytics,Michel Dumontier
+29493,2,Big Data Analytics,Christopher Southan
+29495,2,Big Data Analytics,Keng Siau
+29551,5,Database Systems,Keng Siau
+29607,2,Big Data Analytics,Jianfei Cai
+29612,1,Big Data Analytics,Nick Duffield
+29613,1,Big Data Analytics,Alexander Sherstnev
+29614,1,Big Data Analytics,Curtis P. Langlotz
+29615,1,Big Data Analytics,David Broadhurst
+29616,1,Big Data Analytics,Vladimir Brusic
+29620,1,Big Data Analytics,Xenophon Papademetris
+29621,1,Big Data Analytics,Bissan Al-Lazikani
+29622,1,Big Data Analytics,Katy Wolstencroft
+29623,1,Big Data Analytics,Anupama Reddy
+29624,1,Big Data Analytics,Louis Leung
+29627,5,Software Engineering,Thomas Doherty
+29628,5,Software Engineering,Michael I. Jordan
+29630,5,Software Engineering,Kalyanmoy Deb
+29634,5,Software Engineering,Daniel van der Ster
+29635,5,Software Engineering,Zhou Wang
+29654,5,Software Engineering,Olivier Grisel
+29655,5,Software Engineering,Chin-Hui Lee
+29676,5,Software Engineering,Xiang Chen
+29824,5,Software Engineering,John Bowers
+29830,4,Software Engineering,Lothar Thiele
+29835,4,Software Engineering,Ali Javey
+29836,4,Software Engineering,Mohammad Shahidehpour
+29839,4,Software Engineering,Kaushik Roy
+29849,4,Software Engineering,Pedro Domingos
+29850,3,Software Engineering,Michael R. Lyu
+29853,3,Software Engineering,Deborah L. McGuinness
+29855,3,Software Engineering,Vineet Bafna
+29858,3,Software Engineering,Stefan Savage
+29859,3,Software Engineering,Erik Cambria
+29861,3,Software Engineering,Dervis Karaboga
+29863,3,Software Engineering,Pearu Peterson
+29864,3,Software Engineering,J.-S. Roger Jang
+29865,3,Software Engineering,Jyh-Shing Roger Jang
+29897,2,Software Engineering,Srinivas Devadas
+29900,2,Software Engineering,Walid Saad
+29906,5,Virtualization Technology,Walid Saad
+29912,2,Software Engineering,Pheng Ann Heng
+29913,2,Software Engineering,Lior Rokach
+29916,5,Software Testing,Lior Rokach
+29919,2,Software Engineering,Steve Seitz
+29920,2,Software Engineering,Gregory Wornell
+29922,2,Software Engineering,Kannan Ramchandran
+29925,2,Software Engineering,Piotr Indyk
+29927,2,Software Engineering,David Wetherall
+29930,2,Software Engineering,Raj Jain
+29934,1,Software Engineering,Mark Harman
+29938,5,Software Testing,Mark Harman
+29942,1,Software Engineering,Rachel Karchin
+29943,1,Software Engineering,Jih-Sheng Lai
+29946,5,Virtualization Technology,Jih-Sheng Lai
+29949,1,Software Engineering,John R. Buck
+29952,1,Software Engineering,Brian Curless
+29953,1,Software Engineering,Kyoung Mu Lee
+29957,1,Software Engineering,Mark Lundstrom
+29958,1,Software Engineering,Krishnendu Chakrabarty
+29959,1,Software Engineering,Jingsheng Jason Cong
+29960,1,Software Engineering,Massoud Pedram
+29968,5,Database Systems,Susumu Goto
+29972,5,Database Systems,Martin Schultz
+29976,5,Database Systems,Robert A. Verheij
+29979,5,Database Systems,Richard de Neufville
+29982,5,Database Systems,David B. Kaber
+29983,5,Database Systems,Radha Krishna Murthy Karuturi
+29984,5,Database Systems,Geert-Jan Houben
+29987,5,Database Systems,Suhong Li
+29993,5,Database Systems,Letizia Tanca
+30000,5,Database Systems,Christophe Mues
+30001,5,Database Systems,Marco Sandri
+30002,5,Database Systems,Indrit Troshani
+30003,5,Database Systems,Henrik Boström
+30004,4,Database Systems,Markus List
+30005,4,Database Systems,Alexander Löser
+30007,4,Database Systems,Paris Carbone
+30008,4,Database Systems,Nicolas Rodriguez
+30010,4,Database Systems,Peter M. Fischer
+30013,4,Database Systems,Tony Ross-Hellauer
+30014,4,Database Systems,Dac-Buu Cao
+30016,4,Database Systems,Fabian Büttner
+30018,4,Database Systems,Jennifer Hadlock
+30019,4,Database Systems,Nahla Aljojo
+30020,3,Database Systems,Tyler B. Hughes
+30021,3,Database Systems,Christoph Ruland
+30028,3,Database Systems,Bernd Bandemer
+30029,3,Database Systems,Ikram Ali
+30031,3,Database Systems,Reza Maram
+30032,3,Database Systems,Daniel Caviedes-Voullième
+30033,3,Database Systems,Marcus Paradies
+30038,3,Database Systems,Michael D. Porter
+30039,3,Database Systems,Nima Kordzadeh
+30040,3,Database Systems,Setiawan Assegaff
+30041,2,Database Systems,Bastian Sauert
+30042,2,Database Systems,Manh Cuong Pham
+30044,2,Database Systems,Jeffrey Alan Johnson
+30045,2,Database Systems,Isaac Balbin
+30047,2,Database Systems,Muhammad Saqlain
+30050,2,Database Systems,Jang Ho Kim
+30051,5,Database Management Systems,Jang Ho Kim
+30052,2,Database Systems,Diego Lugones
+30053,2,Database Systems,Mike Kennedy
+30055,2,Database Systems,Valentin Georgiev
+30057,2,Database Systems,Ian Schneider
+30058,2,Database Systems,Arghad Arnaout
+30059,1,Database Systems,Andrei Smirnov
+30063,1,Database Systems,Klaus Kammerer
+30064,1,Database Systems,Lars Gleim
+30065,1,Database Systems,Leonel Aguilar
+30066,1,Database Systems,John Saint
+30068,1,Database Systems,Gil Avrahami
+30069,1,Database Systems,Kundan Kumar
+30077,1,Database Systems,Lars Ackermann
+30079,1,Database Systems,Soufian Jebbara
+30080,1,Database Systems,Burkhard Hoppenstedt
+30081,1,Database Systems,Ahmed Rashed
+30082,5,Network Security,Sushil Jajodia
+30090,5,Network Security,Andreas Zeller
+30101,5,Information Security,Andreas Zeller
+30112,5,Network Security,Michael Backes
+30115,5,Information Security,Michael Backes
+30118,5,Network Security,Thorsten Holz
+30122,5,Information Security,Thorsten Holz
+30126,5,Network Security,Audun Jøsang
+30127,5,Information Security,Audun Jøsang
+30128,5,Network Security,Mario Fritz
+30130,5,Information Security,Mario Fritz
+30132,5,Network Security,Yixian Yang
+30171,5,Information Security,Yixian Yang
+30210,5,Network Security,Dániel Marx
+30212,5,Information Security,Dániel Marx
+30214,5,Network Security,Michael Schwarz
+30235,4,Information Security,Michael Schwarz
+30256,4,Network Security,Jennifer Seberry
+30258,4,Information Security,Jennifer Seberry
+30260,4,Network Security,John A. Clark
+30261,4,Information Security,John A. Clark
+30262,4,Network Security,Wei Ni
+30284,4,Information Security,Wei Ni
+30306,4,Network Security,Cas Cremers
+30307,4,Information Security,Cas Cremers
+30308,4,Network Security,Christian Rossow
+30309,4,Information Security,Christian Rossow
+30310,4,Network Security,Sergei Petrenko
+30313,3,Information Security,Sergei Petrenko
+30316,4,Network Security,Andrew Clark
+30324,3,Information Security,Andrew Clark
+30332,4,Network Security,Nils Ole Tippenhauer
+30334,3,Information Security,Nils Ole Tippenhauer
+30336,3,Network Security,Shantanu Rane
+30337,3,Information Security,Shantanu Rane
+30338,3,Network Security,Charles Kamhoua
+30342,3,Information Security,Charles Kamhoua
+30346,3,Network Security,Michael E. Whitman
+30347,3,Information Security,Michael E. Whitman
+30348,3,Network Security,Jilles Vreeken
+30349,3,Information Security,Jilles Vreeken
+30350,3,Network Security,Sascha Fahl
+30351,3,Information Security,Sascha Fahl
+30352,3,Network Security,Bernd Finkbeiner
+30355,3,Information Security,Bernd Finkbeiner
+30358,3,Network Security,Sokratis K. Katsikas
+30360,2,Information Security,Sokratis K. Katsikas
+30362,3,Network Security,Yang Zhang
+30761,2,Information Security,Yang Zhang
+31160,3,Network Security,Shiyan Hu
+31171,2,Information Security,Shiyan Hu
+31182,2,Network Security,Hadis Karimipour
+31183,2,Network Security,Krikamol Muandet
+31185,2,Information Security,Krikamol Muandet
+31187,2,Network Security,Sven Bugiel
+31191,2,Information Security,Sven Bugiel
+31195,2,Network Security,Konstantinos Markantonakis
+31196,2,Information Security,Konstantinos Markantonakis
+31197,2,Network Security,Danilo Gligoroski
+31201,2,Information Security,Danilo Gligoroski
+31205,2,Network Security,Young-Gab Kim
+31209,2,Information Security,Young-Gab Kim
+31213,2,Network Security,Jason Crampton
+31216,1,Information Security,Jason Crampton
+31219,2,Network Security,Mohd Aizaini Maarof
+31221,1,Information Security,Mohd Aizaini Maarof
+31223,1,Network Security,JaeSeung Song
+31225,1,Information Security,JaeSeung Song
+31227,1,Network Security,Jongsung Kim
+31239,1,Information Security,Jongsung Kim
+31251,1,Network Security,Katrien De Moor
+31252,1,Network Security,Mads Frost
+31253,1,Network Security,Siti Norul Huda Sheikh Abdullah
+31254,5,Digital Forensics,Siti Norul Huda Sheikh Abdullah
+31255,1,Network Security,Hany F. Atlam
+31256,1,Network Security,Brent ByungHoon Kang
+31258,1,Network Security,Shareeful Islam
+31259,1,Network Security,Katharina Krombholz
+31261,1,Network Security,Nalin Asanka Gamagedara Arachchilage
+31262,5,Parallel Computing,Thomas Fahringer
+31266,5,Distributed Systems,Thomas Fahringer
+31270,5,Grid Computing,Thomas Fahringer
+31274,5,Parallel Computing,Elkin Garcia
+31277,5,Computer Architecture,Elkin Garcia
+31280,5,Parallel Computing,Fabrizio Petrini
+31285,5,Parallel Computing,Dipankar Das
+31293,5,Parallel Computing,Oliver Sinnen
+31294,5,Parallel Computing,Evangelos Georganas
+31295,5,Parallel Computing,Sanchit Misra
+31297,5,Parallel Computing,Xin Wu
+31355,5,Parallel Computing,Abhisek Kundu
+31356,5,Parallel Computing,Sayantan Chakravorty
+31357,5,Parallel Computing,Mostafa I. Soliman
+31358,3,Computer Architecture,Mostafa I. Soliman
+31359,5,Parallel Computing,Weihua Zhang
+31387,5,Parallel Computing,Yi-Chu Wang
+31389,2,Computer Architecture,Yi-Chu Wang
+31391,5,Parallel Computing,Benjamin Brock
+31394,5,Parallel Computing,Hossein Farrokhbakht
+31395,4,Parallel Computing,Narendra Chaudhary
+31396,4,Parallel Computing,Mikhail Khalilov
+31397,4,Parallel Computing,Xuan Truong Nguyen
+31398,1,Computer Architecture,Xuan Truong Nguyen
+31399,4,Parallel Computing,Florence Laguzet
+31400,4,Parallel Computing,Amir Raoofy
+31401,4,Parallel Computing,Jens Haussmann
+31402,4,Grid Computing,Jens Haussmann
+31403,4,Parallel Computing,Aman Sinha
+31408,5,Distributed Systems,Gordon Blair
+31409,5,Distributed Systems,Rob Davis
+31410,5,Distributed Systems,Peter Pietzuch
+31411,5,Distributed Systems,Matthias Wählisch
+31412,5,Distributed Systems,Birgitta König-Ries
+31421,5,Distributed Systems,Rong Chen
+31498,5,Distributed Systems,Laszlo Böszörmenyi
+31499,5,Grid Computing,Laszlo Böszörmenyi
+31500,5,Distributed Systems,David Hausheer
+31501,5,Grid Computing,David Hausheer
+31502,5,Distributed Systems,Nils Aschenbruck
+31504,5,Distributed Systems,Kieran Greer
+31512,5,Grid Computing,Kieran Greer
+31520,5,Distributed Systems,Guido Wirtz
+31524,5,Grid Computing,Guido Wirtz
+31528,5,Distributed Systems,Petr Tůma
+31530,5,Distributed Systems,Franz J. Hauck
+31531,5,Distributed Systems,Pantelis A. Frangoudis
+31532,5,Distributed Systems,Stefan Wesner
+31536,4,Distributed Systems,Tamas Kiss
+31537,5,Grid Computing,Tamas Kiss
+31538,4,Distributed Systems,Torben Weis
+31540,4,Distributed Systems,Rune Gustavsson
+31546,4,Distributed Systems,Raimundo José de Araújo Macêdo
+31547,4,Distributed Systems,Navinda Kottege
+31549,5,Grid Computing,Navinda Kottege
+31551,4,Distributed Systems,Guglielmo Frigo
+31553,4,Distributed Systems,Olena Skarlat
+31554,4,Distributed Systems,Christian Facchi
+31557,4,Distributed Systems,Eero Vainikko
+31559,4,Distributed Systems,Christoph Stach
+31560,4,Distributed Systems,Ashwin Kumar Kayyoor
+31561,4,Distributed Systems,Luca Lianas
+31562,5,Grid Computing,Luca Lianas
+31563,4,Distributed Systems,Florian Lindner
+31567,4,Distributed Systems,Iris Braun
+31570,4,Distributed Systems,Chadly Marouane
+31574,4,Distributed Systems,Achmad Imam Kistijantoro
+31576,4,Distributed Systems,Alejandro Fornes-Leal
+31577,3,Distributed Systems,Andrea Morichetta
+31581,3,Distributed Systems,Haidong Rong
+31582,3,Distributed Systems,Vladimir Podolskiy
+31583,3,Distributed Systems,Mingkai Dong
+31587,3,Distributed Systems,Vojtěch Horký
+31588,3,Distributed Systems,Muhammad Atif Ur Rehman
+31589,5,Grid Computing,Muhammad Atif Ur Rehman
+31590,3,Distributed Systems,David Hellmanns
+31592,3,Distributed Systems,Christin Groba
+31594,3,Distributed Systems,Patrick-Benjamin Bök
+31595,2,Operating Systems,Patrick-Benjamin Bök
+31596,3,Distributed Systems,Ilir Murturi
+31598,3,Distributed Systems,Adam Taylor
+31600,3,Distributed Systems,Xiaotian Dai
+31603,2,Distributed Systems,Patrick Minder
+31604,2,Distributed Systems,Shivang Aggarwal
+31605,2,Distributed Systems,Alexander Weinert
+31606,2,Distributed Systems,Johannes Manner
+31609,2,Distributed Systems,Alessio Netti
+31611,5,Grid Computing,Alessio Netti
+31613,2,Distributed Systems,Andreas Sedlmeier
+31614,2,Distributed Systems,Emmanouil Dimogerontakis
+31615,2,Distributed Systems,Stephan Kleber
+31616,2,Distributed Systems,Stefan Kolb
+31618,2,Distributed Systems,Robert Müller
+31624,2,Distributed Systems,Max Schettler
+31625,1,Embedded Systems,Max Schettler
+31626,2,Distributed Systems,Meelis Roos
+31627,2,Distributed Systems,Ashraf A. Taha
+31628,2,Distributed Systems,Aman Mangal
+31632,1,Distributed Systems,Houssem Mansouri
+31633,1,Distributed Systems,Christian Spann
+31634,1,Distributed Systems,Vilen Looga
+31635,1,Distributed Systems,Tanmoy Sarkar
+31638,3,Mobile Computing,Tanmoy Sarkar
+31641,5,Grid Computing,Tanmoy Sarkar
+31644,1,Distributed Systems,Bingtian Xue
+31646,5,Grid Computing,Bingtian Xue
+31648,1,Distributed Systems,Muhammad Farhan Bashir
+31649,5,Grid Computing,Muhammad Farhan Bashir
+31650,1,Distributed Systems,Hugo Firth
+31651,1,Distributed Systems,Faris Nizamic
+31652,1,Distributed Systems,Dominik Kirchner
+31653,1,Distributed Systems,Tianze Wang
+31659,5,Grid Computing,Tianze Wang
+31665,1,Distributed Systems,Constantin Sander
+31666,1,Distributed Systems,Vamis Xhagjika
+31668,4,Grid Computing,Vamis Xhagjika
+31670,1,Distributed Systems,Tim Jungnickel
+31671,5,Mobile Computing,Petter Ögren
+31672,5,Mobile Computing,Walterio Mayol-Cuevas
+31673,5,Mobile Computing,Mabrook Al-Rakhami
+31675,5,Ubiquitous Computing,Mabrook Al-Rakhami
+31677,5,Mobile Computing,Christer Åhlund
+31678,5,Ubiquitous Computing,Christer Åhlund
+31679,5,Mobile Computing,Ulrich Schäfer
+31681,5,Mobile Computing,Peter Parnes
+31683,5,Ubiquitous Computing,Peter Parnes
+31685,4,Mobile Computing,Ulrich Fiedler
+31689,4,Mobile Computing,Yuanbo Xu
+31691,4,Mobile Computing,Punyasha Chatterjee
+31692,4,Mobile Computing,Shervin Emami
+31693,4,Mobile Computing,Maik Basso
+31694,4,Mobile Computing,Sabitri Poudel
+31695,3,Mobile Computing,Tomasz Kuchta
+31696,3,Mobile Computing,Julian Marcon
+31697,2,Mobile Computing,Mohamed A. Mostafa
+31699,4,Ubiquitous Computing,Mohamed A. Mostafa
+31701,2,Mobile Computing,Liston Kiwoli
+31702,1,Computer Graphics,Henning Schulzrinne
+31707,1,Computer Graphics,Jennifer Widom
+31710,5,Game Development,Thomas Hainey
+31711,5,Game Development,Mia Consalvo
+31712,5,Game Development,Paul Coulton
+31713,5,Game Development,Andrew Hogue
+31716,5,Game Development,Eike Falk Anderson
+31717,5,Game Development,Panagiotis Fotaris
+31718,5,Game Development,Peter Smith
+31733,5,Game Development,Jennifer deWinter
+31734,5,Game Development,Ari Hollander
+31736,5,Game Development,Yoones A. Sekhavat
+31737,5,Game Development,Jakub Gemrot
+31740,5,Game Development,Patrick Prax
+31743,5,Game Development,Sabiha Ghellal
+31744,5,Game Development,Sabine Harrer
+31746,5,Game Development,Magnus Johansson
+31752,5,Game Development,René Bühling
+31753,4,Game Development,Werner Ravyse
+31754,4,Game Development,Beat Suter
+31755,4,Game Development,Elena Bertozzi
+31756,4,Game Development,Ismail Khalid Kazmi
+31758,4,Game Development,Alysson Diniz dos Santos
+31760,4,Game Development,Melissa Kagen
+31761,4,Game Development,James Manning
+31762,4,Game Development,Savaş Öztürk
+31763,3,Game Development,Micah Hrehovcsik
+31766,3,Game Development,Peter Walsh
+31769,3,Game Development,Arthur Bastos
+31770,3,Game Development,Sandeep Athavale
+31772,3,Game Development,Mahmud Hasan
+31777,3,Game Development,Florian Faller
+31778,3,Game Development,Chi Zhou
+31807,3,Game Development,Jeremy Johnson
+31816,3,Game Development,James Broderick
+31817,2,Game Development,Nupur Garg
+31819,2,Game Development,Alexandre Vaugoux
+31820,1,Game Development,Forrest Z. Shooster
+31821,5,Computational Biology,Leroy Hood
+31823,5,Computational Biology,Søren Brunak
+31826,5,Computational Biology,Marc Kirschner
+31827,5,Computational Biology,Alexei J. Drummond
+31828,5,Computational Biology,Jens Nielsen
+31830,5,Computational Biology,Lior Pachter
+31835,5,Computational Biology,Richard Simon
+31840,5,Computational Biology,Ilya Shmulevich
+31851,5,Computational Biology,Giovanni Ciriello
+31852,5,Computational Biology,Stuart Kauffman
+31853,4,Computational Biology,Nikolaus Rajewsky
+31855,4,Computational Biology,Axel Meyer
+31856,4,Computational Biology,Junmei Wang
+31862,5,Computational Chemistry,Junmei Wang
+31868,4,Computational Biology,Alon Keinan
+31869,4,Computational Biology,Brian J. Enquist
+31870,4,Computational Biology,Hiroaki Kitano
+31884,4,Computational Biology,Konrad Karczewski
+31885,4,Computational Biology,Paul Shannon
+31887,4,Computational Biology,Sven Bergmann
+31889,4,Computational Biology,Lee Rowen
+31890,3,Computational Biology,Lodewyk Wessels
+31891,3,Computational Biology,Gerrit Hoogenboom
+31892,3,Computational Biology,Mark Pagel
+31894,3,Computational Biology,Walter Kolch
+31895,3,Computational Biology,Mihaela Zavolan
+31897,3,Computational Biology,Francesca Demichelis
+31899,3,Computational Biology,Martin Kuiper
+31901,3,Computational Biology,Ramu Chenna
+31902,3,Computational Biology,David Gavaghan
+31903,3,Computational Biology,Brandon Gaut
+31904,3,Computational Biology,Susannah Tringe
+31905,3,Computational Biology,Ana Conesa
+31907,2,Computational Biology,Sergei L Kosakovsky Pond
+31908,2,Computational Biology,Valur Emilsson
+31909,2,Computational Biology,Robert Moritz
+31911,2,Computational Biology,Quaid Morris
+31913,2,Computational Biology,Joseph Lehar
+31914,2,Computational Biology,Pierre Rouzé
+31915,2,Computational Biology,Larsson Omberg
+31916,2,Computational Biology,Manolo Gouy
+31917,1,Computational Biology,Jürg Bähler
+31918,1,Computational Biology,Charles Auffray
+31920,1,Computational Biology,Peter Robinson
+31934,1,Computational Biology,Beth Shapiro
+31936,1,Computational Biology,Augustin Luna
+31938,1,Computational Biology,Thomas Rattei
+31939,1,Computational Biology,Jing-Dong J. Han
+31940,1,Computational Biology,Russell Schwartz
+31943,1,Computational Biology,Pablo Librado Sanz
+31944,1,Computational Biology,Molly Przeworski
+31945,5,Neural Networks,Irini Reljin
+31946,5,Neural Networks,Masamichi J. Hayashi
+31947,5,Neural Networks,Michał Joachimczak
+31949,5,Neural Networks,Dariusz Świetlik
+31950,5,Neural Networks,Atsushi Yokoi
+31951,5,Neural Networks,Satoshi Nishida
+31953,5,Neural Networks,Jin Zhu
+31993,5,Neural Networks,Yuki Murai
+31994,5,Neural Networks,Akram A. Garad
+31995,4,Neural Networks,Muhammad Usman Atif
+31996,1,Deep Learning,Mostofa Patwary
+31998,1,Deep Learning,Fabian Scheipl
+32000,1,Reinforcement Learning,Fabian Scheipl
+32002,1,Statistical Learning,Fabian Scheipl
+32004,1,Deep Learning,Mariusz Bojarski
+32005,1,Deep Learning,Shaojie Bai
+32006,1,Reinforcement Learning,Shaojie Bai
+32007,1,Statistical Learning,Shaojie Bai
+32008,1,Deep Learning,Gavin Brown
+32015,1,Reinforcement Learning,Gavin Brown
+32022,1,Statistical Learning,Gavin Brown
+32029,1,Reinforcement Learning,Zheng-Hua Tan
+32030,1,Reinforcement Learning,Damian Borth
+32031,1,Reinforcement Learning,Alexandru Drimbarean
+32032,1,Reinforcement Learning,Asja Fischer
+32033,1,Reinforcement Learning,Andreas Mayr
+32035,5,Semantic Web,Harold Boley
+32051,5,Semantic Web,Gaurav Vaidya
+32052,5,Semantic Web,Thomas Riechert
+32055,5,Semantic Web,Ioanna Lytra
+32056,5,Semantic Web,Andreas Blumauer
+32061,5,Semantic Web,Abdelmoneim Amer Desouki
+32063,5,Semantic Web,Artem Revenko
+32070,5,Semantic Web,Yannis Roussakis
+32071,5,Semantic Web,Victor Mireles
+32072,5,Semantic Web,Albin Ahmeti
+32075,5,Computer Architecture,Diego Darriba
+32076,5,Computer Architecture,Ramon Doallo
+32078,5,Computer Architecture,Ce Liu
+32092,5,Computer Architecture,Ignacio Rojas
+32093,5,Computer Architecture,Rudy Lauwereins
+32098,5,Computer Architecture,Richard Coyne
+32100,5,Computer Architecture,Georgi Gaydadjiev
+32101,5,Computer Architecture,Toni Juan
+32102,5,Computer Architecture,José L. Ayala
+32103,5,Computer Architecture,Francisco Fernandez de Vega
+32104,5,Computer Architecture,Carlos Toro
+32109,5,Computer Architecture,José L. Risco-Martín
+32110,4,Computer Architecture,Juan Carlos López
+32111,4,Computer Architecture,Marc Gonzalez Tallada
+32112,4,Computer Architecture,Melike Kaplan
+32113,4,Computer Architecture,Guillermo Botella Juan
+32116,4,Computer Architecture,Esube Bekele
+32118,4,Computer Architecture,Diego R. Llanos
+32119,4,Computer Architecture,Daniel Ziener
+32120,4,Embedded Systems,Daniel Ziener
+32121,4,Computer Architecture,Bernardo Cunha
+32123,4,Computer Architecture,Carlos V. Regueiro
+32125,4,Computer Architecture,Roc Meseguer
+32126,4,Computer Architecture,Henryk Krawczyk
+32129,4,Computer Architecture,Pawel Czarnul
+32130,4,Computer Architecture,Thomas Wortmann
+32131,4,Computer Architecture,John Goodacre
+32134,3,Computer Architecture,Yolanda Becerra
+32135,3,Computer Architecture,Sachhidh Kannan
+32136,3,Computer Architecture,Angeles G. Navarro
+32137,3,Computer Architecture,Roberto R. Expósito
+32138,3,Computer Architecture,Johan Karlsson
+32147,3,Computer Architecture,Francisco Corbera
+32148,3,Computer Architecture,Ben Bartlett
+32149,3,Computer Architecture,Remo Suppi
+32150,3,Operating Systems,Remo Suppi
+32151,3,Computer Architecture,Jose Garcia
+32155,3,Computer Architecture,Karthik Ramani
+32156,3,Computer Architecture,Shahram Etemadi Borujeni
+32157,2,Computer Architecture,Nawab Ali
+32158,2,Computer Architecture,Alfonso Garcia-de-Prado
+32159,2,Computer Architecture,Silvia Llorente Viejo
+32160,2,Computer Architecture,Joaquín Entrialgo
+32161,2,Computer Architecture,Eric Schneider
+32165,2,Computer Architecture,Koustav Bhattacharya
+32166,2,Computer Architecture,Mathieu Petit
+32167,2,Computer Architecture,Juan Porta
+32169,2,Computer Architecture,Ali Asghari
+32170,2,Computer Architecture,Aliasger Zaidy
+32171,2,Computer Architecture,Thomas Manville
+32172,2,Computer Architecture,Pascal Bruegger
+32173,2,Computer Architecture,Mikhail Asiatici
+32174,1,Computer Architecture,Yi Qian
+32195,1,Computer Architecture,Ali Azarpeyvand
+32196,1,Computer Architecture,Peter van Stralen
+32197,1,Computer Architecture,Mahmoud Parsian
+32198,1,Computer Architecture,José Luis Gutiérrez Rivas
+32199,1,Computer Architecture,Esteban Pérez-Wohlfeil
+32200,1,Computer Architecture,Zhihao Li
+32218,1,Computer Architecture,Zhe Zhou
+32243,1,Computer Architecture,José M. Andión
+32244,5,Operating Systems,Juergen Branke
+32247,5,Operating Systems,Paul Jen-Hwa Hu
+32251,5,Operating Systems,Lee E Gunter
+32252,5,Operating Systems,Kathryn B. Laskey
+32253,5,Operating Systems,Martin Braun
+32260,5,Operating Systems,Narendra Agrawal
+32261,5,Operating Systems,Rassoul Noorossana
+32262,5,Operating Systems,Leena Suhl
+32263,5,Operating Systems,Guido Schryen
+32264,5,Operating Systems,Olga Fink
+32265,5,Operating Systems,Navid Sahebjamnia
+32266,5,Operating Systems,Serpil Sayin
+32267,4,Operating Systems,Jie Xu
+32474,4,Operating Systems,Sandeep Goyal
+32477,4,Operating Systems,Oliver Wendt
+32480,4,Operating Systems,Claudio Fornaro
+32483,4,Operating Systems,Christian Dietrich
+32485,4,Operating Systems,Chi-Wen Chen
+32496,4,Operating Systems,Farkhondeh Jabari
+32497,4,Operating Systems,Konstantinos Kopsidas
+32498,3,Operating Systems,Chong Oh
+32500,3,Operating Systems,Mehdi Zeraati
+32501,3,Operating Systems,Arman Derakhti
+32502,3,Operating Systems,Xin James He
+32504,3,Operating Systems,Lorenzo Moriello
+32505,3,Operating Systems,Nikolay Osadchiy
+32506,3,Operating Systems,Dawit Fekadu Teshome
+32507,3,Operating Systems,Ankit Kumar Srivastava
+32508,3,Operating Systems,Ashish Bijlani
+32509,3,Operating Systems,Chris M. Smith
+32510,3,Operating Systems,Nils Bornhorst
+32513,2,Operating Systems,Warren Dickson
+32514,2,Operating Systems,Alex Merrill
+32515,2,Operating Systems,Manish Bansal
+32521,2,Operating Systems,Jason T. Black
+32522,2,Operating Systems,Manuel Nieke
+32523,2,Operating Systems,Norman Weik
+32524,2,Operating Systems,Celene Navarrete
+32526,2,Operating Systems,Leily Farrokhvar
+32528,2,Operating Systems,Ying Zhang
+32937,2,Operating Systems,Majid Ali
+32940,2,Operating Systems,Ebin Cherian Mathew
+32941,2,Operating Systems,Wenxiu (Vince) Nan
+32942,1,Operating Systems,Robert Fischer
+32947,1,Operating Systems,Jossekin Beilharz
+32948,1,Operating Systems,Ying Wang
+33402,1,Operating Systems,Zhenming Wang
+33407,1,Operating Systems,Rahul Shukla
+33411,1,Operating Systems,Edward Hanna
+33413,1,Operating Systems,Edouard Sadien
+33414,1,Operating Systems,Behnam Momeni
+33415,1,Operating Systems,Abhishek Ray
+33419,1,Operating Systems,Philipp Kisters
+33420,5,Digital Signal Processing,Tharm Ratnarajah
+33426,5,Digital Signal Processing,Gaetano Giunta
+33427,5,Digital Signal Processing,Riccardo Bernardini
+33428,5,Digital Signal Processing,Ljiljana Milic
+33429,5,Digital Signal Processing,Adel S. El-Fishawy
+33430,5,Digital Image Processing,Adel S. El-Fishawy
+33431,5,Digital Signal Processing,Ali Djebbari
+33433,5,Digital Signal Processing,Xunda Wang
+33435,4,Digital Signal Processing,Steffen Schieler
+33436,4,Digital Signal Processing,Mahdi Heydari
+33440,4,Digital Signal Processing,Pratiti Paul
+33441,4,Digital Signal Processing,Julian Seuffert
+33443,5,Wireless Communications,Emil Björnson
+33445,5,Wireless Communications,Mischa Dohler
+33452,5,Wireless Communications,Lie-Liang Yang
+33456,5,Wireless Communications,Jean-Claude Belfiore
+33458,5,Wireless Communications,Matthias Pätzold
+33459,5,Wireless Communications,Maziar Nekovee
+33464,5,Wireless Communications,Claude Desset
+33467,5,Wireless Communications,Boris Bellalta
+33468,5,Wireless Communications,Matti Hämäläinen
+33471,5,Wireless Communications,Tamer ElBatt
+33473,4,Wireless Communications,Konstantin Mikhaylov
+33475,4,Wireless Communications,Bin Zhang
+33758,4,Wireless Communications,Marina Petrova
+33762,4,Wireless Communications,Hirley Alves
+33763,4,Wireless Communications,Muhammad Zeeshan Shakir
+33764,4,Wireless Communications,Fernando Casadevall
+33765,4,Wireless Communications,Giuseppe Abreu
+33768,4,Wireless Communications,Ralf Tönjes
+33769,4,Wireless Communications,Steve Hurley
+33770,4,Wireless Communications,Giuseppe Destino
+33772,4,Wireless Communications,Erkki Harjula
+33773,4,Wireless Communications,Michael Cheffena
+33774,4,Wireless Communications,Torbjörn Ekman
+33780,4,Wireless Communications,Robert Edwards
+33783,4,Wireless Communications,Minsu Shin
+33789,4,Wireless Communications,Joonas Kokkoniemi
+33790,3,Wireless Communications,Italo Atzeni
+33791,3,Wireless Communications,Jude Okwuibe
+33792,3,Wireless Communications,Jooseung Kim
+33793,3,Wireless Communications,Yuanye Wang
+33796,3,Wireless Communications,Alexandru Vulpe
+33797,3,Wireless Communications,Jussi Haapola
+33799,3,Wireless Communications,Aleksandar Neskovic
+33801,3,Wireless Communications,Muhammad Ikram Ashraf
+33802,3,Wireless Communications,Milos Tesanovic
+33803,3,Wireless Communications,Bin Jiang
+33889,3,Wireless Communications,Markus Leinonen
+33891,3,Wireless Communications,Yiting Liao
+33892,2,Wireless Communications,Evangelos Pikasis
+33894,2,Wireless Communications,Nikita Lyamin
+33895,2,Wireless Communications,Tachporn Sanguanpuak
+33897,2,Wireless Communications,Harri Pennanen
+33898,2,Wireless Communications,Ammar Ghazal
+33899,2,Wireless Communications,Nicola Linty
+33900,2,Wireless Communications,Takeshi Matsumura
+33907,2,Wireless Communications,Nuutti Tervo
+33908,2,Wireless Communications,Alexandru Martian
+33909,2,Wireless Communications,Udo Schilcher
+33910,2,Wireless Communications,Mohammed El-Absi
+33911,1,Wireless Communications,Quang-Doanh Vu
+33912,1,Wireless Communications,Ruixin Wang
+33918,1,Wireless Communications,Mattia Rebato
+33919,1,Wireless Communications,Xu Chen
+34075,1,Wireless Communications,Igor M. Guerreiro
+34076,1,Wireless Communications,Hamza Djelouat
+34077,1,Wireless Communications,Kong Joo Lee
+34085,1,Wireless Communications,Taro Eichler
+34086,1,Wireless Communications,Huazhou Hou
+34088,5,Compiler Design,Vanderson Martins do Rosario
+34089,5,High-Performance Computing,Hao Li
+34410,5,High-Performance Computing,Ralph Müller-Pfefferkorn
+34412,5,High-Performance Computing,Ivona Brandic
+34413,5,High-Performance Computing,Clara Pizzuti
+34416,5,High-Performance Computing,Ping Liu
+34528,5,High-Performance Computing,Michael W. Gee
+34529,5,High-Performance Computing,Michael Sullivan
+34534,5,High-Performance Computing,Michela Taufer
+34537,4,High-Performance Computing,Ping Bai
+34544,4,High-Performance Computing,Jing Lou
+34550,4,High-Performance Computing,Jia Zhang
+34611,4,High-Performance Computing,Oliver Rheinbach
+34612,4,High-Performance Computing,Seng-Beng Ho
+34626,4,High-Performance Computing,Xinxing Xu
+34630,4,High-Performance Computing,Kevin J. Barker
+34632,3,High-Performance Computing,Lutz Brusch
+34633,3,High-Performance Computing,Daniel Hackenberg
+34635,3,High-Performance Computing,Gang Wu
+34766,3,High-Performance Computing,Liling Zhang
+34769,3,High-Performance Computing,Kenneth Kwok
+34771,3,High-Performance Computing,Nong Xiao
+34806,3,High-Performance Computing,Chengkun Wu
+34807,3,High-Performance Computing,Farzam Farbiz
+34808,3,High-Performance Computing,Maria Frucci
+34812,3,High-Performance Computing,Wei Qingsong
+34815,2,High-Performance Computing,Fang-Pang Lin
+34825,2,High-Performance Computing,Jayne Thompson
+34826,2,High-Performance Computing,Han Lin
+34844,2,High-Performance Computing,Yi Su
+34901,2,High-Performance Computing,Raj Kumar Gupta
+34905,2,High-Performance Computing,En-Xiao Liu
+34906,2,High-Performance Computing,Carmela Comito
+34909,2,High-Performance Computing,Yinping Yang
+34911,2,High-Performance Computing,Yanyu Xu
+34916,2,High-Performance Computing,Gihan R. Mudalige
+34918,2,High-Performance Computing,Hongmei Jin
+34919,2,High-Performance Computing,Rui Zhu
+34968,1,High-Performance Computing,Diem-Trinh Le
+34969,1,High-Performance Computing,Varun Narasimhachar
+34970,1,High-Performance Computing,Ilaria Granata
+34971,1,High-Performance Computing,Xian Li
+35027,1,High-Performance Computing,Franz-Josef Pfreundt
+35032,1,High-Performance Computing,Zheng Qin
+35093,1,High-Performance Computing,Xiaoxu Guan
+35095,1,High-Performance Computing,Nicholas Malaya
+35096,1,High-Performance Computing,Ling Feng
+35130,1,High-Performance Computing,Shaohua Li
+35152,1,High-Performance Computing,Hongying Li
+35160,1,High-Performance Computing,Yun Liu
+35289,1,High-Performance Computing,Hangbo Zhou
+35290,5,Embedded Systems,YangQuan Chen
+35293,5,Embedded Systems,Wang Yi
+35319,5,Embedded Systems,Christian Bettstetter
+35326,5,Embedded Systems,Shashi Kumar
+35335,5,Embedded Systems,Kees Goossens
+35336,5,Embedded Systems,Henk Corporaal
+35337,5,Embedded Systems,Oliver Amft
+35338,5,Embedded Systems,Martin Törngren
+35341,5,Embedded Systems,Bernhard Sick
+35342,5,Embedded Systems,Tuan Nguyen Gia
+35343,5,Embedded Systems,Juha Röning
+35344,5,Embedded Systems,Oliver Bringmann
+35347,5,Embedded Systems,Christian Haubelt
+35348,5,Embedded Systems,Roman Obermaisser
+35351,5,Embedded Systems,Jan F. Broenink
+35354,4,Embedded Systems,Abhranil Maiti
+35355,4,Embedded Systems,Gregor Schiele
+35357,4,Embedded Systems,Yann Thoma
+35360,4,Embedded Systems,Heiko Falk
+35362,4,Embedded Systems,Per Lindgren
+35366,4,Embedded Systems,Václav Přenosil
+35367,4,Embedded Systems,Andreas Breitenmoser
+35369,4,Embedded Systems,Steffen Peter
+35373,4,Embedded Systems,Peter Lee
+35384,4,Embedded Systems,Arijit Mukherjee
+35389,4,Embedded Systems,Tino Teige
+35391,3,Embedded Systems,Heba Khdr
+35392,3,Embedded Systems,Martin Horauer
+35393,3,Embedded Systems,Hyunbum Kim
+35394,3,Embedded Systems,Afandi Ahmad
+35396,3,Embedded Systems,Axel Schneider
+35400,3,Embedded Systems,Adrian Calma
+35401,3,Embedded Systems,Paula Herber
+35402,3,Embedded Systems,Piërre van de Laar
+35406,3,Embedded Systems,Belkassem Tidhaf
+35408,3,Embedded Systems,Hritam Dutta
+35410,3,Embedded Systems,Alam Noor
+35411,3,Embedded Systems,Chen Ye
+35433,2,Embedded Systems,Marcel Baunach
+35434,2,Embedded Systems,Eka Suwartadi
+35435,2,Embedded Systems,Pedro M. Santos
+35437,2,Embedded Systems,Tobias Reitmaier
+35438,2,Embedded Systems,Edin Golubovic
+35439,2,Embedded Systems,Kai Geissdoerfer
+35441,2,Embedded Systems,Tjerk Bijlsma
+35447,2,Embedded Systems,Fabian Mager
+35448,2,Embedded Systems,Sandika Biswas
+35450,2,Embedded Systems,Arvind Prasanna
+35451,2,Embedded Systems,Xu Han
+35528,2,Embedded Systems,Niklas Ueter
+35529,1,Embedded Systems,Filippo Borlenghi
+35530,1,Embedded Systems,Alexander von Bernuth
+35531,1,Embedded Systems,Igor Kuksin
+35532,1,Embedded Systems,Marius H. Hennecke
+35533,2,Pattern Recognition,Marius H. Hennecke
+35534,1,Embedded Systems,Gourinath Banda
+35535,1,Embedded Systems,Yasir Mahmood Qureshi
+35537,1,Embedded Systems,Florian Stock
+35539,1,Embedded Systems,Edgar Kalkowski
+35540,1,Embedded Systems,Rockson Agyeman
+35541,5,3D Printing,Zhiyong Zhang
+35598,5,3D Printing,Mingyang Li
+35632,5,3D Printing,Philipp Urban
+35634,5,3D Printing,Mohd Rizal Alkahari
+35635,5,3D Printing,Neha Sharma
+35648,5,3D Printing,Arvind Rangarajan
+35649,5,3D Printing,Bing Lu
+35667,4,3D Printing,Lining Wang
+35668,4,3D Printing,Yang Qi
+35681,4,3D Printing,Boyuan Li
+35687,4,3D Printing,Marta de Lasarte
+35688,3,3D Printing,Zhenbang Liu
+35693,5,Pattern Recognition,Liang Wang
+35875,5,Pattern Recognition,Hanqing Lu
+35901,5,Pattern Recognition,Shiming Xiang
+35905,5,Pattern Recognition,Saman K. Halgamuge
+35908,5,Pattern Recognition,Stefan Steidl
+35910,5,Pattern Recognition,Shu Wu
+35917,5,Pattern Recognition,Bing Li
+36131,5,Pattern Recognition,Martin Kraus
+36133,5,Pattern Recognition,Guo-Zheng Li
+36136,5,Pattern Recognition,Ujjwal Bhattacharya
+36137,5,Pattern Recognition,Apostolos Antonacopoulos
+36138,5,Pattern Recognition,Christian Kerl
+36139,5,Pattern Recognition,Chunfeng Yuan
+36141,4,Pattern Recognition,Yihong Wu
+36150,4,Pattern Recognition,Xinchu Shi
+36151,4,Pattern Recognition,Carlos Eduardo Thomaz
+36152,4,Pattern Recognition,Ge Yang
+36172,4,Pattern Recognition,Albert Zeyer
+36173,4,Pattern Recognition,Cees H. Elzinga
+36174,4,Pattern Recognition,Jaume Amores
+36175,4,Pattern Recognition,Patrick Kugler
+36176,4,Pattern Recognition,Stefan Pletschacher
+36178,4,Pattern Recognition,George Miliaresis
+36179,4,Pattern Recognition,Junyu Gao
+36182,4,Pattern Recognition,Zhenhua Chai
+36185,4,Pattern Recognition,Sarbani Palit
+36187,4,Pattern Recognition,Jinchao Zhang
+36191,4,Pattern Recognition,Christopher Rohkohl
+36193,4,Pattern Recognition,Marco Mora Cofre
+36194,4,Pattern Recognition,Lennart Husvogt
+36196,4,Pattern Recognition,Thomas Köhler
+36204,3,Pattern Recognition,Jianwei Guo
+36210,3,Pattern Recognition,Julia Schottenhamml
+36211,3,Pattern Recognition,Christos Papadopoulos
+36213,3,Pattern Recognition,Stefan B. Ploner
+36214,3,Pattern Recognition,Wei Gao
+36406,3,Pattern Recognition,Ulf Jensen
+36407,3,Pattern Recognition,Chaoyou Fu
+36408,3,Pattern Recognition,Dime Vitanovski
+36409,3,Pattern Recognition,Ting Zhang
+36553,3,Pattern Recognition,Yuxin Chen
+36574,3,Pattern Recognition,Bikash Shaw
+36575,3,Pattern Recognition,Zhiwei Liu
+36591,3,Pattern Recognition,Felix Lugauer
+36592,3,Pattern Recognition,Christian Marzahl
+36594,3,Pattern Recognition,Yuanhao Guo
+36598,3,Pattern Recognition,Kyung-Hwan Shim
+36599,3,Pattern Recognition,Etienne Assoumou Mengue
+36601,2,Pattern Recognition,Ting-Bing Xu
+36603,2,Pattern Recognition,Emilio Granell
+36604,2,Pattern Recognition,Mahdi Hamdani
+36605,2,Pattern Recognition,Luca Liparulo
+36606,2,Pattern Recognition,Harald Hanselmann
+36607,2,Pattern Recognition,Daniel Stromer
+36608,2,Pattern Recognition,Jan Paulus
+36610,2,Pattern Recognition,Siming Bayer
+36611,2,Pattern Recognition,Byeong-Hoo Lee
+36612,2,Pattern Recognition,Viktor Haase
+36613,2,Pattern Recognition,Zhaowen Li
+36623,2,Pattern Recognition,Prathmesh Madhu
+36624,2,Pattern Recognition,Yuxin Zhang
+36646,1,Pattern Recognition,Le Xu
+36661,1,Pattern Recognition,Martin Mayr
+36664,1,Pattern Recognition,Babak Hosseini
+36665,1,Pattern Recognition,Sabrina Reiml
+36666,1,Pattern Recognition,Tianli Zhao
+36671,1,Pattern Recognition,Chao Ma
+36778,1,Pattern Recognition,Jianbo Liu
+36801,1,Pattern Recognition,Zhou Xiao
+36808,1,Pattern Recognition,Aline Sindel
+36809,1,Pattern Recognition,Shouren Lan
+36812,5,E-commerce Technology,Mohsen Saffar
+36813,5,Green Computing,Todd J. Green
+36814,5,Green Computing,Phil Green
+36817,5,Green Computing,Mark Green
+36826,4,Green Computing,Mark Green
+36835,5,Green Computing,Kasper Green Larsen
+36837,5,Green Computing,Humayan Kabir Rana
+36838,4,Green Computing,Stewart Green
+36839,4,Green Computing,Nazim Choudhury
+36840,4,Green Computing,Tamim Al Mahmud
+36841,4,Green Computing,Rasika Ranaweera
+36842,3,Green Computing,Ahmed Mahdi
+36845,5,Ubiquitous Computing,Timo Ojala
+36847,5,Ubiquitous Computing,George Roussos
+36848,5,Ubiquitous Computing,Christos Efstratiou
+36849,5,Ubiquitous Computing,Suining He
+36850,5,Ubiquitous Computing,Peter Thomas
+36864,5,Ubiquitous Computing,Mostafa Haghi
+36865,5,Ubiquitous Computing,Marion Koelle
+36866,5,Ubiquitous Computing,Georgi V. Georgiev
+36867,5,Ubiquitous Computing,Ekaterina Gilman
+36869,5,Ubiquitous Computing,Aku Visuri
+36870,5,Ubiquitous Computing,Matti Pouke
+36871,5,Ubiquitous Computing,Paula Alavesa
+36872,5,Ubiquitous Computing,Marta Cortés
+36873,4,Ubiquitous Computing,Kennedy Opoku Asare
+36875,4,Ubiquitous Computing,Benedikt Gollan
+36876,4,Ubiquitous Computing,Hassan Mehmood
+36878,4,Ubiquitous Computing,Saeid Sheikhi
+36879,4,Ubiquitous Computing,Markus Wüstenberg
+36880,4,Ubiquitous Computing,Florian Jungwirth
+36882,4,Ubiquitous Computing,Haibin Zhao
+36884,4,Ubiquitous Computing,Yazan Barhoush
+36885,4,Ubiquitous Computing,Andy Alorwu
+36886,4,Ubiquitous Computing,Sharadhi Alape Suryanarayana
+36887,4,Ubiquitous Computing,Thomas Johnson
+36892,4,Ubiquitous Computing,Esa Heikkinen
+36893,4,Grid Computing,Mohammad Ali Fardbastani
+36894,5,Computational Chemistry,David Sherrill
+36895,5,Computational Chemistry,Ursula Rothlisberger
+36896,5,Computational Chemistry,Richard Dronskowski
+36897,5,Computational Chemistry,Roy Johnston
+36898,5,Computational Chemistry,Noel M. O'Boyle
+36899,5,Computational Chemistry,Dongqing Wei
+36900,5,Computational Chemistry,Thomas Bondo Pedersen
+36901,5,Computational Chemistry,Henry S. Rzepa
+36902,5,Computational Chemistry,Dage Sundholm
+36903,4,Computational Chemistry,Miquel Duran
+36904,4,Computational Chemistry,Graham Worth
+36905,4,Computational Chemistry,Rommie E. Amaro
+36906,4,Computational Chemistry,Jesús Olivero-Verbel
+36907,4,Computational Chemistry,B. Jayaram
+36912,4,Computational Chemistry,Miroslav Urban
+36913,4,Computational Chemistry,Herman van Vlijmen
+36914,4,Computational Chemistry,Coen de Graaf
+36915,4,Computational Chemistry,Davide Branduardi
+36916,3,Computational Chemistry,German Sastre
+36917,3,Computational Chemistry,Josep M. Luis
+36918,3,Computational Chemistry,Ricardo L. Mancera
+36919,3,Computational Chemistry,Xun-Lei Ding
+36920,3,Computational Chemistry,Eduardo Chamorro
+36921,3,Computational Chemistry,Piero Procacci
+36922,3,Computational Chemistry,Stefan Knecht
+36923,3,Computational Chemistry,Christine Peter
+36924,3,Computational Chemistry,Michail Stamatakis
+36925,2,Computational Chemistry,Xavier Fradera
+36927,2,Computational Chemistry,Sebastian Kmiecik
+36928,2,Computational Chemistry,Mohammad Solimannejad
+36929,2,Computational Chemistry,Gary Tresadern
+36930,2,Computational Chemistry,Christian Tyrchan
+36931,2,Computational Chemistry,Ilya Sinayskiy
+36932,1,Computational Chemistry,Bryn C. Taylor
+36933,1,Computational Chemistry,Daniel Kuhn
+36939,1,Computational Chemistry,Amiram Goldblum
+36940,1,Computational Chemistry,Yannis Dimakopoulos
+36941,5,Digital Forensics,Andrey Chechulin
+36942,5,Digital Forensics,Rain Ottis
+36943,5,Digital Forensics,Marcus Rogers
+36945,5,Digital Forensics,Risto Vaarandi
+36948,5,Digital Forensics,Gary Warner
+36949,5,Digital Forensics,Fatih Ertam
+36950,5,Digital Forensics,Maurice Dawson
+36951,5,Digital Forensics,Orhan Yaman
+36952,4,Digital Forensics,Hayretdin Bahsi
+36955,4,Digital Forensics,Malek Al-Zewairi
+36956,4,Digital Forensics,Harm van Beek
+36957,4,Digital Forensics,Abdullah Azfar
+36958,4,Digital Forensics,Murray Brand
+36959,3,Digital Forensics,John B. Nicholas
+36960,3,Digital Forensics,Sonia Cenceschi
+36962,3,Digital Forensics,P. Vinod Bhattathiripad
+36964,5,E-learning Technologies,Justin James
+36965,5,Advanced Algorithms,Nima Sarmadi
+36966,5,Autonomous Systems,Jan Peters
+36975,5,Autonomous Systems,Sven Behnke
+36981,2,Machine Intelligence,Sven Behnke
+36987,5,Autonomous Systems,Alberto Elfes
+36989,5,Autonomous Systems,Pietro Valdastri
+36990,5,Autonomous Systems,Brano Kusy
+36991,5,Autonomous Systems,Jaime Jiménez
+36993,5,Autonomous Systems,Tomi Westerlund
+36996,5,Autonomous Systems,Hartmut Surmann
+36998,5,Autonomous Systems,Paul Oh
+37002,5,Autonomous Systems,Gokhan Inalhan
+37003,5,Autonomous Systems,Paolo Valigi
+37005,5,Autonomous Systems,Joern Rehder
+37006,5,Autonomous Systems,Alexander B. Phillips
+37007,5,Autonomous Systems,Markus Ryll
+37008,5,Autonomous Systems,Hazry Desa
+37009,5,Autonomous Systems,Nestor O. Perez-Arancibia
+37010,4,Autonomous Systems,Stefan Hrabar
+37011,4,Autonomous Systems,Zachary Jeremy Taylor
+37012,4,Autonomous Systems,Alexander Ferrein
+37013,4,Autonomous Systems,Anastasios M. Lekkas
+37014,4,Autonomous Systems,Johan Kildal
+37017,4,Autonomous Systems,Andrew Levers
+37018,4,Autonomous Systems,Ivana Palunko
+37019,4,Autonomous Systems,Michael Schreiber
+37028,4,Autonomous Systems,Manuel Mora
+37032,4,Autonomous Systems,Hongmei He
+37036,4,Autonomous Systems,Johannes Betz
+37038,4,Autonomous Systems,Hugo Ferreira
+37041,4,Autonomous Systems,Malte Schilling
+37042,3,Autonomous Systems,Dezong Zhao
+37044,3,Autonomous Systems,Chang Wang
+37089,3,Autonomous Systems,A. Finn
+37091,3,Autonomous Systems,Julita Bermejo-Alonso
+37093,3,Autonomous Systems,Diego Rodriguez
+37100,3,Autonomous Systems,Chulhoon Jang
+37101,3,Autonomous Systems,Daniel Dugas
+37102,3,Autonomous Systems,Elena Stumm
+37103,3,Autonomous Systems,Hanno Hildmann
+37105,3,Autonomous Systems,John C. Murray
+37106,3,Autonomous Systems,Milad Ramezani
+37107,3,Autonomous Systems,Richard Kelley
+37108,3,Autonomous Systems,Robert H. Wortham
+37109,3,Autonomous Systems,Catherine Harris
+37110,2,Autonomous Systems,Gerard Canal
+37111,2,Autonomous Systems,Spencer M. Richards
+37112,2,Autonomous Systems,Maximilian Brunner
+37114,2,Autonomous Systems,Aitzol Astigarraga
+37115,2,Autonomous Systems,Igor Rodriguez
+37116,2,Autonomous Systems,Olov Andersson
+37117,2,Autonomous Systems,Nazre Batool
+37121,2,Autonomous Systems,Sebastian Schirmer
+37124,2,Autonomous Systems,Mika Vainio
+37125,2,Autonomous Systems,Chao Chen
+37315,1,Autonomous Systems,Ahmad Drak
+37316,1,Autonomous Systems,Sebastian Blaes
+37318,1,Autonomous Systems,Nuno Abreu
+37321,1,Autonomous Systems,Enes Bilgin
+37322,1,Autonomous Systems,Murray Ireland
+37323,1,Autonomous Systems,Jan Reich
+37326,1,Autonomous Systems,Michael Fowler
+37330,1,Autonomous Systems,Rafael Mosberger
+37331,1,Autonomous Systems,Niklas Funk
+37332,1,Autonomous Systems,Marco Laghi
+37333,1,Autonomous Systems,Christos Koniaris
+37334,1,Autonomous Systems,Lounis Chermak
+37335,1,Autonomous Systems,Andreas Wachaja
+37336,5,Business Intelligence,Luis G. Vargas
+37337,5,Business Intelligence,David Olson
+37338,5,Business Intelligence,Madjid Tavana
+37339,5,Business Intelligence,Ali Emrouznejad
+37340,5,Business Intelligence,Richard Vidgen
+37341,5,Business Intelligence,Michael O'Neill
+37348,5,Business Intelligence,Alemayehu Molla
+37351,5,Business Intelligence,Jaydip Sen
+37354,5,Business Intelligence,Vedat Verter
+37356,4,Business Intelligence,Maqbool Dada
+37357,4,Business Intelligence,Dianne Cook
+37358,4,Business Intelligence,John Boylan
+37359,4,Business Intelligence,Muhammad Mustafa Kamal
+37360,4,Business Intelligence,Ann Melissa Campbell
+37361,4,Business Intelligence,Samuel Burer
+37362,4,Business Intelligence,Joshua Ignatius
+37363,4,Business Intelligence,Michele Treccani
+37364,4,Business Intelligence,Salim Lahmiri
+37368,4,Business Intelligence,Stephen Smith
+37381,4,Business Intelligence,Wolfram Wiesemann
+37383,4,Business Intelligence,Subodha Kumar
+37384,4,Business Intelligence,Mehmet Sevkli
+37385,4,Business Intelligence,Andrew Smith
+37406,3,Business Intelligence,Barrett W. Thomas
+37407,3,Business Intelligence,Sven F. Crone
+37408,3,Business Intelligence,Han Lin Shang
+37409,3,Business Intelligence,Saggi Nevo
+37411,3,Business Intelligence,Habin Lee
+37417,3,Business Intelligence,Frank Armour
+37421,3,Business Intelligence,Nikolaos Korfiatis
+37422,3,Business Intelligence,Inge van de Weerd
+37424,5,Workflow Management,Inge van de Weerd
+37426,3,Business Intelligence,John V. Gray
+37427,3,Business Intelligence,Nicholas Evangelopoulos
+37429,3,Business Intelligence,Young-Chan Lee
+37430,3,Business Intelligence,Jing Zhang
+37996,2,Business Intelligence,Eoin Whelan
+37997,2,Business Intelligence,Chandrasekar Subramaniam
+37998,2,Business Intelligence,Xun Zhou
+38016,2,Business Intelligence,S. Armagan Tarim
+38017,2,Business Intelligence,Yun Li
+38143,2,Business Intelligence,Pavlos Delias
+38144,2,Business Intelligence,Trevor S. Hale
+38145,2,Business Intelligence,Wenjun Zhou
+38153,2,Business Intelligence,Majid Azadi
+38154,2,Business Intelligence,Kyoung Jun Lee
+38157,2,Business Intelligence,Arho Suominen
+38158,2,Business Intelligence,Qingxiong Ma
+38162,2,Business Intelligence,Goker Aydin
+38163,2,Business Intelligence,Abdul-Rahim Ahmad
+38164,2,Business Intelligence,Mohammad Alamgir Hossain
+38167,1,Business Intelligence,Michel Ballings
+38168,1,Business Intelligence,Kok-Leong Ong
+38169,1,Business Intelligence,Miguel Nicolau
+38170,1,Business Intelligence,Peiman Ghasemi
+38171,1,Business Intelligence,Steffen Bayer
+38172,1,Business Intelligence,Bharatendra Rai
+38173,1,Business Intelligence,Yan Yu
+38241,1,Business Intelligence,Koen W. De Bock
+38242,1,Business Intelligence,Douglas Alem
+38243,1,Business Intelligence,Edward Williams
+38244,1,Business Intelligence,Stefan N. Groesser
+38245,1,Business Intelligence,Houping Xiao
+38246,1,Business Intelligence,John Seydel
+38249,1,Business Intelligence,Anastasios Panagiotelis
+38250,5,Complex Systems,Michael D. Cohen
+38251,5,Complex Systems,Vito Latora
+38252,5,Complex Systems,Yamir Moreno
+38253,5,Complex Systems,Frank Jülicher
+38254,5,Complex Systems,Stefano Boccaletti
+38255,5,Complex Systems,James F. Moore
+38256,5,Complex Systems,Yaneer Bar-Yam
+38259,5,Complex Systems,Peter Sheridan Dodds
+38260,5,Complex Systems,Ernesto Estrada
+38264,5,Complex Systems,Kai Sundmacher
+38265,5,System Dynamics,Kai Sundmacher
+38266,5,Complex Systems,Peter Benner
+38267,5,System Dynamics,Peter Benner
+38268,5,Complex Systems,Norman Zabusky
+38269,5,Complex Systems,Martin Middendorf
+38270,5,Complex Systems,Andrea Cavagna
+38271,5,Complex Systems,Steffen Klamt
+38272,5,System Dynamics,Steffen Klamt
+38273,4,Complex Systems,Zhen Jin
+38287,4,Complex Systems,Irene Giardina
+38288,4,Complex Systems,Long Cheng
+38331,4,Complex Systems,Mikhail Prokopenko
+38333,4,Complex Systems,Peter Nordin
+38335,4,Complex Systems,Peter Tino
+38336,4,Complex Systems,Michael Hinze
+38337,4,Complex Systems,Aaron A. King
+38338,4,Complex Systems,Alberto d'Onofrio
+38340,4,Complex Systems,Crystal A. Kolden
+38341,4,Complex Systems,René Doursat
+38344,4,Complex Systems,Gui-Quan Sun
+38347,3,Complex Systems,Massimiliano Viale
+38348,3,Complex Systems,Andrea Puglisi
+38349,3,Complex Systems,Giuliano Benenti
+38350,3,Complex Systems,Alberto Castro
+38353,3,Complex Systems,Thomas Kreuz
+38354,3,Complex Systems,Paul Krause
+38357,3,Complex Systems,Zi-Qiang Lang
+38360,3,Complex Systems,Kristian Lindgren
+38361,3,Complex Systems,Yvonne Genzel
+38362,5,System Dynamics,Yvonne Genzel
+38363,3,Complex Systems,Kirsi Aaltonen
+38364,2,Complex Systems,Dan Braha
+38365,2,Complex Systems,Marin Bukov
+38366,2,Complex Systems,Alexander Eisfeld
+38367,2,Complex Systems,Paolo Politi
+38368,2,Complex Systems,Ofer Feinerman
+38369,2,Complex Systems,Ewa Gudowska-Nowak
+38370,2,Complex Systems,Francesca Colaiori
+38371,2,Complex Systems,Agnes Allansdottir
+38372,1,Complex Systems,Pier Luigi Gentili
+38373,1,Complex Systems,Falk K. Wittel
+38374,1,Complex Systems,Marco Patriarca
+38375,1,Complex Systems,Sarika Jalan
+38376,1,Complex Systems,Valeriy Gavrishchaka
+38377,1,Complex Systems,Martijn Warnier
+38378,1,Complex Systems,Rodrigo Gallego
+38379,1,Complex Systems,Jens Saak
+38380,4,System Dynamics,Jens Saak
+38381,1,Complex Systems,Alberto Petri
+38383,1,Complex Systems,Stefan Kettemann
+38384,1,Complex Systems,Davi R. Ortega
+38385,1,Complex Systems,Andrea Baldassarri
+38386,5,Computational Finance,Michael McAleer
+38387,5,Computational Finance,Eckhard Platen
+38388,5,Computational Finance,Carl Chiarella
+38390,5,Computational Finance,W. Brent Lindquist
+38393,5,Computational Finance,Andrea Calì
+38395,5,Computational Finance,I-Chun Tsai
+38397,5,Computational Finance,Finbarr Murphy
+38398,5,Computational Finance,Johannes Muhle-Karbe
+38399,5,Computational Finance,Georgios Sermpinis
+38400,5,Computational Finance,Robert Stelzer
+38401,5,Computational Finance,Tim Leung
+38403,5,Computational Finance,Sara Biagini
+38404,5,Computational Finance,Laura Ballotta
+38405,5,Computational Finance,Rolf Poulsen
+38406,4,Computational Finance,Timothy Mathews
+38407,4,Computational Finance,Maria do Rosário Grossinho
+38408,4,Computational Finance,Simone Giansante
+38409,4,Computational Finance,Mikko S. Pakkanen
+38410,4,Computational Finance,Kuo-Ping Chang
+38413,4,Computational Finance,Sudheer Kumar Battula
+38415,4,Computational Finance,Oleksandr Romanko
+38416,4,Computational Finance,Sung Tae Kim
+38426,4,Computational Finance,Michael Monoyios
+38427,4,Computational Finance,Stefano Herzel
+38428,4,Computational Finance,Giorgio Ferrari
+38429,4,Computational Finance,Mariarosaria Coppola
+38430,4,Computational Finance,Wan-Chien Chiu
+38431,3,Computational Finance,Mariacristina Uberti
+38432,3,Computational Finance,Wei Cui
+38498,3,Computational Finance,Elham Dastranj
+38499,3,Computational Finance,Yi Liang
+38542,3,Computational Finance,Said Jafari
+38544,3,Computational Finance,Mohsen Naderi
+38545,3,Computational Finance,Joseph Andria
+38546,3,Computational Finance,Dong Yang
+38622,2,Computational Finance,Liangliang Zhang
+38639,2,Computational Finance,Rafael Serrano
+38640,2,Computational Finance,Seyed-Mohammad-Mahdi Kazemi
+38641,2,Computational Finance,Simon-Pierre Gadoury
+38642,2,Computational Finance,Hongfei Du
+38646,2,Computational Finance,Daniel Kaiser
+38653,2,Computational Finance,Heba M. Ezzat
+38654,1,Computational Finance,Alejandro Angeli Ayello
+38655,1,Computational Finance,Qinan Wang
+38658,1,Computational Finance,Zexin Wang
+38661,1,Computational Finance,Edward Turner
+38663,1,Computational Finance,Jinghui Chen
+38669,1,Computational Finance,Uday Sharma
+38670,1,Computational Finance,Zhijiang Chen
+38671,5,Computer Aided Engineering,Karim Abdel-Malek
+38672,5,Computer Aided Engineering,Keith Case
+38673,5,Computer Aided Engineering,Keith Case
+38674,5,Computer Aided Engineering,Marina Carbone
+38675,5,Computer Aided Engineering,Chiu-Fan Hsieh
+38676,5,Computer Aided Engineering,Xiaochun Yu
+38682,5,Computer Aided Engineering,Gaurav Rajavendra Reddy
+38684,5,Computer Aided Engineering,Carlos A. Donado Morcillo
+38685,5,Computer Aided Engineering,Kang-Hung Liu
+38686,4,Computer Aided Engineering,Ahish Mysore Somashekar
+38687,4,Computer Aided Engineering,Soumya Banerjee
+38693,4,Computer Aided Engineering,Hossein Izadi Rad
+38695,4,Computer Aided Engineering,K Vijaya Lakshmi
+38696,5,Content Delivery Networks,Jon Sweeney
+38697,5,Content Delivery Networks,Carlos Diego Nascimento Damasceno
+38698,5,Artificial Intelligence Ethics,David D. Lewis
+38701,5,Artificial Intelligence Ethics,Muhammad Bilal
+38723,5,Artificial Intelligence Ethics,Serafín Moral
+38725,5,Artificial Intelligence Ethics,John Tasioulas
+38726,5,Artificial Intelligence Ethics,Kathy Baxter
+38727,5,Artificial Intelligence Ethics,Aimee van Wynsberghe
+38729,5,Artificial Intelligence Ethics,Sven Nyholm
+38730,5,Artificial Intelligence Ethics,Momin M. Malik
+38731,5,Artificial Intelligence Ethics,Orestis Papakyriakopoulos
+38732,5,Artificial Intelligence Ethics,Hasan Basri Cakmak
+38733,5,Artificial Intelligence Ethics,Styliani Kleanthous
+38737,5,Artificial Intelligence Ethics,Carina Prunkl
+38739,4,Artificial Intelligence Ethics,Matthias Uhl
+38740,4,Artificial Intelligence Ethics,James Brusseau
+38741,4,Artificial Intelligence Ethics,Abhishek Gupta
+38779,4,Artificial Intelligence Ethics,Benjamin Lange
+38781,4,Artificial Intelligence Ethics,Abdoul Jalil Djiberou Mahamadou
+38782,4,Artificial Intelligence Ethics,Connor Wright
+38783,5,Generative AI,Amjad Almahairi
+38784,5,Generative AI,Wenhan Xiong
+38785,5,Generative AI,Rui Hou
+38815,5,Generative AI,Kuldeep Singh
+38827,5,Generative AI,Tsung-Lu Michael Lee
+38828,5,Generative AI,Sungmin Hong
+38833,5,Generative AI,Atul Dhingra
+38835,5,Generative AI,Shradha Agrawal
+38836,5,Generative AI,Rahul Banerjee
+38840,5,Generative AI,Richa Mishra
+38845,5,Data Structures,Klemens Böhm
+38851,5,Data Structures,Christian Hütter
+38854,5,Data Structures,Patrick Brosi
+38855,5,Database Management Systems,Ahmed Nada
+38856,5,Digital Image Processing,Waqas Ahmad
+38869,5,Discrete Mathematics,Jens Vygen
+38872,5,Discrete Mathematics,Juhani Karhumäki
+38876,5,Discrete Mathematics,Reinhard Diestel
+38877,5,Discrete Mathematics,Sang-il Oum
+38878,5,Discrete Mathematics,Mohamed S. Ebeida
+38879,5,Discrete Mathematics,Marc Uetz
+38880,5,Discrete Mathematics,Ivan Rapaport
+38881,5,Discrete Mathematics,Alan Szepieniec
+38882,5,Discrete Mathematics,P. Katerinis
+38894,5,Discrete Mathematics,Luca San Mauro
+38895,5,Discrete Mathematics,Saedeh Foadian
+38896,5,Discrete Mathematics,Carlos Jiménez de Parga
+38897,5,Enterprise Resource Planning,Kerstin Alfes
+38898,5,Enterprise Resource Planning,Marieke van Erp
+38903,4,Enterprise Resource Planning,Teun van Erp
+38904,3,Enterprise Resource Planning,Carsten Pohl
+38905,3,Enterprise Resource Planning,Yuepei Li
+38906,2,Enterprise Resource Planning,René Schmoll
+38908,2,Enterprise Resource Planning,Hans-Peter Steinbacher
+38909,2,Enterprise Resource Planning,Mohammad Amiri
+38910,5,Evolutionary Computation,David Welch
+38915,5,Evolutionary Computation,Stephan Winkler
+38916,5,Evolutionary Computation,Arman Bilge
+38917,5,Health Informatics,Gert Pfurtscheller
+38919,5,Health Informatics,Christopher G. Chute
+38925,5,Health Informatics,Dean F. Sittig
+38929,5,Health Informatics,John Mantas
+38930,5,Health Informatics,Daniel Stahl
+38932,5,Health Informatics,Kenneth D. Mandl
+38935,5,Health Informatics,Peter White
+38947,5,Health Informatics,Andrew Wei Xu
+38948,4,Health Informatics,Hardeep Singh
+38962,4,Health Informatics,Riccardo Bellazzi
+38967,4,Health Informatics,Karen B. Eden
+38968,4,Health Informatics,Steffen Leonhardt
+38969,4,Health Informatics,Casey S. Greene
+38970,4,Health Informatics,Nicolette de Keizer
+38971,4,Health Informatics,Christina Kendziorski
+38972,4,Health Informatics,Ameen Abu-Hanna
+38973,4,Health Informatics,John H. Holmes
+38978,3,Health Informatics,Eduardo Massad
+38979,3,Health Informatics,Wanda Pratt
+38980,3,Health Informatics,Trupti Joshi
+38982,3,Health Informatics,Enrico Petretto
+38984,3,Health Informatics,Adam Wright
+38993,3,Health Informatics,Jinhua Wang
+39030,3,Health Informatics,Hugues Sicotte
+39032,3,Health Informatics,Ray Jones
+39034,3,Health Informatics,Kay Nieselt
+39035,3,Health Informatics,Heinz Handels
+39036,2,Health Informatics,Saeid Eslami
+39037,2,Health Informatics,Beth Devine
+39038,2,Health Informatics,Karl Heinz Höhne
+39045,2,Health Informatics,Niels Peek
+39046,2,Health Informatics,Anita Burgun
+39048,2,Health Informatics,Patrice Degoulet
+39050,2,Health Informatics,Aaron Lee
+39056,2,Health Informatics,Georg Dorffner
+39058,2,Health Informatics,David Kaufman
+39064,2,Health Informatics,Kensaku Kawamoto
+39066,2,Health Informatics,Dean Karavite
+39068,2,Health Informatics,Ferenc Bari
+39069,1,Health Informatics,Jiang Bian
+39085,1,Health Informatics,Kaija Saranto
+39087,1,Health Informatics,Ronald Cornet
+39090,1,Health Informatics,Sushmita Roy
+39092,1,Health Informatics,Sabine van der Veer
+39093,1,Health Informatics,Irene Schmidtmann
+39095,1,Health Informatics,Weijun Luo
+39097,1,Health Informatics,Magnus Borga
+39098,1,Health Informatics,Nabil Alrajeh
+39099,1,Health Informatics,Mihail Popescu
+39103,1,Health Informatics,Carsten Görg
+39104,1,Health Informatics,Arjun Krishnan
+39105,5,Information Security,Marten van Dijk
+39106,5,Information Security,Ashok Kumar Das
+39109,4,Information Security,Jean-Pierre Seifert
+39112,4,Information Security,Frank Stajano
+39115,3,Information Security,Julio Hernandez-Castro
+39117,2,Information Security,Feng Hao
+39123,2,Information Security,Andreas Mauthe
+39126,2,Information Security,Federico Maggi
+39127,2,Information Security,Igino Corona
+39128,1,Information Security,Flavio D. Garcia
+39129,1,Information Security,Markus Dürmuth
+39130,1,Information Security,Christopher Wolf
+39133,5,IT Governance,Robert M. Grant
+39134,5,IT Governance,Maryam Alavi
+39136,5,IT Governance,Henri Servaes
+39137,5,IT Governance,Daniele Nardi
+39142,5,IT Governance,Daniele Archibugi
+39144,5,IT Governance,Stefano Breschi
+39145,5,IT Governance,Andrea Fosfuri
+39146,5,IT Governance,Federico Frattini
+39147,5,IT Governance,Roberto Tognetti
+39148,5,IT Governance,Cipriano Forza
+39149,5,IT Governance,Vittorio Chiesa
+39151,5,IT Governance,Antonio Messeni Petruzzelli
+39152,5,IT Governance,Christian Napoli
+39154,5,IT Governance,Fabio Iraldo
+39155,4,IT Governance,Rosa Grimaldi
+39156,4,IT Governance,Fabio Pammolli
+39157,4,IT Governance,Carlo Salvato
+39158,4,IT Governance,Maurizio Sobrero
+39159,4,IT Governance,Federico Caniato
+39160,4,IT Governance,Amandeep Singh
+39172,4,IT Governance,Ivo Buchhalter
+39173,4,IT Governance,Cinzia Daraio
+39176,4,IT Governance,Ciriaco Andrea D'Angelo
+39177,4,IT Governance,Lorenzo Farina
+39178,4,IT Governance,Sergio Barile
+39179,4,IT Governance,Tommaso Agasisti
+39180,3,IT Governance,Gabriele Santoro
+39181,3,IT Governance,Giovanni Battista Dagnino
+39182,3,IT Governance,Emanuela Prandelli
+39183,3,IT Governance,Fiorenza Belussi
+39184,3,IT Governance,Francesco Polese
+39185,3,IT Governance,Niels Bjørn-Andersen
+39187,3,IT Governance,Alberto De Marco
+39188,3,IT Governance,Marco Perona
+39189,3,IT Governance,Andrea Piccaluga
+39190,3,IT Governance,Marco Raberto
+39192,3,IT Governance,Luigi Salmaso
+39193,3,IT Governance,Christiane Hipp
+39194,2,IT Governance,Fabio Nonino
+39195,2,IT Governance,Massimo Warglien
+39196,2,IT Governance,Michele Tumminello
+39197,2,IT Governance,Marika Arena
+39198,2,IT Governance,Pietro De Giovanni
+39199,2,IT Governance,Silvano Cincotti
+39200,2,IT Governance,Francesco Schiavone
+39201,2,IT Governance,Armando Papa
+39202,2,IT Governance,Eleonora Di Maria
+39204,2,IT Governance,Tiberio Daddi
+39205,2,IT Governance,Matteo Mura
+39207,2,IT Governance,Elisa Negri
+39208,1,IT Governance,Lorenzo Lucianetti
+39209,1,IT Governance,Marialuisa Saviano
+39210,1,IT Governance,Giulio Di Gravio
+39211,1,IT Governance,Francesco Caputo
+39214,1,IT Governance,Salvatore Torrisi
+39215,1,IT Governance,Claudia Colicchia
+39216,1,IT Governance,Nunzia Carbonara
+39217,1,IT Governance,Roberto Fontana
+39220,1,IT Governance,Silvia Rita Sedita
+39221,1,IT Governance,Assunta Di Vaio
+39222,1,IT Governance,Markus Beckmann
+39223,5,Knowledge Discovery,Ali Dasdan
+39226,5,Knowledge Discovery,Christos Tjortjis
+39230,5,Knowledge Discovery,Jefrey Lijffijt
+39231,5,Visual Analytics,Jefrey Lijffijt
+39232,4,Machine Intelligence,Roy Pea
+39233,4,Machine Intelligence,Janyce Wiebe
+39235,4,Machine Intelligence,Uri Wilensky
+39236,2,Machine Intelligence,Hongdong Li
+39254,4,Mobile Application Development,Arief Rahman
+39257,4,Mobile Application Development,Shravan Kumar
+39259,5,Network Management,Stephen P. Borgatti
+39261,5,Network Management,Ranveer Chandra
+39262,5,Network Management,Karen Colwill
+39263,5,Network Management,Daniel S. Halgin
+39264,5,Network Management,Pascal Kahlem
+39265,5,Network Management,John Colvin
+39266,5,Network Management,Ofer Biran
+39267,5,Network Management,Mark Gardner
+39268,4,Network Management,Csaba Kerepesi
+39269,4,Network Management,Sanjay Kumar Wadhwa
+39271,4,Network Management,Khizar Abbas
+39274,4,Network Management,Eran Raichstein
+39275,4,Network Management,Christina Chaccour
+39276,4,Network Management,Arup Raton Roy
+39277,4,Network Management,Michael Hannam
+39278,4,Network Management,Petri Niemi
+39279,3,Network Management,Ji Youn (Rose) Kim
+39280,3,Network Management,Anastasia Papadopoulou
+39281,3,Network Management,Chris Moore
+39289,3,Network Management,Youssef Tawk
+39290,3,Network Management,Kathy Benninger
+39291,2,Network Management,Ondrej Skvarek
+39292,2,Network Management,Mohammad Esmaeili
+39296,2,Network Management,Antonio Francesco Gentile
+39297,2,Network Management,Martin Kindschi
+39298,1,Network Management,Piotr Janus
+39299,1,Network Management,Hemant Jain
+39301,5,Object-Oriented Programming,Mathias Ellmann
+39302,5,Online Learning Environments,Zhen Qian
+39307,5,Performance Engineering,Alp Dener
+39309,5,Performance Engineering,Steven Firth
+39310,5,Performance Engineering,Rhys Pullin
+39311,5,Performance Engineering,David Daly
+39312,5,Performance Engineering,Zheng Chen
+39381,5,Performance Engineering,Markus Hütter
+39383,5,Performance Engineering,Simone Ferlin
+39385,5,Performance Engineering,Marjan Radi
+39386,5,Performance Engineering,Lei Chen
+39710,5,Performance Engineering,Anisha Kolasani
+39711,4,Performance Engineering,Eduardo Gallo
+39712,4,Performance Engineering,Peter Le
+39714,4,Performance Engineering,Matej Krpan
+39715,4,Performance Engineering,Jinchun Kim
+39719,4,Performance Engineering,Shashank Shekhar
+39732,4,Performance Engineering,Sangwook Shane Hahn
+39733,4,Performance Engineering,Turbo Majumder
+39734,4,Performance Engineering,Haiyang Li
+39755,4,Performance Engineering,Jason Crop
+39756,4,Performance Engineering,Martin Kennedy
+39758,4,Performance Engineering,Sung-Han Lin
+39760,4,Performance Engineering,Peter Gusev
+39761,4,Performance Engineering,Yichen Jia
+39765,3,Performance Engineering,Weile Wei
+39766,3,Performance Engineering,Seonmyeong Bak
+39769,3,Performance Engineering,Muhammad Haseeb
+39775,3,Performance Engineering,Lukas Schwalt
+39776,3,Performance Engineering,Anshuman Majumdar
+39780,2,Performance Engineering,Senthil Kumar Selvaraj
+39782,2,Performance Engineering,Tanaya Roy
+39783,2,Performance Engineering,Vasundhara Jayaraman
+39784,2,Performance Engineering,Aravind Neelakantan
+39785,2,Performance Engineering,Hadis Abarghouyi
+39786,2,Performance Engineering,Sergi Siso
+39787,2,Performance Engineering,Wei Su
+39864,1,Performance Engineering,Gaurav Kumar Singh
+39866,5,Program Analysis,Luis Javier García Villalba
+39867,5,Program Analysis,Claudia Baranzelli
+39868,5,Program Analysis,Mark D. Syer
+39869,5,Program Analysis,Baljinder Ghotra
+39870,5,Quantitative Analysis,John Barnard
+39871,5,Quantitative Analysis,Rommert Dekker
+39872,5,Quantitative Analysis,Thomas Hickler
+39874,5,Quantitative Analysis,David Kaplan
+39881,5,Quantitative Analysis,Tenko Raykov
+39882,5,Quantitative Analysis,Abdur Rahim
+39888,5,Quantitative Analysis,Martin Brunner
+39891,5,Quantitative Analysis,Vijay Saraswat
+39894,4,Quantitative Analysis,William Knottenbelt
+39895,4,Quantitative Analysis,Chris Maliepaard
+39896,4,Quantitative Analysis,José María Sarabia
+39897,4,Quantitative Analysis,David Manley
+39898,3,Quantitative Analysis,Minjeong Jeon
+39899,3,Quantitative Analysis,Dadong Wang
+39902,3,Quantitative Analysis,Jihye Kim
+39921,3,Quantitative Analysis,Mark Taylor
+39929,3,Quantitative Analysis,Laura Jones
+39931,2,Quantitative Analysis,Emilio Gómez-Déniz
+39932,2,Quantitative Analysis,Yanyan Sheng
+39934,2,Quantitative Analysis,Joerg Franke
+39935,2,Quantitative Analysis,Ioannis Andreadis
+39940,1,Quantitative Analysis,Mustafa Demir
+39943,1,Quantitative Analysis,Kostas Zafiropoulos
+39944,1,Quantitative Analysis,Dario Pescini
+39945,1,Quantitative Analysis,Boris V. Schmid
+39946,5,Remote Sensing,Feng Gao
+40114,5,Remote Sensing,Wolfgang Wagner
+40123,5,Remote Sensing,Yang Hong
+40150,5,Remote Sensing,Pablo J. Zarco-Tejada
+40151,5,Remote Sensing,Konrad Schindler
+40153,5,Remote Sensing,Geir Evensen
+40154,5,Remote Sensing,Frank Wentz
+40155,5,Remote Sensing,Alberto Moreira
+40157,5,Remote Sensing,Jin Chen
+40249,5,Remote Sensing,Arnon Karnieli
+40250,5,Remote Sensing,Jiancheng Shi
+40260,5,Remote Sensing,Peter Fisher
+40261,5,Remote Sensing,Onisimo Mutanga
+40262,5,Remote Sensing,Philip Lewis
+40264,4,Remote Sensing,Zhe Zhu
+40278,4,Remote Sensing,Miguel D. Mahecha
+40279,4,Remote Sensing,Zhihao Qin
+40288,4,Remote Sensing,Mathias Disney
+40289,4,Remote Sensing,Joachim Hill
+40290,4,Remote Sensing,Christian Heipke
+40291,4,Remote Sensing,Liangyun Liu
+40294,4,Remote Sensing,Johnny A. Johannessen
+40295,4,Remote Sensing,Ridha Touzi
+40297,4,Remote Sensing,Li Zhang
+40928,3,Remote Sensing,Lammert Kooistra
+40930,3,Remote Sensing,Richard K. Moore
+40931,3,Remote Sensing,Martin Wegmann
+40932,3,Remote Sensing,Karen Anderson
+40936,3,Remote Sensing,Gherardo Chirici
+40937,3,Remote Sensing,Txomin Hermosilla
+40938,3,Remote Sensing,Maurizio Santoro
+40939,3,Remote Sensing,Christophe Delacourt
+40940,3,Remote Sensing,Sylvain G. Leblanc
+40941,3,Remote Sensing,Sandra Luque
+40943,3,Remote Sensing,Tiejun Wang
+40955,3,Remote Sensing,Simon Jones
+40963,3,Remote Sensing,Giorgos Mountrakis
+40966,2,Remote Sensing,Jingfeng Huang
+40972,2,Remote Sensing,Carlos Roberto de Souza Filho
+40973,2,Remote Sensing,Felix Morsdorf
+40974,2,Remote Sensing,Shusen Wang
+40986,2,Remote Sensing,Ihor Smal
+40987,2,Remote Sensing,Nikos Koutsias
+40988,2,Remote Sensing,Seyed Kazem Alavipanah
+40989,2,Remote Sensing,Thomas Udelhoven
+40990,2,Remote Sensing,Wanchang Zhang
+40998,2,Remote Sensing,Xuehong Chen
+41002,2,Remote Sensing,Alexander Damm
+41003,1,Remote Sensing,Fang Qiu
+41010,1,Remote Sensing,Stefan Hasenauer
+41012,1,Remote Sensing,Lifu Zhang
+41020,1,Remote Sensing,Zhenhai Li
+41027,1,Remote Sensing,Fabio Del Frate
+41028,1,Remote Sensing,Andreas Behrendt
+41029,1,Remote Sensing,Philipp Köhler
+41030,1,Remote Sensing,Richard Sharp
+41036,1,Remote Sensing,Susan Steele-Dunne
+41037,1,Remote Sensing,Josaphat Tetuko Sri Sumantyo
+41038,1,Remote Sensing,Lorenzo Busetto
+41039,1,Remote Sensing,Mike Schwank
+41041,1,Remote Sensing,Teja Kattenborn
+41042,1,Remote Sensing,Frank Canters
+41043,5,Risk Management Systems,Marielle Stoelinga
+41044,4,Scientific Computing,David Wishart
+41045,2,Scientific Computing,Dirk Helbing
+41046,1,Scientific Computing,Paul Hopkins
+41048,5,Search Engine Optimization,Rohit Kumar
+41075,5,Sensor Networks,Huanjun Liu
+41079,5,Sensor Networks,David Holdsworth
+41080,5,Sensor Networks,Khun San Aung
+41082,5,Sensor Networks,Tobias Brosch
+41085,5,Sensor Networks,Christoph Allig
+41086,5,Sensor Networks,Christof Chlebek
+41087,5,Software Quality Assurance,Hamdy Mubarak
+41089,5,Software Quality Assurance,Noora Al Emadi
+41090,5,Software Quality Assurance,Vikash Kumar Jha
+41091,4,Software Quality Assurance,Syed Ali Hashim Moosavi
+41093,5,Software Testing,Claes Wohlin
+41100,5,Software Testing,Bertrand Meyer
+41112,5,Software Testing,Helen Sharp
+41117,5,Software Testing,Per Runeson
+41120,5,Software Testing,Jan Bosch
+41126,5,Software Testing,Philippe Kruchten
+41128,5,Software Testing,Visvanathan Ramesh
+41131,5,Software Testing,Tao Xie
+41181,5,Software Testing,Arie van Deursen
+41182,5,Software Testing,David Budgen
+41185,5,Software Testing,Gerardo Canfora
+41186,5,Software Testing,Anup Mahurkar
+41187,5,Software Testing,John Grundy
+41190,5,Software Testing,Anthony Finkelstein
+41192,4,Software Testing,Pekka Abrahamsson
+41200,4,Software Testing,Zhenfu Cao
+41214,4,Software Testing,Timo Ahonen
+41216,4,Software Testing,Tsong Yueh Chen
+41231,4,Software Testing,Alejandra Gonzalez-Beltran
+41232,4,Software Testing,Michele Marchesi
+41233,4,Software Testing,M. Ali Babar
+41237,4,Software Testing,Xin Xia
+41252,4,Software Testing,Xizhao Wang
+41274,4,Software Testing,Jean-Marc Jezequel
+41275,4,Software Testing,Jürgen Sturm
+41276,4,Software Testing,Kai Petersen
+41279,4,Software Testing,Jim Woodcock
+41280,4,Software Testing,Robert Feldt
+41282,4,Software Testing,Young-June Choi
+41284,4,Software Testing,Asaf Shabtai
+41285,4,Software Testing,Young-Bae Ko
+41287,4,Software Testing,Forrest Shull
+41291,3,Software Testing,Lin Zhang
+41558,3,Software Testing,Antonio Ruiz Cortés
+41559,3,Software Testing,Andrea Arcuri
+41561,3,Software Testing,Eric Bodden
+41565,3,Software Testing,Mauro Pezzè
+41566,3,Software Testing,Jordi Cabot
+41569,3,Software Testing,Guilherme Horta Travassos
+41572,3,Software Testing,Paul Klint
+41575,3,Software Testing,Paris Avgeriou
+41578,3,Software Testing,Alexander Serebrenik
+41580,3,Software Testing,Yuval Shahar
+41584,3,Software Testing,Katsuro Inoue
+41587,3,Software Testing,Seref Sagiroglu
+41588,3,Software Testing,Hans van Vliet
+41590,3,Software Testing,Wilhelm Hasselbring
+41591,3,Software Testing,Aiguo Patrick Hu
+41592,3,Software Testing,Andy Zaidman
+41594,3,Software Testing,Phil McMinn
+41595,3,Software Testing,Mike Hinchey
+41599,2,Software Testing,Guenther Ruhe
+41600,2,Software Testing,Reiko Heckel
+41604,2,Software Testing,Ning Cao
+41646,2,Software Testing,Ivica Crnkovic
+41648,2,Software Testing,Martin Pinzger
+41650,2,Software Testing,Stefan Wagner
+41667,2,Software Testing,Jameela Al-Jaroodi
+41669,2,Software Testing,Luiz Fernando Capretz
+41672,2,Software Testing,Aijazuddin Syed
+41674,2,Software Testing,Dimitris Kolovos
+41676,2,Software Testing,Kevin Hammond
+41680,2,Software Testing,Maria Virvou
+41681,2,Software Testing,Vahid Garousi
+41690,1,Software Testing,Kari Smolander
+41692,1,Software Testing,Bedir Tekinerdogan
+41694,1,Software Testing,J. Verner
+41697,1,Software Testing,Mark van den Brand
+41699,1,Software Testing,Alexander Chatzigeorgiou
+41700,1,Software Testing,Jun Han
+41757,1,Software Testing,Ying Zou
+41775,1,Software Testing,Xiaofan Yang
+41795,1,Software Testing,Tibor Gyimothy
+41796,1,Software Testing,Christoph Treude
+41797,1,Software Testing,Lars Grunske
+41798,1,Software Testing,Mikkel Baun Kjærgaard
+41800,1,Software Testing,Sergio Segura
+41801,1,Software Testing,Ita Richardson
+41802,1,Software Testing,Michael Mattsson
+41804,1,Software Testing,Syed Muhammad Anwar
+41806,1,Software Testing,Nilanjan Mukherjee
+41811,2,Statistical Learning,Bernd Bischl
+41813,2,Statistical Learning,Hedibert Freitas Lopes
+41814,2,Statistical Learning,Dani Ben-Zvi
+41815,5,Supply Chain Management Systems,Mike Hewitt
+41816,5,Supply Chain Management Systems,Daniel Adomako Asamoah
+41817,5,Supply Chain Management Systems,George G. Polak
+41819,5,Supply Chain Management Systems,Tomáš Trnka
+41820,5,Supply Chain Management Systems,Gita Taherkhani
+41821,5,System Dynamics,Aaron D. Ames
+41822,5,System Dynamics,Stefan Lochbrunner
+41823,5,System Dynamics,Soon-Jo Chung
+41824,5,System Dynamics,Martin Otter
+41828,5,System Dynamics,Fabian Wirth
+41830,5,System Dynamics,Houman Owhadi
+41831,5,System Dynamics,Dirk Aeyels
+41833,5,System Dynamics,Florian Holzapfel
+41837,5,System Dynamics,Hazhir Rahmandad
+41838,4,System Dynamics,Stefano Marmi
+41839,4,System Dynamics,Erling Moxnes
+41841,4,System Dynamics,Lihong Feng
+41842,4,System Dynamics,Stefan Streif
+41843,4,System Dynamics,Feliks Nüske
+41844,4,System Dynamics,Bryan Paul
+41845,4,System Dynamics,Adha Imam Cahyadi
+41846,3,System Dynamics,Miguel Abreu
+41848,3,System Dynamics,Jari Backman
+41849,3,System Dynamics,Davide Calì
+41851,3,System Dynamics,Rafael Pimentel
+41852,3,System Dynamics,Daniel Alejandro Melchor Aguilar
+41856,3,System Dynamics,Oliver Hädicke
+41857,3,System Dynamics,Amin Ardeshirdavani
+41858,3,System Dynamics,Terry Nguyen-Khuong
+41859,2,System Dynamics,Pawan Goyal
+41864,2,System Dynamics,Ion Victor Gosea
+41866,2,System Dynamics,Hao Qin
+41885,2,System Dynamics,Michael Böhm
+41888,2,System Dynamics,Yakov Frayman
+41889,2,System Dynamics,Tonametl Sanchez
+41890,2,System Dynamics,Peter Mack Grubb
+41891,1,System Dynamics,Zihao Wang
+41921,1,System Dynamics,Tommaso Brazzini
+41922,1,System Dynamics,Igor Pontes Duff
+41924,1,System Dynamics,Nikolay Pogodaev
+41927,1,System Dynamics,Kathryn Lund
+41928,1,System Dynamics,Ravi Kumar
+41941,1,System Dynamics,Dionysios Theodosis
+41943,5,System Integration,Andrew Lewis
+41952,5,System Integration,Werner Kutsch
+41953,5,System Integration,Thomas Schrefl
+41954,5,System Integration,Chris Paredis
+41955,5,System Integration,Farhang Pourboghrat
+41956,5,System Integration,William Merrill
+41958,5,System Integration,Haitao Liao
+41963,5,System Integration,Frank Flemisch
+41965,5,System Integration,Cathy H. Xia
+41966,5,System Integration,Qiang Li
+42277,5,System Integration,Neil Johnson
+42283,4,System Integration,Raj Gupta
+42286,4,System Integration,David Golightly
+42287,4,System Integration,Lena Pareto
+42288,4,System Integration,Jarrod Trevathan
+42289,4,System Integration,Khaled Saleh
+42293,4,System Integration,Guo Zhao
+42298,4,System Integration,Johann Fischbacher
+42300,3,System Integration,Lorenzo Ciampolini
+42302,3,System Integration,Harald Özelt
+42303,3,System Integration,Michael Jank
+42304,3,System Integration,Alexander Kovacs
+42306,3,System Integration,Behnam Khaki
+42307,3,System Integration,Anshul Agarwal
+42308,3,System Integration,Philipp Mayer
+42311,3,System Integration,Alfio Di Mauro
+42312,2,System Integration,Sandro Belfanti
+42313,2,System Integration,Torvald Mårtensson
+42314,2,System Integration,Van-Phuc Hoang
+42316,2,System Integration,Friedrich Krebs
+42318,2,System Integration,Anwar Said
+42320,2,System Integration,Giovanni Rovere
+42321,2,System Integration,Manuel Eggimann
+42322,2,System Integration,Juyeop Kim
+42324,2,System Integration,Will Hedgecock
+42325,2,System Integration,Pirmin Vogel
+42327,2,System Integration,Magno Guedes
+42329,2,System Integration,Modar Shbat
+42331,1,System Integration,Yu Jiang
+42407,1,System Integration,Gabriel Campero Durand
+42408,1,System Integration,Jacob R. Stevens
+42409,1,System Integration,Seyed Hadi Mirfarshbafan
+42411,1,System Integration,Hangi Park
+42412,1,System Integration,Nikolaus Schmidt
+42413,1,System Integration,Gul Zameen Khan
+42414,1,System Integration,Mehdi Pirahandeh
+42415,5,Text Analytics,Sophia Ananiadou
+42418,5,Text Analytics,Kalina Bontcheva
+42421,5,Text Analytics,Kevin Bretonnel Cohen
+42423,5,Text Analytics,John McNaught
+42424,5,Text Analytics,Tianlin Zhang
+42427,5,Text Analytics,Caroline McKinnon
+42428,4,Visual Analytics,Caroline McKinnon
+42429,5,Text Analytics,Eric Harvey
+42430,5,User Interface Design,Sukirno
+42431,4,User Interface Design,Majid Moghadam
+42432,4,User Interface Design,David Maxwell
+42435,4,User Interface Design,Arash Shahin
+42436,4,User Interface Design,Kumiko Ui-Tei
+42437,4,User Interface Design,Kamran Ghaedi
+42438,3,User Interface Design,Akinyinka Omigbodun
+42439,3,User Interface Design,Nader Rahnama
+42440,2,User Interface Design,Achmad Nizar Hidayanto
+42441,2,User Interface Design,Siti Aminah
+42443,2,User Interface Design,Temitope Raphael Ayodele
+42444,1,User Interface Design,Hendra Gunawan
+42446,5,Virtualization Technology,Viswanath Venkatesh
+42450,5,Virtualization Technology,Fred C. Lee
+42451,5,Virtualization Technology,Kevin Pitts
+42452,5,Virtualization Technology,Leo Piilonen
+42453,5,Virtualization Technology,Michael Hughes
+42460,5,Virtualization Technology,Warren K. Bickel
+42461,5,Virtualization Technology,Dwight Viehland
+42462,5,Virtualization Technology,Dushan Boroyevich
+42463,5,Virtualization Technology,Wenjing Lou
+42465,5,Virtualization Technology,Read Montague
+42466,5,Virtualization Technology,Hanif D. Sherali
+42473,5,Virtualization Technology,Robert M. Jones
+42474,4,Virtualization Technology,Robert J. Bodnar
+42475,4,Virtualization Technology,David S. Lindsay
+42484,4,Virtualization Technology,Alexey Onufriev
+42485,4,Virtualization Technology,Thomas Fox
+42488,4,Virtualization Technology,Arun Phadke
+42489,4,Virtualization Technology,Zhen Yan
+42500,4,Virtualization Technology,Liu Bo
+42518,4,Virtualization Technology,John J. Tyson
+42519,4,Virtualization Technology,Marc Edwards
+42520,4,Virtualization Technology,Rolando Burgos
+42523,4,Virtualization Technology,Romesh C. Batra
+42524,3,Virtualization Technology,James Thorp
+42526,3,Virtualization Technology,Chang-Tien Lu
+42529,3,Virtualization Technology,William H. Woodall
+42531,3,Virtualization Technology,Roderick V. Jensen
+42532,3,Virtualization Technology,Ramprasaath R. Selvaraju
+42533,3,Virtualization Technology,Hesham A. Rakha
+42534,3,Virtualization Technology,Doug A. Bowman
+42535,3,Virtualization Technology,Chen-Ching Liu
+42544,2,Virtualization Technology,Stephen A. Smith
+42546,2,Virtualization Technology,Saifur Rahman
+42553,2,Virtualization Technology,E. Scott Geller
+42554,2,Virtualization Technology,Liwu Li
+42575,2,Virtualization Technology,Patrick Huber
+42582,2,Virtualization Technology,Rafael V. Davalos
+42583,1,Virtualization Technology,Robert Moore
+42589,1,Virtualization Technology,Dong Wang
+42895,5,Visual Analytics,Jo Wood
+42897,5,Visual Analytics,Stefan Bruckner
+42899,5,Visual Analytics,Michel A. Westenberg
+42900,5,Visual Analytics,Mehrdad Rostami
+42902,5,Visual Analytics,Stef van den Elzen
+42903,5,Visual Analytics,John Wenskovitch
+42904,5,Visual Analytics,Mark Philip Philipsen
+42905,5,Visual Analytics,Matteo Pedone
+42906,5,Visual Analytics,Yingyue Xu
+42913,5,Visual Analytics,Alessio Arleo
+42914,4,Visual Analytics,Teemu Nyländen
+42915,4,Visual Analytics,Linda Pfeiffer
+42916,4,Visual Analytics,Angelos Fylakis
+42917,4,Visual Analytics,Atif Shah
+42918,4,Visual Analytics,Mehdi Safarpour
+42919,4,Visual Analytics,Riku Hietaniemi
+42920,4,Visual Analytics,Matthew Chambers
+42922,4,Visual Analytics,Muhammad Awais Aslam
+42923,5,Web Services,Ora Lassila
+42925,5,Web Services,Hugo Krawczyk
+42930,5,Web Services,Wei Zhang
+43869,5,Workflow Management,Wei Zhang
+44808,5,Web Services,Leonardo de Moura
+44810,5,Web Services,Douglas Terry
+44811,5,Web Services,Tal Rabin
+44815,5,Web Services,Yuanjun Xiong
+44818,5,Web Services,Rubén Ruiz
+44821,5,Web Services,Nathan Binkert
+44822,5,Web Services,Kumar Chellapilla
+44824,5,Web Services,David Wipf
+44825,5,Web Services,Vittorio Castelli
+44831,5,Web Services,Alex Retzker
+44832,5,Web Services,Denis Foo Kune
+44833,5,Web Services,Ben Liblit
+44834,5,Web Services,Helmut G. Katzgraber
+44836,4,Web Services,Jean-Marc Valin
+44840,4,Web Services,Bruno Dutertre
+44843,4,Web Services,Sudipto Das
+44844,4,Web Services,Elman Mansimov
+44845,4,Web Services,Muhammad Bilal Zafar
+44847,4,Web Services,Binh Nguyen
+44857,4,Web Services,Shuai Zhang
+44996,4,Web Services,Emina Torlak
+44997,4,Web Services,Seongik Hong
+45000,4,Web Services,Andrew Reynolds
+45002,4,Web Services,Jan Gasthaus
+45003,4,Web Services,Anna Liu
+45014,4,Web Services,Richard Giuli
+45015,4,Web Services,Fernando Izquierdo-Carrasco
+45017,4,Web Services,Youngchoon Park
+45019,4,Web Services,Ippokratis Pandis
+45021,4,Web Services,Serdar Tasiran
+45024,3,Web Services,Syed Ali Khayam
+45026,3,Web Services,Shoko Utsunomiya
+45027,3,Web Services,Dejan Jovanović
+45030,3,Web Services,Amogh Dhamdhere
+45033,3,Web Services,Ran Ding
+45042,3,Web Services,Ariella Sasson
+45045,3,Web Services,David Perello
+45047,3,Web Services,Matthew Campagna
+45049,3,Web Services,Martin Wistuba
+45053,3,Web Services,Arvindh Krishnaswamy
+45055,2,Web Services,Alessandro Achille
+45056,2,Web Services,Kemal Karakayali
+45057,2,Web Services,Puneet Gupta
+45066,2,Web Services,Fabrice Benhamouda
+45068,2,Web Services,Zhilu Zhang
+45069,2,Web Services,Liana Hadarean
+45070,2,Web Services,Ahmed Elmokashfi
+45073,2,Web Services,Seyed Omid Sadjadi
+45075,2,Web Services,Jiani Zhang
+45078,2,Web Services,Jonathan Bright
+45079,2,Web Services,Baris Coskun
+45080,2,Web Services,Neha Rungta
+45082,2,Web Services,Liangfu Chen
+45085,1,Web Services,Yuting Zhang
+45110,1,Web Services,Michael Emmi
+45112,1,Web Services,Rasool Fakoor
+45113,1,Web Services,Patrick W. Dowd
+45118,1,Web Services,Kavosh Asadi
+45119,1,Web Services,Jingchao Ni
+45120,1,Web Services,Daniele Angelosante
+45122,1,Web Services,Soonho Kong
+45124,1,Web Services,Song Feng
+45133,1,Web Services,Surendar Chandra
+45138,1,Web Services,Ji Xu
+45167,5,Workflow Management,Jürgen Moormann
+45168,5,Workflow Management,Daniel Carpenter
+45169,5,Workflow Management,Hartini Ahmad
+45170,5,Workflow Management,Katarzyna Rybak
+45171,4,Workflow Management,Kati Kuusinen
+45173,4,Workflow Management,Gerhard Halmerbauer
+45174,4,Workflow Management,Anthony Longjas
+45175,4,Workflow Management,Dirk Müller
+45180,4,Workflow Management,Alessandro Terenzi
+45183,4,Workflow Management,Yong Miao
+45184,4,Workflow Management,Feng Zhang
+45384,3,Workflow Management,Michael M. Clark
+45385,3,Workflow Management,Rainer Kärgel
+45387,3,Workflow Management,Nipun Garg
+45388,3,Workflow Management,Vadim Denisov
+45389,2,Workflow Management,Shrikant Kulkarni
