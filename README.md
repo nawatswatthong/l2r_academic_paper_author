@@ -2,7 +2,7 @@
 
 Our project develops a sophisticated search engine for academic research, aimed at simplifying the discovery of research articles, advisors, and institutions aligned with specific research interests. Building on the initial motivation to bridge the gap in finding suitable academic collaborations, our system uses a rich dataset from the ArnetMiner Citation Network. We've integrated advanced 'Learning to Rank' algorithms, specifically the LGBMRanker, enhanced with TF_IDF related features, extracted citation network features, and cross encoder scores. This approach has led to the successful construction of a system that effectively ranks academic authors and research papers. We propose three distinct models for author ranking, evaluated using both MAP and NCDG metrics. The future vision of this project includes expanding the model to query institutions and research centers, offering a valuable tool for researchers seeking optimal alignment with their research interests.
 
-### Files in codes folder
+### Files in `codes` folder
 
 #### `paper_data_fetching.ipynb`
 - Jupyter Notebook for fetching paper data from Google Scholar
