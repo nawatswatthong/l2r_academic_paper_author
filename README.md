@@ -61,7 +61,5 @@ Our project develops a sophisticated search engine for academic research, aimed 
 - run `paper_data_fetching.ipynb` and `author_data_fetching.ipynb`
 
 3. IR main notebooks
-- run `main_paper.ipynb`
-- These notebooks contain interactive cells to execute tasks related to papers
-- run `main_author.ipynb`
-- These notebooks contain interactive cells to execute specific tasks related to authors
+- run `main_paper.ipynb`, the notebook containing interactive cells to execute tasks related to papers
+- run `main_author.ipynb`, the notebook containing interactive cells to execute specific tasks related to authors
