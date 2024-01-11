@@ -50,7 +50,7 @@ Our project develops a sophisticated search engine for academic research, aimed 
 ### Usage Instructions
 0. download dataset and edit data path
 - download DBLP+Citation, ACM Citation network data version 12 from http://www.arnetminer.org/citation
-- edit your data path at `SCRACTCH_PATH` variable in `constants.py`
+- edit your data path at `SCRATCH_PATH` variable in `constants.py`
 
 1. Preprocessing documents
 - Run `database_extraction.ipynb` to preprocess and indexing the documents
@@ -63,6 +63,5 @@ Our project develops a sophisticated search engine for academic research, aimed 
 3. IR main notebooks
 - run `main_paper.ipynb`
 - These notebooks contain interactive cells to execute tasks related to papers
-
 - run `main_author.ipynb`
 - These notebooks contain interactive cells to execute specific tasks related to authors
